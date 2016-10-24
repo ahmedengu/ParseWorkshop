@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" name="Delete" cloudDestinationProperty="Delete" layout="BorderLayout" borderLayoutAbsoluteCenter="false" title="Delete" >
+  <component type="MultiList" name="MyTodos" cloudDestinationProperty="MyTodos" >
+    <layoutConstraint value="North" />
+    <mapItems>
+      <stringItem key="Line2" value="more..." />
+      <stringItem key="Line1" value="Entry 1" />
+    </mapItems>
+    <mapItems>
+      <stringItem key="Line2" value="more..." />
+      <stringItem key="Line1" value="Entry 2" />
+    </mapItems>
+    <mapItems>
+      <stringItem key="Line2" value="more..." />
+      <stringItem key="Line1" value="Entry 3" />
+    </mapItems>
+    <custom name="emblemName" type="java.lang.String" value="emblemm" />
+    <custom name="checkBox" type="java.lang.Boolean" value="false" />
+  </component>
+<command name="" id="3" action="Home" backCommand="true" /></component>

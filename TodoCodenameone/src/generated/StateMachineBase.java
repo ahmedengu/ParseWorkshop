@@ -34,8 +34,8 @@ public abstract class StateMachineBase extends UIBuilder {
     public Container startApp(Resources res, String resPath, boolean loadTheme) {
         initVars();
         UIBuilder.registerCustomComponent("Container", com.codename1.ui.Container.class);
-        UIBuilder.registerCustomComponent("Button", com.codename1.ui.Button.class);
         UIBuilder.registerCustomComponent("Form", com.codename1.ui.Form.class);
+        UIBuilder.registerCustomComponent("Button", com.codename1.ui.Button.class);
         UIBuilder.registerCustomComponent("Dialog", com.codename1.ui.Dialog.class);
         UIBuilder.registerCustomComponent("TextField", com.codename1.ui.TextField.class);
         UIBuilder.registerCustomComponent("MultiList", com.codename1.ui.list.MultiList.class);
@@ -74,8 +74,8 @@ public abstract class StateMachineBase extends UIBuilder {
     public Container createWidget(Resources res, String resPath, boolean loadTheme) {
         initVars();
         UIBuilder.registerCustomComponent("Container", com.codename1.ui.Container.class);
-        UIBuilder.registerCustomComponent("Button", com.codename1.ui.Button.class);
         UIBuilder.registerCustomComponent("Form", com.codename1.ui.Form.class);
+        UIBuilder.registerCustomComponent("Button", com.codename1.ui.Button.class);
         UIBuilder.registerCustomComponent("Dialog", com.codename1.ui.Dialog.class);
         UIBuilder.registerCustomComponent("TextField", com.codename1.ui.TextField.class);
         UIBuilder.registerCustomComponent("MultiList", com.codename1.ui.list.MultiList.class);
@@ -128,18 +128,6 @@ public abstract class StateMachineBase extends UIBuilder {
         return cmp;
     }
 
-    public com.codename1.ui.TextField findTask(Component root) {
-        return (com.codename1.ui.TextField)findByName("Task", root);
-    }
-
-    public com.codename1.ui.TextField findTask() {
-        com.codename1.ui.TextField cmp = (com.codename1.ui.TextField)findByName("Task", Display.getInstance().getCurrent());
-        if(cmp == null && aboutToShowThisContainer != null) {
-            cmp = (com.codename1.ui.TextField)findByName("Task", aboutToShowThisContainer);
-        }
-        return cmp;
-    }
-
     public com.codename1.ui.Container findContainer(Component root) {
         return (com.codename1.ui.Container)findByName("Container", root);
     }
@@ -148,6 +136,18 @@ public abstract class StateMachineBase extends UIBuilder {
         com.codename1.ui.Container cmp = (com.codename1.ui.Container)findByName("Container", Display.getInstance().getCurrent());
         if(cmp == null && aboutToShowThisContainer != null) {
             cmp = (com.codename1.ui.Container)findByName("Container", aboutToShowThisContainer);
+        }
+        return cmp;
+    }
+
+    public com.codename1.ui.TextField findTask(Component root) {
+        return (com.codename1.ui.TextField)findByName("Task", root);
+    }
+
+    public com.codename1.ui.TextField findTask() {
+        com.codename1.ui.TextField cmp = (com.codename1.ui.TextField)findByName("Task", Display.getInstance().getCurrent());
+        if(cmp == null && aboutToShowThisContainer != null) {
+            cmp = (com.codename1.ui.TextField)findByName("Task", aboutToShowThisContainer);
         }
         return cmp;
     }
@@ -213,8 +213,13 @@ public abstract class StateMachineBase extends UIBuilder {
     }
 
     public static final int COMMAND_HomeAdd = 1;
+    public static final int COMMAND_DeleteCommand3 = 3;
 
     protected boolean onHomeAdd() {
+        return false;
+    }
+
+    protected boolean onDeleteCommand3() {
         return false;
     }
 
@@ -227,6 +232,13 @@ public abstract class StateMachineBase extends UIBuilder {
                 }
                 break;
 
+            case COMMAND_DeleteCommand3:
+                if(onDeleteCommand3()) {
+                    ev.consume();
+                    return;
+                }
+                break;
+
         }
         if(ev.getComponent() != null) {
             handleComponentAction(ev.getComponent(), ev);
@@ -234,14 +246,20 @@ public abstract class StateMachineBase extends UIBuilder {
     }
 
     protected void exitForm(Form f) {
-        if("Add".equals(f.getName())) {
-            exitAdd(f);
+        if("Delete".equals(f.getName())) {
+            exitDelete(f);
             aboutToShowThisContainer = null;
             return;
         }
 
         if("Login".equals(f.getName())) {
             exitLogin(f);
+            aboutToShowThisContainer = null;
+            return;
+        }
+
+        if("Add".equals(f.getName())) {
+            exitAdd(f);
             aboutToShowThisContainer = null;
             return;
         }
@@ -256,11 +274,15 @@ public abstract class StateMachineBase extends UIBuilder {
     }
 
 
-    protected void exitAdd(Form f) {
+    protected void exitDelete(Form f) {
     }
 
 
     protected void exitLogin(Form f) {
+    }
+
+
+    protected void exitAdd(Form f) {
     }
 
 
@@ -269,14 +291,20 @@ public abstract class StateMachineBase extends UIBuilder {
 
     protected void beforeShow(Form f) {
     aboutToShowThisContainer = f;
-        if("Add".equals(f.getName())) {
-            beforeAdd(f);
+        if("Delete".equals(f.getName())) {
+            beforeDelete(f);
             aboutToShowThisContainer = null;
             return;
         }
 
         if("Login".equals(f.getName())) {
             beforeLogin(f);
+            aboutToShowThisContainer = null;
+            return;
+        }
+
+        if("Add".equals(f.getName())) {
+            beforeAdd(f);
             aboutToShowThisContainer = null;
             return;
         }
@@ -291,11 +319,15 @@ public abstract class StateMachineBase extends UIBuilder {
     }
 
 
-    protected void beforeAdd(Form f) {
+    protected void beforeDelete(Form f) {
     }
 
 
     protected void beforeLogin(Form f) {
+    }
+
+
+    protected void beforeAdd(Form f) {
     }
 
 
@@ -304,14 +336,20 @@ public abstract class StateMachineBase extends UIBuilder {
 
     protected void beforeShowContainer(Container c) {
         aboutToShowThisContainer = c;
-        if("Add".equals(c.getName())) {
-            beforeContainerAdd(c);
+        if("Delete".equals(c.getName())) {
+            beforeContainerDelete(c);
             aboutToShowThisContainer = null;
             return;
         }
 
         if("Login".equals(c.getName())) {
             beforeContainerLogin(c);
+            aboutToShowThisContainer = null;
+            return;
+        }
+
+        if("Add".equals(c.getName())) {
+            beforeContainerAdd(c);
             aboutToShowThisContainer = null;
             return;
         }
@@ -326,7 +364,7 @@ public abstract class StateMachineBase extends UIBuilder {
     }
 
 
-    protected void beforeContainerAdd(Container c) {
+    protected void beforeContainerDelete(Container c) {
     }
 
 
@@ -334,18 +372,28 @@ public abstract class StateMachineBase extends UIBuilder {
     }
 
 
+    protected void beforeContainerAdd(Container c) {
+    }
+
+
     protected void beforeContainerHome(Container c) {
     }
 
     protected void postShow(Form f) {
-        if("Add".equals(f.getName())) {
-            postAdd(f);
+        if("Delete".equals(f.getName())) {
+            postDelete(f);
             aboutToShowThisContainer = null;
             return;
         }
 
         if("Login".equals(f.getName())) {
             postLogin(f);
+            aboutToShowThisContainer = null;
+            return;
+        }
+
+        if("Add".equals(f.getName())) {
+            postAdd(f);
             aboutToShowThisContainer = null;
             return;
         }
@@ -360,7 +408,7 @@ public abstract class StateMachineBase extends UIBuilder {
     }
 
 
-    protected void postAdd(Form f) {
+    protected void postDelete(Form f) {
     }
 
 
@@ -368,18 +416,28 @@ public abstract class StateMachineBase extends UIBuilder {
     }
 
 
+    protected void postAdd(Form f) {
+    }
+
+
     protected void postHome(Form f) {
     }
 
     protected void postShowContainer(Container c) {
-        if("Add".equals(c.getName())) {
-            postContainerAdd(c);
+        if("Delete".equals(c.getName())) {
+            postContainerDelete(c);
             aboutToShowThisContainer = null;
             return;
         }
 
         if("Login".equals(c.getName())) {
             postContainerLogin(c);
+            aboutToShowThisContainer = null;
+            return;
+        }
+
+        if("Add".equals(c.getName())) {
+            postContainerAdd(c);
             aboutToShowThisContainer = null;
             return;
         }
@@ -394,7 +452,7 @@ public abstract class StateMachineBase extends UIBuilder {
     }
 
 
-    protected void postContainerAdd(Container c) {
+    protected void postContainerDelete(Container c) {
     }
 
 
@@ -402,18 +460,28 @@ public abstract class StateMachineBase extends UIBuilder {
     }
 
 
+    protected void postContainerAdd(Container c) {
+    }
+
+
     protected void postContainerHome(Container c) {
     }
 
     protected void onCreateRoot(String rootName) {
-        if("Add".equals(rootName)) {
-            onCreateAdd();
+        if("Delete".equals(rootName)) {
+            onCreateDelete();
             aboutToShowThisContainer = null;
             return;
         }
 
         if("Login".equals(rootName)) {
             onCreateLogin();
+            aboutToShowThisContainer = null;
+            return;
+        }
+
+        if("Add".equals(rootName)) {
+            onCreateAdd();
             aboutToShowThisContainer = null;
             return;
         }
@@ -428,11 +496,15 @@ public abstract class StateMachineBase extends UIBuilder {
     }
 
 
-    protected void onCreateAdd() {
+    protected void onCreateDelete() {
     }
 
 
     protected void onCreateLogin() {
+    }
+
+
+    protected void onCreateAdd() {
     }
 
 
@@ -441,14 +513,20 @@ public abstract class StateMachineBase extends UIBuilder {
 
     protected Hashtable getFormState(Form f) {
         Hashtable h = super.getFormState(f);
-        if("Add".equals(f.getName())) {
-            getStateAdd(f, h);
+        if("Delete".equals(f.getName())) {
+            getStateDelete(f, h);
             aboutToShowThisContainer = null;
             return h;
         }
 
         if("Login".equals(f.getName())) {
             getStateLogin(f, h);
+            aboutToShowThisContainer = null;
+            return h;
+        }
+
+        if("Add".equals(f.getName())) {
+            getStateAdd(f, h);
             aboutToShowThisContainer = null;
             return h;
         }
@@ -463,11 +541,15 @@ public abstract class StateMachineBase extends UIBuilder {
     }
 
 
-    protected void getStateAdd(Form f, Hashtable h) {
+    protected void getStateDelete(Form f, Hashtable h) {
     }
 
 
     protected void getStateLogin(Form f, Hashtable h) {
+    }
+
+
+    protected void getStateAdd(Form f, Hashtable h) {
     }
 
 
@@ -476,14 +558,20 @@ public abstract class StateMachineBase extends UIBuilder {
 
     protected void setFormState(Form f, Hashtable state) {
         super.setFormState(f, state);
-        if("Add".equals(f.getName())) {
-            setStateAdd(f, state);
+        if("Delete".equals(f.getName())) {
+            setStateDelete(f, state);
             aboutToShowThisContainer = null;
             return;
         }
 
         if("Login".equals(f.getName())) {
             setStateLogin(f, state);
+            aboutToShowThisContainer = null;
+            return;
+        }
+
+        if("Add".equals(f.getName())) {
+            setStateAdd(f, state);
             aboutToShowThisContainer = null;
             return;
         }
@@ -498,11 +586,15 @@ public abstract class StateMachineBase extends UIBuilder {
     }
 
 
-    protected void setStateAdd(Form f, Hashtable state) {
+    protected void setStateDelete(Form f, Hashtable state) {
     }
 
 
     protected void setStateLogin(Form f, Hashtable state) {
+    }
+
+
+    protected void setStateAdd(Form f, Hashtable state) {
     }
 
 
@@ -530,13 +622,9 @@ public abstract class StateMachineBase extends UIBuilder {
             c = c.getParent().getLeadParent();
         }
         if(rootContainerName == null) return;
-        if(rootContainerName.equals("Add")) {
-            if("Task".equals(c.getName())) {
-                onAdd_TaskAction(c, event);
-                return;
-            }
-            if("Add".equals(c.getName())) {
-                onAdd_AddAction(c, event);
+        if(rootContainerName.equals("Delete")) {
+            if("MyTodos".equals(c.getName())) {
+                onDelete_MyTodosAction(c, event);
                 return;
             }
         }
@@ -558,22 +646,29 @@ public abstract class StateMachineBase extends UIBuilder {
                 return;
             }
         }
-        if(rootContainerName.equals("Home")) {
-            if("MyTodos".equals(c.getName())) {
-                onHome_MyTodosAction(c, event);
+        if(rootContainerName.equals("Add")) {
+            if("Task".equals(c.getName())) {
+                onAdd_TaskAction(c, event);
                 return;
             }
             if("Add".equals(c.getName())) {
+                onAdd_AddAction(c, event);
+                return;
+            }
+        }
+        if(rootContainerName.equals("Home")) {
+            if("Add".equals(c.getName())) {
                 onHome_AddAction(c, event);
+                return;
+            }
+            if("MyTodos".equals(c.getName())) {
+                onHome_MyTodosAction(c, event);
                 return;
             }
         }
     }
 
-      protected void onAdd_TaskAction(Component c, ActionEvent event) {
-      }
-
-      protected void onAdd_AddAction(Component c, ActionEvent event) {
+      protected void onDelete_MyTodosAction(Component c, ActionEvent event) {
       }
 
       protected void onLogin_UsernameAction(Component c, ActionEvent event) {
@@ -588,10 +683,16 @@ public abstract class StateMachineBase extends UIBuilder {
       protected void onLogin_RegisterAction(Component c, ActionEvent event) {
       }
 
-      protected void onHome_MyTodosAction(Component c, ActionEvent event) {
+      protected void onAdd_TaskAction(Component c, ActionEvent event) {
+      }
+
+      protected void onAdd_AddAction(Component c, ActionEvent event) {
       }
 
       protected void onHome_AddAction(Component c, ActionEvent event) {
+      }
+
+      protected void onHome_MyTodosAction(Component c, ActionEvent event) {
       }
 
 }

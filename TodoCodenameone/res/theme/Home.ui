@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <component type="Form" name="Home" cloudDestinationProperty="Home" layout="BorderLayout" borderLayoutAbsoluteCenter="false" title="Home" >
+  <component type="Button" name="Add" cloudDestinationProperty="Add" commandName="Add" commandId="1" commandAction="Add" commandBack="false" text="Add" >
+    <layoutConstraint value="South" />
+  </component>
   <component type="MultiList" name="MyTodos" cloudDestinationProperty="MyTodos" >
-    <layoutConstraint value="Center" />
+    <layoutConstraint value="North" />
     <mapItems>
       <stringItem key="Line2" value="more..." />
       <stringItem key="Line1" value="Entry 1" />
@@ -16,8 +19,5 @@
       <stringItem key="Line1" value="Entry 3" />
     </mapItems>
     <custom name="checkBox" type="java.lang.Boolean" value="true" />
-  </component>
-  <component type="Button" name="Add" cloudDestinationProperty="Add" commandName="Add" commandId="1" commandAction="Add" commandBack="false" text="Add" >
-    <layoutConstraint value="South" />
   </component>
 </component>

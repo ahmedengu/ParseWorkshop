@@ -9,9 +9,7 @@ package userclasses;
 
 import com.codename1.components.InfiniteProgress;
 import com.codename1.components.ToastBar;
-import com.codename1.ui.Component;
-import com.codename1.ui.Dialog;
-import com.codename1.ui.List;
+import com.codename1.ui.*;
 import com.codename1.ui.events.ActionEvent;
 import com.codename1.ui.list.MultiList;
 import com.codename1.ui.util.Resources;
@@ -49,8 +47,9 @@ public class StateMachine extends StateMachineBase {
             user.login();
             if (user.isAuthenticated()) {
                 hideBlocking();
-                showForm("Home", null);
                 ToastBar.showErrorMessage("Welcome Back");
+
+                showForm("Home", null);
             }
         } catch (ParseException e) {
             e.printStackTrace();
@@ -67,8 +66,9 @@ public class StateMachine extends StateMachineBase {
             user.signUp();
             if (user.isAuthenticated()) {
                 hideBlocking();
-                showForm("Home", null);
                 ToastBar.showErrorMessage("Welcome");
+
+                showForm("Home", null);
             }
         } catch (ParseException e) {
             e.printStackTrace();
@@ -90,7 +90,9 @@ public class StateMachine extends StateMachineBase {
             hideBlocking();
         } catch (ParseException e) {
             e.printStackTrace();
+            ToastBar.showErrorMessage(e.getMessage());
         }
+        showForm("Home", null);
     }
 
     @Override
@@ -104,15 +106,17 @@ public class StateMachine extends StateMachineBase {
             for (int i = 0; i < list.size(); i++) {
                 Map<String, Object> d = new HashMap<>();
                 d.put("Line1", list.get(i).getString("data"));
-                d.put("emblem", list.get(i).get("checked").toString());
+
+                d.put("emblem", list.get(i).getBoolean("checked"));
                 d.put("object", list.get(i));
                 mapList.add(d);
             }
+            hideBlocking();
         } catch (ParseException e) {
             e.printStackTrace();
+            ToastBar.showErrorMessage(e.getMessage());
         }
         cmp.setModel(new com.codename1.ui.list.DefaultListModel(mapList));
-        hideBlocking();
         return true;
     }
 
@@ -126,13 +130,12 @@ public class StateMachine extends StateMachineBase {
             task.put("checked", false);
             showBlocking();
             task.save();
+            hideBlocking();
         } catch (ParseException e) {
             e.printStackTrace();
-            hideBlocking();
             ToastBar.showErrorMessage(e.getMessage());
         }
         showForm("Home", null);
-        hideBlocking();
     }
 
 
@@ -147,5 +150,39 @@ public class StateMachine extends StateMachineBase {
     void hideBlocking() {
         if (blockDialog != null)
             blockDialog.dispose();
+    }
+
+
+    @Override
+    protected void onDelete_MyTodosAction(Component c, ActionEvent event) {
+        try {
+            HashMap<String, Object> item = (HashMap<String, Object>) ((MultiList) c).getSelectedItem();
+            ParseObject object = (ParseObject) item.get("object");
+            showBlocking();
+            object.delete();
+            hideBlocking();
+        } catch (ParseException e) {
+            e.printStackTrace();
+            ToastBar.showErrorMessage(e.getMessage());
+        }
+        showForm("Delete", null);
+
+    }
+
+    @Override
+    protected boolean allowBackTo(String formName) {
+        if (formName.equals("Login"))
+            return false;
+        return super.allowBackTo(formName);
+    }
+
+    @Override
+    protected void beforeHome(Form f) {
+        f.getToolbar().addCommandToRightBar(new Command("Delete") {
+            @Override
+            public void actionPerformed(ActionEvent evt) {
+                showForm("Delete", null);
+            }
+        });
     }
 }
