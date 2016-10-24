@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Dialog" name="Add" cloudDestinationProperty="Add" layout="BoxLayout" boxLayoutAxis="Y" title="Add" disposeWhenPointerOutOfBounds="true" >
+  <component type="TextField" name="Task" cloudBoundProperty="text" cloudDestinationProperty="Task" text="" hint="Task" >
+  </component>
+  <component type="Button" name="Add" cloudDestinationProperty="Add" text="Add" >
+  </component>
+</component>

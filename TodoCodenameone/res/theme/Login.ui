@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" name="Login" cloudDestinationProperty="Login" layout="FlowLayout" flowLayoutFillRows="false" flowLayoutAlign="4" flowLayoutValign="4" title="Login/Signup" >
+  <component type="Container" name="Container" cloudDestinationProperty="Container" layout="BoxLayout" boxLayoutAxis="Y" >
+    <component type="TextField" name="Username" cloudBoundProperty="text" cloudDestinationProperty="Username" text="" hint="Username" >
+    </component>
+    <component type="TextField" name="Password" cloudBoundProperty="text" cloudDestinationProperty="Password" text="" constraint="65536" hint="Password" >
+    </component>
+    <component type="Button" name="Login" cloudDestinationProperty="Login" text="Login" >
+    </component>
+    <component type="Button" name="Register" cloudDestinationProperty="Register" text="Register" >
+    </component>
+  </component>
+</component>
