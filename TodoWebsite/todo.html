@@ -39,16 +39,9 @@
                 query.equalTo("user", Parse.User.current());
                 query.find(
                         function (results) {
-                            if (results.length > 0) {
-                                console.log(results);
-                                $scope.tasks = results.map(function (obj) {
-                                    return {data: obj.get("data"), checked: obj.get("checked"), parseObject: obj};
-                                });
-
+                                $scope.tasks = results;
                                 $scope.$apply();
-                            }else{
-						        $scope.tasks = [];
-							}
+
                         }
                 );
             }
@@ -130,11 +123,11 @@
         <!-- /.row -->
         <div class="row">
             <div class="col-md-offset-2 col-lg-offset-2 col-sm-offset-2 col-xs-offset-2">
-                <label ng-repeat="task in tasks" class="center-block ">
-                    <input class="control-label" type="checkbox" ng-checked="task.checked"
-                           ng-click="update(task.parseObject)">
-                    {{task.data}}
-                    <a class="btn-link" ng-click="remove(task.parseObject)">remove</a>
+                <label ng-repeat="task in tasks" ng-show="tasks.length" class="center-block ">
+                    <input class="control-label" type="checkbox" ng-checked="task.get('checked')"
+                           ng-click="update(task)">
+                    {{task.get('data')}}
+                    <a class="btn-link" ng-click="remove(task)">remove</a>
                 </label>
             </div>
         </div>
