@@ -25,13 +25,13 @@
       <file leaf-file-name="StateMachine.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/userclasses/StateMachine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="33" column="66" selection-start-line="33" selection-start-column="66" selection-end-line="33" selection-end-column="66" />
+            <state relative-caret-position="136">
+              <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="imports" expanded="true" />
                 <element signature="docComment;class#StateMachine#0" expanded="true" />
-                <marker date="1477280573498" expanded="false" signature="768:937" ph="//..." />
+                <element signature="docComment;method#initVars#0;class#StateMachine#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -40,9 +40,36 @@
       <file leaf-file-name="Form.java" pinned="false" current-in-tab="false">
         <entry file="jar://$PROJECT_DIR$/lib/CodenameOne_SRC.zip!/com/codename1/ui/Form.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
+            <state relative-caret-position="34680">
               <caret line="2722" column="31" selection-start-line="2722" selection-start-column="31" selection-end-line="2722" selection-end-column="31" />
-              <folding />
+              <folding>
+                <element signature="method#getAnimationManager#0;class#Form#0" expanded="true" />
+                <element signature="method#setFormBottomPaddingEditingMode#0;class#Form#0" expanded="true" />
+                <element signature="method#isFormBottomPaddingEditingMode#0;class#Form#0" expanded="true" />
+                <element signature="method#getGlassPane#0;class#Form#0" expanded="true" />
+                <element signature="method#getTitleComponent#0;class#Form#0" expanded="true" />
+                <element signature="method#getSoftButtonCount#0;class#Form#0" expanded="true" />
+                <element signature="method#getPreviousForm#0;class#Form#0" expanded="true" />
+                <element signature="method#setDraggedComponent#0;class#Form#0" expanded="true" />
+                <element signature="method#getDraggedComponent#0;class#Form#0" expanded="true" />
+                <element signature="method#getContentPane#0;class#Form#0" expanded="true" />
+                <element signature="method#getTransitionInAnimator#0;class#Form#0" expanded="true" />
+                <element signature="method#setTransitionInAnimator#0;class#Form#0" expanded="true" />
+                <element signature="method#getTransitionOutAnimator#0;class#Form#0" expanded="true" />
+                <element signature="method#setTransitionOutAnimator#0;class#Form#0" expanded="true" />
+                <element signature="method#setFocusedInternal#0;class#Form#0" expanded="true" />
+                <element signature="method#getFocused#0;class#Form#0" expanded="true" />
+                <element signature="method#setCyclicFocus#0;class#Form#0" expanded="true" />
+                <element signature="method#isCyclicFocus#0;class#Form#0" expanded="true" />
+                <element signature="method#getTintColor#0;class#Form#0" expanded="true" />
+                <element signature="method#setTintColor#0;class#Form#0" expanded="true" />
+                <element signature="method#getMenuBar#0;class#Form#0" expanded="true" />
+                <element signature="method#getToolbar#0;class#Form#0" expanded="true" />
+                <element signature="method#isFocusScrolling#0;class#Form#0" expanded="true" />
+                <element signature="method#setFocusScrolling#0;class#Form#0" expanded="true" />
+                <element signature="method#getEditOnShow#0;class#Form#0" expanded="true" />
+                <element signature="method#setEditOnShow#0;class#Form#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -50,7 +77,7 @@
       <file leaf-file-name="ParseObject.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/ParseObject.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
+            <state relative-caret-position="2737">
               <caret line="399" column="4" selection-start-line="399" selection-start-column="4" selection-end-line="399" selection-end-column="4" />
               <folding>
                 <element signature="docComment;method#delete#0;class#ParseObject#0" expanded="true" />
@@ -62,11 +89,9 @@
       <file leaf-file-name="ParseObject.class" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/ParseObject.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
+            <state relative-caret-position="6358">
               <caret line="435" column="22" selection-start-line="435" selection-start-column="16" selection-end-line="435" selection-end-column="22" />
-              <folding>
-                <element signature="e#0#23050#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -74,7 +99,7 @@
       <file leaf-file-name="Component.java" pinned="false" current-in-tab="false">
         <entry file="jar://$PROJECT_DIR$/lib/CodenameOne_SRC.zip!/com/codename1/ui/Component.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
+            <state relative-caret-position="24463">
               <caret line="2196" column="5" selection-start-line="2196" selection-start-column="5" selection-end-line="2196" selection-end-column="5" />
               <folding />
             </state>
@@ -84,7 +109,7 @@
       <file leaf-file-name="Dialog.java" pinned="false" current-in-tab="false">
         <entry file="jar://$PROJECT_DIR$/lib/CodenameOne_SRC.zip!/com/codename1/ui/Dialog.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-102">
+            <state relative-caret-position="9078">
               <caret line="985" column="13" selection-start-line="985" selection-start-column="13" selection-end-line="985" selection-end-column="13" />
               <folding>
                 <element signature="method#getContentPane#0;class#Dialog#0" expanded="true" />
@@ -124,13 +149,10 @@
       <file leaf-file-name="StateMachineBase.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/generated/StateMachineBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2552">
+            <state relative-caret-position="10540">
               <caret line="633" column="23" selection-start-line="633" selection-start-column="23" selection-end-line="633" selection-end-column="23" />
               <folding>
-                <marker date="1477280544780" expanded="false" signature="844:937" ph="/**...*/" />
-                <marker date="1477280544780" expanded="true" signature="1097:1147" ph="{...}" />
                 <marker date="1477280544780" expanded="true" signature="1229:1384" ph="{...}" />
-                <marker date="1477280544780" expanded="true" signature="19751:19760" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -139,11 +161,9 @@
       <file leaf-file-name="Todo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/org/ieeeaast/todo/Todo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
+            <state relative-caret-position="170">
               <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -161,7 +181,7 @@
       <file leaf-file-name="UIBuilder.java" pinned="false" current-in-tab="false">
         <entry file="jar://$PROJECT_DIR$/lib/CodenameOne_SRC.zip!/com/codename1/ui/util/UIBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
+            <state relative-caret-position="8534">
               <caret line="692" column="29" selection-start-line="692" selection-start-column="29" selection-end-line="692" selection-end-column="29" />
               <folding>
                 <element signature="method#isBlockAnalytics#0;class#UIBuilder#0" expanded="true" />
@@ -232,9 +252,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -287,6 +305,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1140,11 +1160,12 @@
       <updated>1477270235613</updated>
       <workItem from="1477270244391" duration="6221000" />
       <workItem from="1477276660115" duration="4003000" />
+      <workItem from="1477420814325" duration="710000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10224000" />
+    <option name="totallyTimeSpent" value="10934000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -1389,7 +1410,164 @@
             <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
             <element signature="docComment;class#StateMachine#0" expanded="true" />
-            <marker date="1477280573498" expanded="false" signature="768:937" ph="//..." />
+            <element signature="docComment;method#initVars#0;class#StateMachine#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/CodenameOne_SRC.zip!/com/codename1/ui/Form.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46274">
+          <caret line="2722" column="31" selection-start-line="2722" selection-start-column="31" selection-end-line="2722" selection-end-column="31" />
+          <folding>
+            <element signature="method#getAnimationManager#0;class#Form#0" expanded="true" />
+            <element signature="method#setFormBottomPaddingEditingMode#0;class#Form#0" expanded="true" />
+            <element signature="method#isFormBottomPaddingEditingMode#0;class#Form#0" expanded="true" />
+            <element signature="method#getGlassPane#0;class#Form#0" expanded="true" />
+            <element signature="method#getTitleComponent#0;class#Form#0" expanded="true" />
+            <element signature="method#getSoftButtonCount#0;class#Form#0" expanded="true" />
+            <element signature="method#getPreviousForm#0;class#Form#0" expanded="true" />
+            <element signature="method#setDraggedComponent#0;class#Form#0" expanded="true" />
+            <element signature="method#getDraggedComponent#0;class#Form#0" expanded="true" />
+            <element signature="method#getContentPane#0;class#Form#0" expanded="true" />
+            <element signature="method#getTransitionInAnimator#0;class#Form#0" expanded="true" />
+            <element signature="method#setTransitionInAnimator#0;class#Form#0" expanded="true" />
+            <element signature="method#getTransitionOutAnimator#0;class#Form#0" expanded="true" />
+            <element signature="method#setTransitionOutAnimator#0;class#Form#0" expanded="true" />
+            <element signature="method#setFocusedInternal#0;class#Form#0" expanded="true" />
+            <element signature="method#getFocused#0;class#Form#0" expanded="true" />
+            <element signature="method#setCyclicFocus#0;class#Form#0" expanded="true" />
+            <element signature="method#isCyclicFocus#0;class#Form#0" expanded="true" />
+            <element signature="method#getTintColor#0;class#Form#0" expanded="true" />
+            <element signature="method#setTintColor#0;class#Form#0" expanded="true" />
+            <element signature="method#getMenuBar#0;class#Form#0" expanded="true" />
+            <element signature="method#getToolbar#0;class#Form#0" expanded="true" />
+            <element signature="method#isFocusScrolling#0;class#Form#0" expanded="true" />
+            <element signature="method#setFocusScrolling#0;class#Form#0" expanded="true" />
+            <element signature="method#getEditOnShow#0;class#Form#0" expanded="true" />
+            <element signature="method#setEditOnShow#0;class#Form#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/ParseObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6783">
+          <caret line="399" column="4" selection-start-line="399" selection-start-column="4" selection-end-line="399" selection-end-column="4" />
+          <folding>
+            <element signature="docComment;method#delete#0;class#ParseObject#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/ParseObject.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7395">
+          <caret line="435" column="22" selection-start-line="435" selection-start-column="16" selection-end-line="435" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/CodenameOne_SRC.zip!/com/codename1/ui/Component.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37332">
+          <caret line="2196" column="5" selection-start-line="2196" selection-start-column="5" selection-end-line="2196" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/CodenameOne_SRC.zip!/com/codename1/ui/Dialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16745">
+          <caret line="985" column="13" selection-start-line="985" selection-start-column="13" selection-end-line="985" selection-end-column="13" />
+          <folding>
+            <element signature="method#getContentPane#0;class#Dialog#0" expanded="true" />
+            <element signature="method#getTitleComponent#0;class#Dialog#0" expanded="true" />
+            <element signature="method#isMenu#0;class#Dialog#0" expanded="true" />
+            <element signature="method#setMenu#0;class#Dialog#0" expanded="true" />
+            <element signature="method#setDisposed#0;class#Dialog#0" expanded="true" />
+            <element signature="method#isAutoDispose#0;class#Dialog#0" expanded="true" />
+            <element signature="method#setAutoDispose#0;class#Dialog#0" expanded="true" />
+            <element signature="method#setDefaultDialogPosition#0;class#Dialog#0" expanded="true" />
+            <element signature="method#getDefaultDialogPosition#0;class#Dialog#0" expanded="true" />
+            <element signature="method#getDialogType#0;class#Dialog#0" expanded="true" />
+            <element signature="method#setDialogType#0;class#Dialog#0" expanded="true" />
+            <element signature="method#setDefaultDialogType#0;class#Dialog#0" expanded="true" />
+            <element signature="method#getDefaultDialogType#0;class#Dialog#0" expanded="true" />
+            <element signature="method#setAutoAdjustDialogSize#0;class#Dialog#0" expanded="true" />
+            <element signature="method#isAutoAdjustDialogSize#0;class#Dialog#0" expanded="true" />
+            <element signature="method#setDisableStaticDialogScrolling#0;class#Dialog#0" expanded="true" />
+            <element signature="method#isDisableStaticDialogScrolling#0;class#Dialog#0" expanded="true" />
+            <element signature="method#setCommandsAsButtons#0;class#Dialog#0" expanded="true" />
+            <element signature="method#isCommandsAsButtons#0;class#Dialog#0" expanded="true" />
+            <element signature="method#setDisposeWhenPointerOutOfBounds#0;class#Dialog#0" expanded="true" />
+            <element signature="method#isDisposeWhenPointerOutOfBounds#0;class#Dialog#0" expanded="true" />
+            <element signature="method#getDialogPosition#0;class#Dialog#0" expanded="true" />
+            <element signature="method#setDialogPosition#0;class#Dialog#0" expanded="true" />
+            <element signature="method#getPopupDirectionBiasPortrait#0;class#Dialog#0" expanded="true" />
+            <element signature="method#setPopupDirectionBiasPortrait#0;class#Dialog#0" expanded="true" />
+            <element signature="method#getBlurBackgroundRadius#0;class#Dialog#0" expanded="true" />
+            <element signature="method#setBlurBackgroundRadius#0;class#Dialog#0" expanded="true" />
+            <element signature="method#getDefaultBlurBackgroundRadius#0;class#Dialog#0" expanded="true" />
+            <element signature="method#setDefaultBlurBackgroundRadius#0;class#Dialog#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/generated/StateMachineBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10761">
+          <caret line="633" column="23" selection-start-line="633" selection-start-column="23" selection-end-line="633" selection-end-column="23" />
+          <folding>
+            <marker date="1477280544780" expanded="true" signature="1229:1384" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/ieeeaast/todo/Todo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TodoCodenameone.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/CodenameOne_SRC.zip!/com/codename1/ui/util/UIBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11764">
+          <caret line="692" column="29" selection-start-line="692" selection-start-column="29" selection-end-line="692" selection-end-column="29" />
+          <folding>
+            <element signature="method#isBlockAnalytics#0;class#UIBuilder#0" expanded="true" />
+            <element signature="method#setBlockAnalytics#0;class#UIBuilder#0" expanded="true" />
+            <element signature="docComment;method#setListModel#0;class#UIBuilder#0" expanded="true" />
+            <element signature="method#getResourceFilePath#0;class#UIBuilder#0" expanded="true" />
+            <element signature="docComment;method#processCommand#0;class#UIBuilder#0" expanded="true" />
+            <element signature="method#getHomeForm#0;class#UIBuilder#0" expanded="true" />
+            <element signature="method#setHomeForm#0;class#UIBuilder#0" expanded="true" />
+            <element signature="docComment;method#showForm#1;class#UIBuilder#0" expanded="true" />
+            <element signature="method#isKeepResourcesInRam#0;class#UIBuilder#0" expanded="true" />
+            <element signature="method#setKeepResourcesInRam#0;class#UIBuilder#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/userclasses/StateMachine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="docComment;class#StateMachine#0" expanded="true" />
+            <element signature="docComment;method#initVars#0;class#StateMachine#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1437,10 +1615,7 @@
         <state relative-caret-position="8534">
           <caret line="515" column="9" selection-start-line="515" selection-start-column="9" selection-end-line="515" selection-end-column="9" />
           <folding>
-            <marker date="1477280544780" expanded="false" signature="844:937" ph="/**...*/" />
-            <marker date="1477280544780" expanded="true" signature="1097:1147" ph="{...}" />
             <marker date="1477280544780" expanded="true" signature="1229:1384" ph="{...}" />
-            <marker date="1477280544780" expanded="true" signature="19751:19760" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -1449,59 +1624,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4046">
           <caret line="422" column="21" selection-start-line="422" selection-start-column="21" selection-end-line="422" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#14801#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="docComment;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;class#Type#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;field#Other#0;class#Type#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;field#Command#0;class#Type#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;field#Pointer#0;class#Type#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;field#PointerPressed#0;class#Type#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;field#PointerReleased#0;class#Type#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;field#PointerDrag#0;class#Type#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;field#Swipe#0;class#Type#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;field#KeyPress#0;class#Type#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;field#KeyRelease#0;class#Type#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;field#Exception#0;class#Type#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;field#Response#0;class#Type#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;field#Progress#0;class#Type#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;field#Data#0;class#Type#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;field#Calendar#0;class#Type#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;field#Edit#0;class#Type#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;field#Done#0;class#Type#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;field#JavaScript#0;class#Type#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;field#Log#0;class#Type#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;field#Theme#0;class#Type#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;field#Show#0;class#Type#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;field#SizeChange#0;class#Type#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;field#OrientationChange#0;class#Type#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;method#getEventType#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;method#ActionEvent#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;method#ActionEvent#1;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;method#ActionEvent#2;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;method#ActionEvent#3;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;method#ActionEvent#4;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;method#ActionEvent#5;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;method#ActionEvent#6;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;method#ActionEvent#7;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;method#ActionEvent#8;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;method#ActionEvent#9;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;method#ActionEvent#10;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;method#ActionEvent#11;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;method#getSource#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;method#getKeyEvent#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;method#getCommand#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;method#getActualComponent#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;method#getComponent#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;method#consume#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;method#isConsumed#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;method#getX#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;method#getY#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;method#isLongEvent#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;method#getDraggedComponent#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;method#getDropTarget#0;class#ActionEvent#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1528,59 +1650,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4046">
           <caret line="422" column="21" selection-start-line="422" selection-start-column="21" selection-end-line="422" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#14801#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="docComment;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;class#Type#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;field#Other#0;class#Type#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;field#Command#0;class#Type#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;field#Pointer#0;class#Type#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;field#PointerPressed#0;class#Type#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;field#PointerReleased#0;class#Type#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;field#PointerDrag#0;class#Type#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;field#Swipe#0;class#Type#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;field#KeyPress#0;class#Type#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;field#KeyRelease#0;class#Type#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;field#Exception#0;class#Type#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;field#Response#0;class#Type#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;field#Progress#0;class#Type#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;field#Data#0;class#Type#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;field#Calendar#0;class#Type#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;field#Edit#0;class#Type#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;field#Done#0;class#Type#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;field#JavaScript#0;class#Type#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;field#Log#0;class#Type#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;field#Theme#0;class#Type#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;field#Show#0;class#Type#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;field#SizeChange#0;class#Type#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;field#OrientationChange#0;class#Type#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;method#getEventType#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;method#ActionEvent#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;method#ActionEvent#1;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;method#ActionEvent#2;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;method#ActionEvent#3;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;method#ActionEvent#4;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;method#ActionEvent#5;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;method#ActionEvent#6;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;method#ActionEvent#7;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;method#ActionEvent#8;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;method#ActionEvent#9;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;method#ActionEvent#10;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;method#ActionEvent#11;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;method#getSource#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;method#getKeyEvent#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;method#getCommand#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;method#getActualComponent#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;method#getComponent#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;method#consume#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;method#isConsumed#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;method#getX#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;method#getY#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;method#isLongEvent#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;method#getDraggedComponent#0;class#ActionEvent#0" expanded="false" />
-            <element signature="docComment;method#getDropTarget#0;class#ActionEvent#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1588,15 +1657,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="146">
           <caret line="625" column="4" selection-start-line="625" selection-start-column="4" selection-end-line="625" selection-end-column="4" />
-          <folding>
-            <element signature="docComment;method#setModel#0;class#List#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/lib/CodenameOne_SRC.zip!/com/codename1/ui/Dialog.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-102">
+        <state relative-caret-position="9078">
           <caret line="985" column="13" selection-start-line="985" selection-start-column="13" selection-end-line="985" selection-end-column="13" />
           <folding>
             <element signature="method#getContentPane#0;class#Dialog#0" expanded="true" />
@@ -1634,7 +1700,7 @@
     </entry>
     <entry file="jar://$PROJECT_DIR$/lib/CodenameOne_SRC.zip!/com/codename1/ui/util/UIBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
+        <state relative-caret-position="8534">
           <caret line="692" column="29" selection-start-line="692" selection-start-column="29" selection-end-line="692" selection-end-column="29" />
           <folding>
             <element signature="method#isBlockAnalytics#0;class#UIBuilder#0" expanded="true" />
@@ -1653,24 +1719,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/generated/StateMachineBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2552">
+        <state relative-caret-position="10540">
           <caret line="633" column="23" selection-start-line="633" selection-start-column="23" selection-end-line="633" selection-end-column="23" />
           <folding>
-            <marker date="1477280544780" expanded="false" signature="844:937" ph="/**...*/" />
-            <marker date="1477280544780" expanded="true" signature="1097:1147" ph="{...}" />
             <marker date="1477280544780" expanded="true" signature="1229:1384" ph="{...}" />
-            <marker date="1477280544780" expanded="true" signature="19751:19760" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/ieeeaast/todo/Todo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
+        <state relative-caret-position="170">
           <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1684,7 +1745,7 @@
     </entry>
     <entry file="jar://$PROJECT_DIR$/lib/CodenameOne_SRC.zip!/com/codename1/ui/Component.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
+        <state relative-caret-position="24463">
           <caret line="2196" column="5" selection-start-line="2196" selection-start-column="5" selection-end-line="2196" selection-end-column="5" />
           <folding />
         </state>
@@ -1692,17 +1753,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/ParseObject.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
+        <state relative-caret-position="6358">
           <caret line="435" column="22" selection-start-line="435" selection-start-column="16" selection-end-line="435" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#23050#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/ParseObject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="2737">
           <caret line="399" column="4" selection-start-line="399" selection-start-column="4" selection-end-line="399" selection-end-column="4" />
           <folding>
             <element signature="docComment;method#delete#0;class#ParseObject#0" expanded="true" />
@@ -1712,21 +1771,48 @@
     </entry>
     <entry file="jar://$PROJECT_DIR$/lib/CodenameOne_SRC.zip!/com/codename1/ui/Form.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
+        <state relative-caret-position="34680">
           <caret line="2722" column="31" selection-start-line="2722" selection-start-column="31" selection-end-line="2722" selection-end-column="31" />
-          <folding />
+          <folding>
+            <element signature="method#getAnimationManager#0;class#Form#0" expanded="true" />
+            <element signature="method#setFormBottomPaddingEditingMode#0;class#Form#0" expanded="true" />
+            <element signature="method#isFormBottomPaddingEditingMode#0;class#Form#0" expanded="true" />
+            <element signature="method#getGlassPane#0;class#Form#0" expanded="true" />
+            <element signature="method#getTitleComponent#0;class#Form#0" expanded="true" />
+            <element signature="method#getSoftButtonCount#0;class#Form#0" expanded="true" />
+            <element signature="method#getPreviousForm#0;class#Form#0" expanded="true" />
+            <element signature="method#setDraggedComponent#0;class#Form#0" expanded="true" />
+            <element signature="method#getDraggedComponent#0;class#Form#0" expanded="true" />
+            <element signature="method#getContentPane#0;class#Form#0" expanded="true" />
+            <element signature="method#getTransitionInAnimator#0;class#Form#0" expanded="true" />
+            <element signature="method#setTransitionInAnimator#0;class#Form#0" expanded="true" />
+            <element signature="method#getTransitionOutAnimator#0;class#Form#0" expanded="true" />
+            <element signature="method#setTransitionOutAnimator#0;class#Form#0" expanded="true" />
+            <element signature="method#setFocusedInternal#0;class#Form#0" expanded="true" />
+            <element signature="method#getFocused#0;class#Form#0" expanded="true" />
+            <element signature="method#setCyclicFocus#0;class#Form#0" expanded="true" />
+            <element signature="method#isCyclicFocus#0;class#Form#0" expanded="true" />
+            <element signature="method#getTintColor#0;class#Form#0" expanded="true" />
+            <element signature="method#setTintColor#0;class#Form#0" expanded="true" />
+            <element signature="method#getMenuBar#0;class#Form#0" expanded="true" />
+            <element signature="method#getToolbar#0;class#Form#0" expanded="true" />
+            <element signature="method#isFocusScrolling#0;class#Form#0" expanded="true" />
+            <element signature="method#setFocusScrolling#0;class#Form#0" expanded="true" />
+            <element signature="method#getEditOnShow#0;class#Form#0" expanded="true" />
+            <element signature="method#setEditOnShow#0;class#Form#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/userclasses/StateMachine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="33" column="66" selection-start-line="33" selection-start-column="66" selection-end-line="33" selection-end-column="66" />
+        <state relative-caret-position="136">
+          <caret line="40" column="0" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
             <element signature="docComment;class#StateMachine#0" expanded="true" />
-            <marker date="1477280573498" expanded="false" signature="768:937" ph="//..." />
+            <element signature="docComment;method#initVars#0;class#StateMachine#0" expanded="true" />
           </folding>
         </state>
       </provider>

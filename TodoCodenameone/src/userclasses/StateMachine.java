@@ -35,7 +35,7 @@ public class StateMachine extends StateMachineBase {
      * the constructor/class scope to avoid race conditions
      */
     protected void initVars(Resources res) {
-        Parse.initialize("http://env-9969828.j.layershift.co.uk/parse", "myAppId", "master");
+        Parse.initialize("http://docker19107-env-2854709.mircloud.host/parse", "myAppId", "mySecretMasterKey");
     }
 
 
