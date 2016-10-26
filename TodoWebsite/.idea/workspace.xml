@@ -2,16 +2,117 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2421a85b-0054-42d8-afe5-b2fbefa2b00a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../TodoCodenameone/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.gitignore" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/ca/weblite/codename1/json/JSONArray.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/ca/weblite/codename1/json/JSONException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/ca/weblite/codename1/json/JSONObject$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/ca/weblite/codename1/json/JSONObject$Null.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/ca/weblite/codename1/json/JSONObject.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/ca/weblite/codename1/json/JSONString.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/ca/weblite/codename1/json/JSONStringer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/ca/weblite/codename1/json/JSONTokener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/ca/weblite/codename1/json/JSONWriter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/ca/weblite/codename1/json/StringWriter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/ca/weblite/codename1/json/util/XML.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/ca/weblite/codename1/json/util/XMLTokener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/Parse$DefaultParseObjectFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/Parse$EPlatform.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/Parse$IParseObjectFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/Parse$IPersistable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/Parse.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/ParseBatch$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/ParseBatch$EBatchOpType.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/ParseBatch.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/ParseCloud.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/ParseConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/ParseConstants.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/ParseException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/ParseFile.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/ParseGeoPoint.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/ParseInstallation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/ParseObject.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/ParsePush$IPushCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/ParsePush.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/ParseQuery$KeyConstraints.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/ParseQuery$QueryConstraints.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/ParseQuery$RelationConstraint.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/ParseQuery.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/ParseRelation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/ParseRole.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/ParseUser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/callback/CountCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/callback/DeleteCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/callback/FindCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/callback/FunctionCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/callback/GetCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/callback/GetDataCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/callback/LocationCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/callback/LoginCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/callback/ParseCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/callback/ProgressCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/callback/RequestPasswordResetCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/callback/SaveCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/callback/SendCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/callback/SignUpCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/command/ParseCommand$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/command/ParseCommand$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/command/ParseCommand.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/command/ParseDeleteCommand.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/command/ParseDownloadCommand.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/command/ParseGetCommand.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/command/ParsePostCommand.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/command/ParsePutCommand.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/command/ParseResponse.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/command/ParseUploadCommand$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/command/ParseUploadCommand.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/encode/IParseObjectEncodingStrategy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/encode/ParseDecoder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/encode/ParseEncoder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/encode/PointerEncodingStrategy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/encode/PointerOrLocalIdEncodingStrategy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/nativeinterface/ParseInstallationNative.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/nativeinterface/ParseInstallationNativeImpl.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/nativeinterface/ParsePushNative.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/nativeinterface/ParsePushNativeImpl.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/operation/AddToArrayOperation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/operation/AddUniqueToArrayOperation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/operation/DeleteFieldOperation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/operation/IncrementFieldOperation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/operation/ParseOperation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/operation/ParseOperationDecoder$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/operation/ParseOperationDecoder$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/operation/ParseOperationDecoder$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/operation/ParseOperationDecoder$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/operation/ParseOperationDecoder$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/operation/ParseOperationDecoder$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/operation/ParseOperationDecoder$7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/operation/ParseOperationDecoder$IParseOperationDecoder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/operation/ParseOperationDecoder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/operation/ParseOperationUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/operation/RelationOperation$ERelationType.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/operation/RelationOperation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/operation/RemoveFromArrayOperation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/operation/SetFieldOperation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/util/ExternalizableJsonEntity$EJsonEntityType.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/util/ExternalizableJsonEntity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/util/ExternalizableParseObject.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/util/Logger$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/util/Logger$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/util/Logger.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/util/MimeType.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/com/parse4cn1/util/ParseRegistry.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/generated/StateMachineBase.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/org/ieeeaast/todo/Todo.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/userclasses/StateMachine$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/classes/userclasses/StateMachine.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TodoCodenameone/dist/Todo.jar" afterPath="$PROJECT_DIR$/../TodoCodenameone/dist/Todo.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TodoCodenameone/out/production/TodoCodenameone/userclasses/StateMachine$1.class" afterPath="$PROJECT_DIR$/../TodoCodenameone/out/production/TodoCodenameone/userclasses/StateMachine$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TodoCodenameone/out/production/TodoCodenameone/userclasses/StateMachine.class" afterPath="$PROJECT_DIR$/../TodoCodenameone/out/production/TodoCodenameone/userclasses/StateMachine.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/workspace.xml" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TodoCodenameone/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../TodoCodenameone/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TodoCodenameone/build/built-jar.properties" afterPath="$PROJECT_DIR$/../TodoCodenameone/build/built-jar.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TodoCodenameone/codenameone_settings.properties" afterPath="$PROJECT_DIR$/../TodoCodenameone/codenameone_settings.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/todo.html" afterPath="$PROJECT_DIR$/todo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../index.html" afterPath="$PROJECT_DIR$/../index.html" />
     </list>
     <ignored path="TodoWebsite.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -45,8 +146,8 @@
       <file leaf-file-name="todo.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/todo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="135" column="18" selection-start-line="135" selection-start-column="18" selection-end-line="135" selection-end-column="18" />
+            <state relative-caret-position="145">
+              <caret line="132" column="25" selection-start-line="132" selection-start-column="25" selection-end-line="132" selection-end-column="25" />
               <folding>
                 <element signature="e#2239#2536#0" expanded="true" />
               </folding>
@@ -77,8 +178,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/todo.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/todo.html" />
       </list>
     </option>
   </component>
@@ -1000,7 +1101,7 @@
       <workItem from="1477322285776" duration="14634000" />
       <workItem from="1477423712976" duration="648000" />
       <workItem from="1477437529269" duration="1095000" />
-      <workItem from="1477439620741" duration="1205000" />
+      <workItem from="1477439620741" duration="2004000" />
     </task>
     <task id="LOCAL-00001" summary="fix deleting last task">
       <created>1477438226549</created>
@@ -1009,11 +1110,18 @@
       <option name="project" value="LOCAL" />
       <updated>1477438226549</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Sanitizing the data Thanks to abdelrahman hatem">
+      <created>1477441232287</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1477441232287</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17582000" />
+    <option name="totallyTimeSpent" value="18381000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -1057,7 +1165,8 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="fix deleting last task" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix deleting last task" />
+    <MESSAGE value="Sanitizing the data Thanks to abdelrahman hatem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sanitizing the data Thanks to abdelrahman hatem" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1160,8 +1269,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/todo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="135" column="18" selection-start-line="135" selection-start-column="18" selection-end-line="135" selection-end-column="18" />
+        <state relative-caret-position="145">
+          <caret line="132" column="25" selection-start-line="132" selection-start-column="25" selection-end-line="132" selection-end-column="25" />
           <folding>
             <element signature="e#2239#2536#0" expanded="true" />
           </folding>

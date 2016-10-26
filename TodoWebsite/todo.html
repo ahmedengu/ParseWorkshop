@@ -130,7 +130,7 @@
                 <label ng-repeat="task in tasks" ng-show="tasks.length" class="center-block ">
                     <input class="control-label" type="checkbox" ng-checked="task.get('checked')"
                            ng-click="update(task)">
-                    <p ng-bind-html="task.get('data')"></p>
+                    <span ng-bind-html="task.get('data')"></span>
                     <a class="btn-link" ng-click="remove(task)">remove</a>
                 </label>
             </div>
