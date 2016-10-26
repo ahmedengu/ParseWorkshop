@@ -1,19 +1,19 @@
-RIM-COD-SHA1-9: af 44 ac 20 34 7e dc f3 fd 68 69 63 4a 54 23 8b bf 7f 2d d0
-RIM-COD-SHA1-8: 3d 3b db 43 36 54 81 13 38 0d 4f 9d 7f 88 61 0e 1e 6a ad 16
+RIM-COD-SHA1-9: d7 b3 de d4 c9 16 ce 47 07 8b 43 2d fb e8 67 33 73 18 3f 1d
+RIM-COD-SHA1-8: e7 dd 51 3e 25 f8 17 2d e3 bc 8b 9f bb de ac 3d b1 df 67 a2
 RIM-COD-Size-29: 49972
-RIM-COD-SHA1-7: 0e 36 a4 1c 3a 6c 47 c3 93 d1 3d 7b c5 d6 b9 ff 11 fb a2 84
+RIM-COD-SHA1-7: 45 89 1a 53 33 3b 5c 07 35 a7 67 c2 da 29 f1 9d 5c 10 87 5d
 RIM-COD-Size-28: 50212
-RIM-COD-SHA1-6: 8d 88 9e 2b 50 6f 45 5e 8d 77 51 67 d6 ac da 6e 17 94 ae 13
+RIM-COD-SHA1-6: 2a 2a 9c bb b6 eb 0b 7b 5e 08 1e aa b2 00 01 30 f0 62 d2 9d
 RIM-COD-Size-27: 53940
-RIM-COD-SHA1-5: 02 c6 c4 b7 0a 4f ce e1 dc e3 15 1b e3 95 aa 6b ed f9 11 b6
+RIM-COD-SHA1-5: 5f 26 88 8d 97 b2 0d 0d 3d 2a e8 5d 62 5f a4 d0 eb 85 69 df
 RIM-COD-Size-26: 47468
-RIM-COD-SHA1-4: cc 9a af 03 e6 1c 19 14 c3 b8 4f 17 67 9b 5d 7f b0 3f 27 bf
+RIM-COD-SHA1-4: dc 3e dd db be a0 d0 03 0f 3c 77 65 a1 e0 4a 26 50 94 58 25
 RIM-COD-Size-25: 50116
-RIM-COD-SHA1-3: 8f d3 8f 28 4d 44 03 ba 99 e7 2d 36 b1 a9 eb 78 aa ce c7 73
+RIM-COD-SHA1-3: 5a 4f 42 3a f5 37 93 78 78 97 e2 cb 14 ad c1 df e9 6b a1 19
 RIM-COD-Size-24: 50116
-RIM-COD-SHA1-2: a8 86 0b 17 51 7f 28 ab 69 27 ca 23 d1 ea 38 7c 01 c2 d5 cd
+RIM-COD-SHA1-2: 7f 76 db 4c f2 4e 0a 8c e1 a9 fd 29 3c f8 50 07 88 cc 23 65
 RIM-COD-Size-23: 50116
-RIM-COD-SHA1-1: b1 6e 99 50 00 7e b5 bd dd c0 cd f1 ec 94 7c 63 31 10 8f 89
+RIM-COD-SHA1-1: bd 29 23 b4 8a 23 23 d1 d5 5a 0e d9 f3 bf 13 28 ff 5a 1a e4
 RIM-COD-Size-22: 50116
 RIM-COD-Size-21: 50116
 RIM-COD-Size-20: 50116
@@ -33,46 +33,46 @@ Manifest-Version: 1.0
 RIM-COD-Size-19: 50116
 RIM-COD-Size-18: 50116
 RIM-COD-Size-17: 50188
-RIM-COD-SHA1-34: 03 af fd 3d 81 a1 57 73 f0 c3 fb 87 04 6b 39 61 17 0e 17 af
-RIM-COD-Size-16: 47940
-RIM-COD-SHA1-33: 26 21 35 4e 7a b2 05 99 7c f5 ad 7f fc a0 a2 a7 45 8b c4 2f
+RIM-COD-SHA1-34: 76 85 a5 0f 4a 7e e4 d5 3b 5c c7 d6 28 2b ef 28 3c 5c 3c 0d
+RIM-COD-Size-16: 47936
+RIM-COD-SHA1-33: e8 f2 a6 ce 2e 40 e5 21 e4 02 66 94 10 4a 25 f7 f7 0e 37 f0
 RIM-COD-Size-15: 84344
-RIM-COD-SHA1-32: b1 f5 52 ca 80 d4 ec fd 24 2c c0 bd cb 29 ba e0 de e5 55 c8
+RIM-COD-SHA1-32: d0 a1 a1 02 fc ef e6 18 0f 24 bc 2f 9a 33 6b 6e 7f 54 0a 04
 RIM-COD-Size-14: 79892
-RIM-COD-SHA1-31: 0b fa c2 df 59 3f 4a 10 30 af 99 8a 1f 49 9e 29 82 7a 2b 15
+RIM-COD-SHA1-31: 70 ce ee 3e 31 70 01 2f a0 08 2e d3 15 31 ec 92 c8 ba 39 29
 RIM-COD-Size-13: 88304
-RIM-COD-SHA1-30: e8 39 85 f3 79 1e 61 e2 5c f2 91 34 b3 c7 ff 53 3b bd 6d db
+RIM-COD-SHA1-30: 53 0b 04 fc aa 5c f1 6e 07 06 60 b5 7d c7 75 fb 9e 1d 3f ae
 RIM-COD-Size-12: 81832
 RIM-COD-Size-11: 77728
 RIM-COD-Size-10: 83024
 MIDlet-Version: 1.0
 MicroEdition-Profile: MIDP-2.0
-RIM-COD-SHA1-29: f7 d8 cb e3 72 53 05 8a 60 4c 1b f6 83 8f 46 b8 7f 22 58 33
-RIM-COD-SHA1-28: 3e ff 4f 9a ab 9c 1f 9e 56 27 7f 46 1b 05 12 9f 0e b3 80 76
-RIM-COD-SHA1-27: 89 c5 c1 38 80 a7 ee e7 3a 32 f6 2a 15 ce e2 3b 31 83 f8 55
-RIM-COD-SHA1-26: 51 79 39 d9 cd d6 62 24 f1 ea b9 dd 79 e2 07 0c 8f 77 1b 93
-RIM-COD-SHA1-25: 54 f1 09 5f 06 4d c6 13 c6 87 e3 89 ce 61 38 f5 27 62 26 2b
-RIM-COD-SHA1-24: c8 c3 8b 62 1e d9 cc 5c fe 9d 05 60 76 d9 29 b0 74 33 da 48
-RIM-COD-SHA1-23: 92 33 6e 94 5f 5a 26 29 b0 ca 66 1d d7 d9 56 db 9d dd 4d aa
-RIM-COD-SHA1-22: 53 bd ad f4 e1 e6 08 af c4 f5 a3 44 82 86 52 be e1 28 91 be
-RIM-COD-SHA1-21: e0 c4 ef 0d aa 2d 85 5a 3d 02 b3 8b 5f 56 13 e4 b5 57 c4 22
-RIM-COD-SHA1-20: 3b 3c 37 ae ff 37 5a ed a3 dd 59 a4 bf 19 16 ee af 92 0c 44
+RIM-COD-SHA1-29: d2 4e 35 29 28 ec d7 3c 01 08 79 d3 a0 58 78 f9 89 40 57 c2
+RIM-COD-SHA1-28: 8d 60 9d 26 9c 93 1e 01 89 ff 65 d2 9e fa a5 8f cd a6 c7 c8
+RIM-COD-SHA1-27: 76 03 6a d4 28 5a f0 00 5a 17 ee b6 70 16 4c 16 09 47 9c 04
+RIM-COD-SHA1-26: 8e aa 9d c2 13 0b bb 6b 7e 4e 73 f9 6e 87 42 2e 4b 85 d8 e2
+RIM-COD-SHA1-25: 7c b5 cd 39 2f 36 d6 96 ef 34 07 9e 54 00 92 89 b9 8f 09 92
+RIM-COD-SHA1-24: f0 6f 59 ce 8c 84 f1 41 91 53 4b 89 a7 07 73 1d 62 c5 14 7a
+RIM-COD-SHA1-23: 4b df d4 58 c3 07 a1 e9 22 d7 2e 52 9d 6a 62 47 9e 1d c1 aa
+RIM-COD-SHA1-22: 44 ff 5e 39 67 e9 02 8e 02 6f af 81 b2 04 17 1b 9b 4a 81 fe
+RIM-COD-SHA1-21: 66 5d 77 d2 ad 73 b4 bf 32 ac 74 21 a9 4f 3a b2 ed bf ab 80
+RIM-COD-SHA1-20: 90 bd 6e 1c c0 de 93 75 57 0f ad 7c 0a e1 15 59 f7 25 cd 77
 RIM-COD-URL: Todo5.cod
-RIM-COD-Creation-Time: 1477435185
+RIM-COD-Creation-Time: 1477449701
 MicroEdition-Configuration: CLDC-1.1
 MIDlet-Jar-URL: Todo.jar
-RIM-COD-SHA1-19: 6a 36 01 e6 6c f1 8e 13 df 95 6c aa fe 35 66 02 63 9e f5 74
-RIM-COD-SHA1-18: ca 26 64 86 05 1f da 39 8e bd b6 b7 c4 9e 43 c9 ef 5c 35 78
-RIM-COD-SHA1-17: 78 6c 13 e2 bd c7 9e da 87 50 e1 6f 83 e6 2e 59 76 31 7b 7c
-RIM-COD-SHA1-16: 9b 18 20 ab 4c 0f c6 e8 b7 fa 3f cc 8d a9 91 e1 94 8e 6d 96
-RIM-COD-SHA1-15: 80 20 43 40 d8 92 11 54 25 a8 7b fe ec 02 6f bd 5a e2 f6 00
-RIM-COD-SHA1-14: c9 ca d6 d9 24 25 85 04 88 40 8b dd 9a 60 36 48 01 a6 13 48
-RIM-COD-SHA1-13: d4 65 91 dd 1a 4f dd 26 83 fe 60 ba b4 32 90 e6 8d 8d b7 9c
-RIM-COD-SHA1-12: 85 f0 45 a3 ee a8 d2 5a 96 d7 99 17 f3 92 66 0d 8d 30 a7 b7
+RIM-COD-SHA1-19: 69 6e 55 91 85 38 7d ea 0c b6 38 7a 18 b6 da 4a 0f 19 aa 19
+RIM-COD-SHA1-18: 57 0a ac 39 bf 65 c9 d9 16 18 52 1e 16 b0 58 82 37 19 2f 69
+RIM-COD-SHA1-17: 06 10 27 56 51 a1 d0 15 cd 51 a9 ed c6 4f 26 3a 88 38 4c ed
+RIM-COD-SHA1-16: af e8 51 a2 e8 e2 e6 ae 23 29 db 37 20 56 0f 09 6c 68 d9 f9
+RIM-COD-SHA1-15: 4d 77 86 ba 39 a7 fb c3 50 9c 99 75 88 43 2b b5 57 13 4a 84
+RIM-COD-SHA1-14: 4c 05 5c db 49 ea 53 8f 31 84 62 0f 61 f9 5f 47 93 94 64 28
+RIM-COD-SHA1-13: c1 29 91 01 32 d5 82 dc db f4 f9 0f 8e 1b 85 f4 c5 3a b3 5b
+RIM-COD-SHA1-12: 05 ab 0e 71 e6 37 c6 ef e8 98 dd f4 3b a0 66 7f e0 b6 56 eb
 RIM-COD-Size-9: 73828
-RIM-COD-SHA1-11: 2c 52 82 ed 9d 43 c2 a5 c9 10 88 8b cb b6 97 31 e6 19 20 c6
+RIM-COD-SHA1-11: 03 4c 7b f7 94 0c 8f b3 14 74 bb 72 8c 52 fd d1 88 a4 9d d5
 RIM-COD-Size-8: 82852
-RIM-COD-SHA1-10: 20 93 07 17 6b cd 1c 21 a3 29 36 b1 3e be 69 c1 39 65 50 56
+RIM-COD-SHA1-10: 69 db 72 a7 4a 4d 74 9b f9 b4 ef e7 f6 56 b3 10 45 5f f8 17
 RIM-COD-Size-7: 80724
 RIM-COD-Size-6: 73160
 RIM-COD-Size-5: 85392
@@ -82,9 +82,9 @@ RIM-COD-Size-2: 78560
 RIM-COD-Size-1: 86228
 MIDlet-1: Todo, /icon.png, org.ieeeaast.todo.TodoStub
 MIDlet-Name: Todo
-RIM-COD-SHA1: 4e fe 08 a6 21 69 fd 53 2d f4 07 fb 37 7a cb 8c 1a 5d 8a c3
+RIM-COD-SHA1: ff 35 c3 46 53 3d fa bc 48 a9 d9 01 b0 81 f7 3b 77 d2 9f b8
 RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_amms,net_rim_os,net_rim_database,net_rim_bbapi_browser,net_rim_bbapi_phone,net_rim_bbapi_mailv2,net_rim_bbapi_invoke,net_rim_bb_browser_field2_api,net_rim_xml_org,net_rim_ui_api,net_rim_bbapi_messagelist,net_rim_pdap,net_rim_locationapi
-MIDlet-Jar-Size: 2363025
+MIDlet-Jar-Size: 2363031
 RIM-COD-URL-34: Todo5-34.cod
 RIM-COD-URL-33: Todo5-33.cod
 RIM-COD-URL-32: Todo5-32.cod

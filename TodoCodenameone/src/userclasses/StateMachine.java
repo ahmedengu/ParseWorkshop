@@ -35,7 +35,7 @@ public class StateMachine extends StateMachineBase {
      * the constructor/class scope to avoid race conditions
      */
     protected void initVars(Resources res) {
-        Parse.initialize("http://docker19107-env-2854709.mircloud.host/parse", "myAppId", "mySecretMasterKey");
+        Parse.initialize("http://docker19107-env-2854709.mircloud.host/parse", "myAppId", "myClientKey");
     }
 
 
@@ -105,7 +105,7 @@ public class StateMachine extends StateMachineBase {
             java.util.List<ParseObject> list = query.find();
             for (int i = 0; i < list.size(); i++) {
                 Map<String, Object> d = new HashMap<>();
-                d.put("Line1", list.get(i).getString("data"));
+                d.put("Line1", (list.get(i).getString("data")));
 
                 d.put("emblem", list.get(i).getBoolean("checked"));
                 d.put("object", list.get(i));
@@ -186,3 +186,5 @@ public class StateMachine extends StateMachineBase {
         });
     }
 }
+
+

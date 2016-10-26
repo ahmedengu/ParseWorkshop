@@ -2,10 +2,8 @@
 <html lang="en" style="height:100%;" ng-app="Home">
 <head>
     <meta charset="utf-8">
-    <title>Pinegrow Bootstrap Blocks</title>
+    <title>Todo Web APP</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="keywords" content="pinegrow, blocks, bootstrap"/>
-    <meta name="description" content="My new website"/>
     <!-- Core CSS -->
     <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="css/font-awesome.min.css" rel="stylesheet">
@@ -30,7 +28,7 @@
     <script>
         Parse.initialize("myAppId");
         Parse.serverURL = 'https://docker19107-env-2854709.mircloud.host/parse';
-        Parse.masterKey = 'mySecretMasterKey';
+        Parse.clientKey = 'myClientKey';
 
         if (Parse.User.current()){
             window.location = "todo.html";
