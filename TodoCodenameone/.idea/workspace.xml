@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09c4ced3-84f8-40eb-810e-35ba87522f43" name="Default" comment="" />
+    <list default="true" id="09c4ced3-84f8-40eb-810e-35ba87522f43" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/Todo.jar" afterPath="$PROJECT_DIR$/dist/Todo.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/TodoCodenameone/userclasses/StateMachine$1.class" afterPath="$PROJECT_DIR$/out/production/TodoCodenameone/userclasses/StateMachine$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/TodoCodenameone/userclasses/StateMachine.class" afterPath="$PROJECT_DIR$/out/production/TodoCodenameone/userclasses/StateMachine.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/workspace.xml" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/built-jar.properties" afterPath="$PROJECT_DIR$/build/built-jar.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TodoWebsite/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../TodoWebsite/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TodoWebsite/index.html" afterPath="$PROJECT_DIR$/../TodoWebsite/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TodoWebsite/todo.html" afterPath="$PROJECT_DIR$/../TodoWebsite/todo.html" />
+    </list>
     <ignored path="Todo.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -25,13 +36,35 @@
       <file leaf-file-name="StateMachine.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/userclasses/StateMachine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+            <state relative-caret-position="153">
+              <caret line="42" column="63" selection-start-line="42" selection-start-column="63" selection-end-line="42" selection-end-column="63" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="imports" expanded="true" />
                 <element signature="docComment;class#StateMachine#0" expanded="true" />
                 <element signature="docComment;method#initVars#0;class#StateMachine#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ParseResponse.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/command/ParseResponse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="129">
+              <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ParseResponse.class" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/command/ParseResponse.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#4448#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -736,175 +769,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Dialog.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/lib/CodenameOne_SRC.zip!/com/codename1/ui/Dialog.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9078">
-              <caret line="985" column="13" selection-start-line="985" selection-start-column="13" selection-end-line="985" selection-end-column="13" />
-              <folding>
-                <element signature="e#0#77068#0" expanded="false" />
-                <element signature="imports" expanded="false" />
-                <element signature="docComment;class#Dialog#0" expanded="false" />
-                <element signature="docComment;field#disposed#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;field#TYPE_NONE#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;field#TYPE_ALARM#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;field#TYPE_CONFIRMATION#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;field#TYPE_ERROR#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;field#TYPE_INFO#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;field#TYPE_WARNING#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;field#time#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;field#lastCommandPressed#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;field#menu#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;field#autoAdjustDialogSize#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;field#defaultDialogPosition#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;field#dialogPosition#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;field#disableStaticDialogScrolling#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;field#autoDispose#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;field#defaultDialogType#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;field#commandsAsButtons#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;field#disposedDueToRotation#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;field#popupDirectionBiasPortrait#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;field#defaultBlurBackgroundRadius#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;field#blurBackgroundRadius#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#Dialog#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#initAdPadding#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#Dialog#1;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#initGlobalToolbar#0;class#Dialog#0" expanded="false" />
-                <element signature="method#getContentPane#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#getLayout#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#getTitle#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#addComponent#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#addComponent#1;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#addComponent#2;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#addComponent#3;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#removeAll#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#removeComponent#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#getTitleComponent#0;class#Dialog#0" expanded="false" />
-                <element signature="method#getTitleComponent#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#getTitleStyle#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#setLayout#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#setTitle#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#setTitleComponent#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#getDialogComponent#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#setTitleComponent#1;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#setDialogStyle#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#setDialogUIID#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#getDialogUIID#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#getDialogStyle#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#initLaf#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#show#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#show#1;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#show#2;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#showAtPosition#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#initTitleBarStatus#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#setTimeout#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#show#3;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#sizeChangedInternal#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#autoAdjust#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#show#4;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#show#5;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#show#6;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#show#7;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#show#8;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#show#9;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#show#10;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#show#11;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#show#12;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#show#13;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#placeButtonCommands#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#keyReleased#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#show#14;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#onShow#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#showBack#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#setScrollable#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#show#15;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#showImpl#0;class#Dialog#0" expanded="false" />
-                <element signature="e#38598#38675#0" expanded="false" />
-                <element signature="docComment;method#showModeless#0;class#Dialog#0" expanded="false" />
-                <element signature="e#39323#39401#0" expanded="false" />
-                <element signature="docComment;method#showPopupDialog#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#showPopupDialog#1;class#Dialog#0" expanded="false" />
-                <element signature="e#42901#43035#0" expanded="false" />
-                <element signature="docComment;method#showPacked#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#showStretched#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#showStetched#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#getDialogPreferredSize#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#showPackedImpl#0;class#Dialog#0" expanded="false" />
-                <element signature="e#53235#53369#0" expanded="false" />
-                <element signature="docComment;method#dispose#0;class#Dialog#0" expanded="false" />
-                <element signature="e#56351#56428#0" expanded="false" />
-                <element signature="docComment;method#showDialog#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#actionCommand#0;class#Dialog#0" expanded="false" />
-                <element signature="e#57124#57219#0" expanded="false" />
-                <element signature="docComment;method#animate#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#isMenu#0;class#Dialog#0" expanded="false" />
-                <element signature="method#isMenu#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#setMenu#0;class#Dialog#0" expanded="false" />
-                <element signature="method#setMenu#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#addSelectCommand#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#isDisposed#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#setDisposed#0;class#Dialog#0" expanded="false" />
-                <element signature="method#setDisposed#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#isAutoDispose#0;class#Dialog#0" expanded="false" />
-                <element signature="method#isAutoDispose#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#setAutoDispose#0;class#Dialog#0" expanded="false" />
-                <element signature="method#setAutoDispose#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#setDefaultDialogPosition#0;class#Dialog#0" expanded="false" />
-                <element signature="method#setDefaultDialogPosition#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#getDefaultDialogPosition#0;class#Dialog#0" expanded="false" />
-                <element signature="method#getDefaultDialogPosition#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#getDialogType#0;class#Dialog#0" expanded="false" />
-                <element signature="method#getDialogType#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#setDialogType#0;class#Dialog#0" expanded="false" />
-                <element signature="method#setDialogType#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#setDefaultDialogType#0;class#Dialog#0" expanded="false" />
-                <element signature="method#setDefaultDialogType#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#getDefaultDialogType#0;class#Dialog#0" expanded="false" />
-                <element signature="method#getDefaultDialogType#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#setAutoAdjustDialogSize#0;class#Dialog#0" expanded="false" />
-                <element signature="method#setAutoAdjustDialogSize#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#isAutoAdjustDialogSize#0;class#Dialog#0" expanded="false" />
-                <element signature="method#isAutoAdjustDialogSize#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#setDisableStaticDialogScrolling#0;class#Dialog#0" expanded="false" />
-                <element signature="method#setDisableStaticDialogScrolling#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#isDisableStaticDialogScrolling#0;class#Dialog#0" expanded="false" />
-                <element signature="method#isDisableStaticDialogScrolling#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#setCommandsAsButtons#0;class#Dialog#0" expanded="false" />
-                <element signature="method#setCommandsAsButtons#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#isCommandsAsButtons#0;class#Dialog#0" expanded="false" />
-                <element signature="method#isCommandsAsButtons#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#setDisposeWhenPointerOutOfBounds#0;class#Dialog#0" expanded="false" />
-                <element signature="method#setDisposeWhenPointerOutOfBounds#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#isDisposeWhenPointerOutOfBounds#0;class#Dialog#0" expanded="false" />
-                <element signature="method#isDisposeWhenPointerOutOfBounds#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#pointerReleased#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#pointerPressed#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#wasDisposedDueToOutOfBoundsTouch#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#getDialogPosition#0;class#Dialog#0" expanded="false" />
-                <element signature="method#getDialogPosition#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#setDialogPosition#0;class#Dialog#0" expanded="false" />
-                <element signature="method#setDialogPosition#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#repaint#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#growOrShrink#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#getPopupDirectionBiasPortrait#0;class#Dialog#0" expanded="false" />
-                <element signature="method#getPopupDirectionBiasPortrait#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#setPopupDirectionBiasPortrait#0;class#Dialog#0" expanded="false" />
-                <element signature="method#setPopupDirectionBiasPortrait#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#wasDisposedDueToRotation#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#getBlurBackgroundRadius#0;class#Dialog#0" expanded="false" />
-                <element signature="method#getBlurBackgroundRadius#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#setBlurBackgroundRadius#0;class#Dialog#0" expanded="false" />
-                <element signature="method#setBlurBackgroundRadius#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#getDefaultBlurBackgroundRadius#0;class#Dialog#0" expanded="false" />
-                <element signature="method#getDefaultBlurBackgroundRadius#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#setDefaultBlurBackgroundRadius#0;class#Dialog#0" expanded="false" />
-                <element signature="method#setDefaultBlurBackgroundRadius#0;class#Dialog#0" expanded="false" />
-                <element signature="docComment;method#initDialogBgPainter#0;class#Dialog#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="StateMachineBase.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/generated/StateMachineBase.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -944,112 +808,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UIBuilder.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/lib/CodenameOne_SRC.zip!/com/codename1/ui/util/UIBuilder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8534">
-              <caret line="692" column="29" selection-start-line="692" selection-start-column="29" selection-end-line="692" selection-end-column="29" />
-              <folding>
-                <element signature="e#0#117752#0" expanded="false" />
-                <element signature="imports" expanded="false" />
-                <element signature="docComment;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;field#FORM_STATE_KEY_NAME#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;field#FORM_STATE_KEY_TITLE#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;field#FORM_STATE_KEY_FOCUS#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;field#FORM_STATE_KEY_SELECTION#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;field#FORM_STATE_KEY_CONTAINER#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#isBlockAnalytics#0;class#UIBuilder#0" expanded="false" />
-                <element signature="method#isBlockAnalytics#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#setBlockAnalytics#0;class#UIBuilder#0" expanded="false" />
-                <element signature="method#setBlockAnalytics#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;field#homeForm#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#setBackCommandEnabled#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#popNavigationStack#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#setBackDestination#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#formNavigationStackDebug#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#isBackCommandEnabled#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#registerCustomComponent#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#analyticsCallback#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#createContainer#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#createContainer#1;class#UIBuilder#0" expanded="false" />
-                <element signature="e#19405#19478#0" expanded="false" />
-                <element signature="docComment;method#postCreateComponents#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#findByName#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#findByName#1;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#createComponentInstance#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#postCreateComponent#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#bindListenerToComponent#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#setListModel#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#setListModel#1;class#UIBuilder#0" expanded="false" />
-                <element signature="e#43317#43395#0" expanded="false" />
-                <element signature="docComment;method#createCommand#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#fetchResourceFile#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#getResourceFilePath#0;class#UIBuilder#0" expanded="false" />
-                <element signature="method#getResourceFilePath#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#setResourceFilePath#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#setResourceFile#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#processCommand#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#addCommandListener#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#removeCommandListener#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#addComponentListener#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#removeComponentListener#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#addCommandListener#1;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#removeCommandListener#1;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#handleComponentAction#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#asyncCommandProcess#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#postAsyncCommand#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#processBackground#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#getFormState#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#restoreComponentState#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#storeComponentState#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#shouldAutoStoreState#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#setFormState#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#getContainerState#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#setContainerState#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#getHomeForm#0;class#UIBuilder#0" expanded="false" />
-                <element signature="method#getHomeForm#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#setHomeForm#0;class#UIBuilder#0" expanded="false" />
-                <element signature="method#setHomeForm#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#back#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#back#1;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#getPreviousFormName#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#getBackCommandText#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#setBackCommand#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#showContainer#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#reloadContainer#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#reloadForm#0;class#UIBuilder#0" expanded="false" />
-                <element signature="e#91317#91338#0" expanded="false" />
-                <element signature="e#91641#91742#0" expanded="false" />
-                <element signature="docComment;method#createBackLazyValue#0;class#UIBuilder#0" expanded="false" />
-                <element signature="e#101784#101853#0" expanded="false" />
-                <element signature="docComment;method#allowBackTo#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#isSameBackDestination#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#showForm#1;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#exitForm#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#beforeShow#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#onBackNavigation#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#postShowImpl#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#shouldAddBackCommandToMenu#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#postShow#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#beforeShowContainer#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#postShowContainer#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#onCreateRoot#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#isKeepResourcesInRam#0;class#UIBuilder#0" expanded="false" />
-                <element signature="method#isKeepResourcesInRam#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#setKeepResourcesInRam#0;class#UIBuilder#0" expanded="false" />
-                <element signature="method#setKeepResourcesInRam#0;class#UIBuilder#0" expanded="false" />
-                <element signature="docComment;method#getRootAncestor#0;class#UIBuilder#0" expanded="false" />
-                <element signature="e#109918#109998#0" expanded="false" />
-                <element signature="e#110454#110532#0" expanded="false" />
-                <element signature="docComment;class#FormListener#0;class#UIBuilder#0" expanded="false" />
-                <element signature="e#117415#117556#0" expanded="false" />
-                <element signature="e#117555#117556#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -1077,7 +839,7 @@
     <option name="width" value="1382" />
     <option name="height" value="754" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -2011,16 +1773,16 @@
       <workItem from="1477270244391" duration="6221000" />
       <workItem from="1477276660115" duration="4003000" />
       <workItem from="1477420814325" duration="1340000" />
-      <workItem from="1477433342600" duration="2307000" />
+      <workItem from="1477433342600" duration="4370000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13871000" />
+    <option name="totallyTimeSpent" value="15934000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -2029,7 +1791,7 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32850242" sideWeight="0.5121029" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -2042,7 +1804,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.48789713" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
     </layout>
   </component>
@@ -5763,10 +5525,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/command/ParseResponse.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#4448#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/command/ParseResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/userclasses/StateMachine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+        <state relative-caret-position="153">
+          <caret line="42" column="63" selection-start-line="42" selection-start-column="63" selection-end-line="42" selection-end-column="63" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
