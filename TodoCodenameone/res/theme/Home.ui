@@ -2,10 +2,10 @@
 
 <component type="Form" name="Home" cloudDestinationProperty="Home" layout="BorderLayout" borderLayoutAbsoluteCenter="false" title="Home" >
   <component type="Button" name="Add" cloudDestinationProperty="Add" commandName="Add" commandId="1" commandAction="Add" commandBack="false" text="Add" >
-    <layoutConstraint value="South" />
+    <layoutConstraint value="North" />
   </component>
   <component type="MultiList" name="MyTodos" cloudDestinationProperty="MyTodos" >
-    <layoutConstraint value="North" />
+    <layoutConstraint value="Center" />
     <mapItems>
       <stringItem key="Line2" value="more..." />
       <stringItem key="Line1" value="Entry 1" />

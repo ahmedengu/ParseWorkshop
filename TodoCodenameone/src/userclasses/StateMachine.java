@@ -13,6 +13,7 @@ import com.codename1.ui.*;
 import com.codename1.ui.events.ActionEvent;
 import com.codename1.ui.list.MultiList;
 import com.codename1.ui.util.Resources;
+import com.codename1.util.StringUtil;
 import com.parse4cn1.*;
 import generated.StateMachineBase;
 
@@ -105,7 +106,7 @@ public class StateMachine extends StateMachineBase {
             java.util.List<ParseObject> list = query.find();
             for (int i = 0; i < list.size(); i++) {
                 Map<String, Object> d = new HashMap<>();
-                d.put("Line1", (list.get(i).getString("data")));
+                d.put("Line1", (HTMLDecode(list.get(i).getString("data"))));
 
                 d.put("emblem", list.get(i).getBoolean("checked"));
                 d.put("object", list.get(i));
@@ -184,6 +185,15 @@ public class StateMachine extends StateMachineBase {
                 showForm("Delete", null);
             }
         });
+    }
+
+    public static String HTMLDecode(String x) {
+        x = StringUtil.replaceAll(x, "&amp;", "&");
+        x = StringUtil.replaceAll(x, "&lt;", "<");
+        x = StringUtil.replaceAll(x, "&gt;", ">");
+        x = StringUtil.replaceAll(x, "&quot;", "\"");
+        x = StringUtil.replaceAll(x, "&#x27;", "'");
+        return x;
     }
 }
 

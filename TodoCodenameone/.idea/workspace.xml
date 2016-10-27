@@ -1,14 +1,220 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/userclasses/StateMachine.java" line="107" />
+    <bookmark url="file://$PROJECT_DIR$/src/userclasses/StateMachine.java" line="108" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09c4ced3-84f8-40eb-810e-35ba87522f43" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/TodoCodenameone/userclasses/HtmlManipulator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/READM.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/com/parse4cn1/ParseInstallation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/com/parse4cn1/ParsePush$IPushCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/com/parse4cn1/ParsePush.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/com/parse4cn1/nativeinterface/ParseInstallationNative.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/com/parse4cn1/nativeinterface/ParseInstallationNativeImpl.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/com/parse4cn1/nativeinterface/ParsePushNative.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/com/parse4cn1/nativeinterface/ParsePushNativeImpl.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/Parse$DefaultParseObjectFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/Parse$EPlatform.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/Parse$IParseObjectFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/Parse$IPersistable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/Parse.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/ParseBatch$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/ParseBatch$EBatchOpType.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/ParseBatch.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/ParseCloud.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/ParseConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/ParseConstants.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/ParseException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/ParseFile.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/ParseGeoPoint.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/ParseInstallation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/ParseObject.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/ParsePush$IPushCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/ParsePush.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/ParseQuery$KeyConstraints.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/ParseQuery$QueryConstraints.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/ParseQuery$RelationConstraint.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/ParseQuery.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/ParseRelation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/ParseRole.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/ParseUser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/callback/CountCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/callback/DeleteCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/callback/FindCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/callback/FunctionCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/callback/GetCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/callback/GetDataCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/callback/LocationCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/callback/LoginCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/callback/ParseCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/callback/ProgressCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/callback/RequestPasswordResetCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/callback/SaveCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/callback/SendCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/callback/SignUpCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/command/ParseCommand$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/command/ParseCommand$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/command/ParseCommand.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/command/ParseDeleteCommand.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/command/ParseDownloadCommand.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/command/ParseGetCommand.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/command/ParsePostCommand.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/command/ParsePutCommand.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/command/ParseResponse.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/command/ParseUploadCommand$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/command/ParseUploadCommand.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/encode/IParseObjectEncodingStrategy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/encode/ParseDecoder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/encode/ParseEncoder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/encode/PointerEncodingStrategy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/encode/PointerOrLocalIdEncodingStrategy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/nativeinterface/ParseInstallationNative.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/nativeinterface/ParsePushNative.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/operation/AddToArrayOperation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/operation/AddUniqueToArrayOperation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/operation/DeleteFieldOperation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/operation/IncrementFieldOperation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/operation/ParseOperation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/operation/ParseOperationDecoder$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/operation/ParseOperationDecoder$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/operation/ParseOperationDecoder$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/operation/ParseOperationDecoder$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/operation/ParseOperationDecoder$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/operation/ParseOperationDecoder$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/operation/ParseOperationDecoder$7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/operation/ParseOperationDecoder$IParseOperationDecoder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/operation/ParseOperationDecoder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/operation/ParseOperationUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/operation/RelationOperation$ERelationType.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/operation/RelationOperation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/operation/RemoveFromArrayOperation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/operation/SetFieldOperation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/util/ExternalizableJsonEntity$EJsonEntityType.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/util/ExternalizableJsonEntity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/util/ExternalizableParseObject.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/util/Logger$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/util/Logger$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/util/Logger.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/util/MimeType.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/util/ParseRegistry.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/native/android/READM.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/native/android/com/parse4cn1/nativeinterface/ParseInstallationNativeImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/native/android/com/parse4cn1/nativeinterface/ParsePushNativeImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/native/ios/READM.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/native/ios/com_parse4cn1_nativeinterface_ParseInstallationNativeImpl.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/native/ios/com_parse4cn1_nativeinterface_ParseInstallationNativeImpl.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/native/ios/com_parse4cn1_nativeinterface_ParsePushNativeImpl.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/native/ios/com_parse4cn1_nativeinterface_ParsePushNativeImpl.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/native/j2me/READM.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/native/j2me/com/parse4cn1/nativeinterface/ParseInstallationNativeImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/native/j2me/com/parse4cn1/nativeinterface/ParsePushNativeImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/native/javase/READM.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/native/javase/com/parse4cn1/nativeinterface/ParseInstallationNativeImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/native/javase/com/parse4cn1/nativeinterface/ParsePushNativeImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/native/rim/READM.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/native/rim/com/parse4cn1/nativeinterface/ParseInstallationNativeImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/native/rim/com/parse4cn1/nativeinterface/ParsePushNativeImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/native/win/READM.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/native/win/com/parse4cn1/nativeinterface/ParseInstallationNativeImpl.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/native/win/com/parse4cn1/nativeinterface/ParsePushNativeImpl.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/Parse.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/ParseBatch.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/ParseCloud.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/ParseConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/ParseConstants.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/ParseException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/ParseFile.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/ParseGeoPoint.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/ParseInstallation.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/ParseObject.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/ParsePush.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/ParseQuery.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/ParseRelation.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/ParseRole.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/ParseUser.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/callback/CountCallback.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/callback/DeleteCallback.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/callback/FindCallback.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/callback/FunctionCallback.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/callback/GetCallback.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/callback/GetDataCallback.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/callback/LocationCallback.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/callback/LoginCallback.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/callback/ParseCallback.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/callback/ProgressCallback.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/callback/RequestPasswordResetCallback.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/callback/SaveCallback.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/callback/SendCallback.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/callback/SignUpCallback.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/command/ParseCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/command/ParseDeleteCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/command/ParseDownloadCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/command/ParseGetCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/command/ParsePostCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/command/ParsePutCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/command/ParseResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/command/ParseUploadCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/encode/IParseObjectEncodingStrategy.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/encode/ParseDecoder.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/encode/ParseEncoder.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/encode/PointerEncodingStrategy.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/encode/PointerOrLocalIdEncodingStrategy.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/nativeinterface/ParseInstallationNative.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/nativeinterface/ParsePushNative.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/operation/AddToArrayOperation.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/operation/AddUniqueToArrayOperation.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/operation/DeleteFieldOperation.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/operation/IncrementFieldOperation.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/operation/ParseOperation.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/operation/ParseOperationDecoder.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/operation/ParseOperationUtil.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/operation/RelationOperation.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/operation/RemoveFromArrayOperation.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/operation/SetFieldOperation.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/util/ExternalizableJsonEntity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/util/ExternalizableParseObject.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/util/Logger.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/util/MimeType.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/util/ParseRegistry.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/parse4cn1.cn1lib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/parse4cn1.ver" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Todo.apk" afterPath="$PROJECT_DIR$/../Todo.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/com/parse4cn1/Parse$DefaultParseObjectFactory.class" afterPath="$PROJECT_DIR$/build/classes/com/parse4cn1/Parse$DefaultParseObjectFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/com/parse4cn1/Parse.class" afterPath="$PROJECT_DIR$/build/classes/com/parse4cn1/Parse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/com/parse4cn1/ParseBatch.class" afterPath="$PROJECT_DIR$/build/classes/com/parse4cn1/ParseBatch.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/com/parse4cn1/ParseObject.class" afterPath="$PROJECT_DIR$/build/classes/com/parse4cn1/ParseObject.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/com/parse4cn1/ParseQuery$KeyConstraints.class" afterPath="$PROJECT_DIR$/build/classes/com/parse4cn1/ParseQuery$KeyConstraints.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/com/parse4cn1/ParseQuery$QueryConstraints.class" afterPath="$PROJECT_DIR$/build/classes/com/parse4cn1/ParseQuery$QueryConstraints.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/com/parse4cn1/ParseQuery$RelationConstraint.class" afterPath="$PROJECT_DIR$/build/classes/com/parse4cn1/ParseQuery$RelationConstraint.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/com/parse4cn1/ParseQuery.class" afterPath="$PROJECT_DIR$/build/classes/com/parse4cn1/ParseQuery.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/com/parse4cn1/ParseUser.class" afterPath="$PROJECT_DIR$/build/classes/com/parse4cn1/ParseUser.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/com/parse4cn1/command/ParseCommand$1.class" afterPath="$PROJECT_DIR$/build/classes/com/parse4cn1/command/ParseCommand$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/com/parse4cn1/command/ParseCommand.class" afterPath="$PROJECT_DIR$/build/classes/com/parse4cn1/command/ParseCommand.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/com/parse4cn1/command/ParseResponse.class" afterPath="$PROJECT_DIR$/build/classes/com/parse4cn1/command/ParseResponse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/com/parse4cn1/command/ParseUploadCommand$1.class" afterPath="$PROJECT_DIR$/build/classes/com/parse4cn1/command/ParseUploadCommand$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/com/parse4cn1/command/ParseUploadCommand.class" afterPath="$PROJECT_DIR$/build/classes/com/parse4cn1/command/ParseUploadCommand.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/com/parse4cn1/encode/ParseDecoder.class" afterPath="$PROJECT_DIR$/build/classes/com/parse4cn1/encode/ParseDecoder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/com/parse4cn1/operation/IncrementFieldOperation.class" afterPath="$PROJECT_DIR$/build/classes/com/parse4cn1/operation/IncrementFieldOperation.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/com/parse4cn1/operation/ParseOperationDecoder.class" afterPath="$PROJECT_DIR$/build/classes/com/parse4cn1/operation/ParseOperationDecoder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/com/parse4cn1/util/MimeType.class" afterPath="$PROJECT_DIR$/build/classes/com/parse4cn1/util/MimeType.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/com/parse4cn1/util/ParseRegistry.class" afterPath="$PROJECT_DIR$/build/classes/com/parse4cn1/util/ParseRegistry.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/theme.res" afterPath="$PROJECT_DIR$/build/classes/theme.res" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/userclasses/StateMachine$1.class" afterPath="$PROJECT_DIR$/build/classes/userclasses/StateMachine$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/userclasses/StateMachine.class" afterPath="$PROJECT_DIR$/build/classes/userclasses/StateMachine.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/tmp/userclasses/StateMachine.class" afterPath="$PROJECT_DIR$/build/tmp/userclasses/StateMachine.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/Todo.jar" afterPath="$PROJECT_DIR$/dist/Todo.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/TodoCodenameone/theme.res" afterPath="$PROJECT_DIR$/out/production/TodoCodenameone/theme.res" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/TodoCodenameone/userclasses/StateMachine$1.class" afterPath="$PROJECT_DIR$/out/production/TodoCodenameone/userclasses/StateMachine$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/TodoCodenameone/userclasses/StateMachine.class" afterPath="$PROJECT_DIR$/out/production/TodoCodenameone/userclasses/StateMachine.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/theme/Home" afterPath="$PROJECT_DIR$/res/theme/Home" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/theme/Home.ui" afterPath="$PROJECT_DIR$/res/theme/Home.ui" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/theme.res" afterPath="$PROJECT_DIR$/src/theme.res" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../UWP.zip" afterPath="$PROJECT_DIR$/../UWP.zip" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/workspace.xml" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Todo.jad" afterPath="$PROJECT_DIR$/../Todo.jad" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/built-jar.properties" afterPath="$PROJECT_DIR$/build/built-jar.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/userclasses/StateMachine.java" afterPath="$PROJECT_DIR$/src/userclasses/StateMachine.java" />
     </list>
     <ignored path="Todo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,17 +236,102 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="StateMachine.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StateMachine.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/userclasses/StateMachine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="66" column="41" selection-start-line="66" selection-start-column="41" selection-end-line="66" selection-end-column="41" />
+            <state relative-caret-position="247">
+              <caret line="106" column="51" selection-start-line="106" selection-start-column="51" selection-end-line="106" selection-end-column="51" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="imports" expanded="true" />
                 <element signature="docComment;class#StateMachine#0" expanded="true" />
                 <element signature="docComment;method#initVars#0;class#StateMachine#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ParseQuery.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/parse4cn1/ParseQuery.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="448">
+              <caret line="1112" column="0" selection-start-line="1112" selection-start-column="0" selection-end-line="1112" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ParseObject.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/parse4cn1/ParseObject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="127" column="7" selection-start-line="127" selection-start-column="7" selection-end-line="127" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ParseCommand.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/parse4cn1/command/ParseCommand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="227">
+              <caret line="202" column="23" selection-start-line="202" selection-start-column="23" selection-end-line="202" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IParseObjectEncodingStrategy.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/parse4cn1/encode/IParseObjectEncodingStrategy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ParseRegistry.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/parse4cn1/util/ParseRegistry.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-313">
+              <caret line="66" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Parse.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/parse4cn1/Parse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="371" column="55" selection-start-line="371" selection-start-column="55" selection-end-line="371" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ParseUser.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/parse4cn1/ParseUser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="222" column="22" selection-start-line="222" selection-start-column="22" selection-end-line="222" selection-end-column="22" />
+              <folding>
+                <element signature="method#getCurrent#0;class#ParseUser#0" expanded="true" />
+                <element signature="method#getSessionToken#0;class#ParseUser#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ParseLiveQuery.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/parse4cn1/ParseLiveQuery.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="17" column="28" selection-start-line="0" selection-start-column="0" selection-end-line="250" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -54,672 +345,10 @@
                 <element signature="e#0#7250#0" expanded="false" />
                 <element signature="docComment;class#URLDecoder#0" expanded="false" />
                 <element signature="docComment;method#decode#0;class#URLDecoder#0" expanded="false" />
+                <element signature="docComment;method#decode#1;class#URLDecoder#0" expanded="false" />
                 <element signature="e#5620#5670#0" expanded="false" />
                 <element signature="e#6395#6442#0" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Form.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/lib/CodenameOne_SRC.zip!/com/codename1/ui/Form.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34136">
-              <caret line="2722" column="31" selection-start-line="2722" selection-start-column="31" selection-end-line="2722" selection-end-column="31" />
-              <folding>
-                <element signature="e#0#112751#0" expanded="false" />
-                <element signature="imports" expanded="false" />
-                <element signature="docComment;class#Form#0" expanded="false" />
-                <element signature="docComment;field#focusScrolling#0;class#Form#0" expanded="false" />
-                <element signature="docComment;field#comboLock#0;class#Form#0" expanded="false" />
-                <element signature="docComment;field#internalAnimatableComponents#0;class#Form#0" expanded="false" />
-                <element signature="docComment;field#animatableComponents#0;class#Form#0" expanded="false" />
-                <element signature="docComment;field#transitionInAnimator#0;class#Form#0" expanded="false" />
-                <element signature="docComment;field#transitionOutAnimator#0;class#Form#0" expanded="false" />
-                <element signature="docComment;field#commandListener#0;class#Form#0" expanded="false" />
-                <element signature="docComment;field#previousForm#0;class#Form#0" expanded="false" />
-                <element signature="docComment;field#tint#0;class#Form#0" expanded="false" />
-                <element signature="docComment;field#tintColor#0;class#Form#0" expanded="false" />
-                <element signature="docComment;field#keyListeners#0;class#Form#0" expanded="false" />
-                <element signature="docComment;field#gameKeyListeners#0;class#Form#0" expanded="false" />
-                <element signature="docComment;field#cyclicFocus#0;class#Form#0" expanded="false" />
-                <element signature="docComment;field#editOnShow#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#Form#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#Form#1;class#Form#0" expanded="false" />
-                <element signature="docComment;method#initGlobalToolbar#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#getAnimationManager#0;class#Form#0" expanded="false" />
-                <element signature="method#getAnimationManager#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#setFormBottomPaddingEditingMode#0;class#Form#0" expanded="false" />
-                <element signature="method#setFormBottomPaddingEditingMode#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#isFormBottomPaddingEditingMode#0;class#Form#0" expanded="false" />
-                <element signature="method#isFormBottomPaddingEditingMode#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#shouldPaintStatusBar#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#createStatusBar#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#initTitleBarStatus#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#isAlwaysTensile#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#grabAnimationLock#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#releaseAnimationLock#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#setAlwaysTensile#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#getTitleArea#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#addShowListener#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#removeShowListener#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#removeAllShowListeners#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#addOrientationListener#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#removeOrientationListener#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#addSizeChangedListener#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#removeSizeChangedListener#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#hideNotify#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#showNotify#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#sizeChanged#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#sizeChangedInternal#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#setGlassPane#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#isDragRegion#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#getDragRegionStatus#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#paintGlassImpl#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#getGlassPane#0;class#Form#0" expanded="false" />
-                <element signature="method#getGlassPane#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#setTitleStyle#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#getTitleComponent#0;class#Form#0" expanded="false" />
-                <element signature="method#getTitleComponent#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#setTitleComponent#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#setTitleComponent#1;class#Form#0" expanded="false" />
-                <element signature="docComment;method#addKeyListener#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#removeKeyListener#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#removeGameKeyListener#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#addGameKeyListener#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#getSoftButtonCount#0;class#Form#0" expanded="false" />
-                <element signature="method#getSoftButtonCount#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#getSoftButton#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#getMenuStyle#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#getTitleStyle#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#getPreviousForm#0;class#Form#0" expanded="false" />
-                <element signature="method#getPreviousForm#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#initLaf#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#setDraggedComponent#0;class#Form#0" expanded="false" />
-                <element signature="method#setDraggedComponent#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#getDraggedComponent#0;class#Form#0" expanded="false" />
-                <element signature="method#getDraggedComponent#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#isInSameColumn#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#isInSameRow#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#setDefaultCommand#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#getDefaultCommand#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#setClearCommand#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#getClearCommand#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#setBackCommand#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#setBackCommand#1;class#Form#0" expanded="false" />
-                <element signature="docComment;method#getBackCommand#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#Form#2;class#Form#0" expanded="false" />
-                <element signature="docComment;method#Form#3;class#Form#0" expanded="false" />
-                <element signature="docComment;method#getContentPane#0;class#Form#0" expanded="false" />
-                <element signature="method#getContentPane#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#getLayeredPane#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#getLayeredPane#1;class#Form#0" expanded="false" />
-                <element signature="docComment;method#getLayeredPaneImpl#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#removeAll#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#setBgImage#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#setLayout#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#setTitle#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#getTitle#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#addComponent#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#addComponent#1;class#Form#0" expanded="false" />
-                <element signature="docComment;method#addComponent#2;class#Form#0" expanded="false" />
-                <element signature="docComment;method#addComponent#3;class#Form#0" expanded="false" />
-                <element signature="docComment;method#replace#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#replaceAndWait#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#removeComponent#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#registerMediaComponent#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#hasMedia#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#deregisterMediaComponent#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#registerAnimated#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#registerAnimatedInternal#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#deregisterAnimatedInternal#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#deregisterAnimated#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#animate#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#repaintAnimations#0;class#Form#0" expanded="false" />
-                <element signature="e#46981#47057#0" expanded="false" />
-                <element signature="e#47589#47672#0" expanded="false" />
-                <element signature="docComment;method#hasAnimations#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#refreshTheme#0;class#Form#0" expanded="false" />
-                <element signature="e#48681#48756#0" expanded="false" />
-                <element signature="docComment;method#paintBackground#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#getTransitionInAnimator#0;class#Form#0" expanded="false" />
-                <element signature="method#getTransitionInAnimator#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#setTransitionInAnimator#0;class#Form#0" expanded="false" />
-                <element signature="method#setTransitionInAnimator#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#getTransitionOutAnimator#0;class#Form#0" expanded="false" />
-                <element signature="method#getTransitionOutAnimator#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#setTransitionOutAnimator#0;class#Form#0" expanded="false" />
-                <element signature="method#setTransitionOutAnimator#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#addCommandListener#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#removeCommandListener#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#actionCommand#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#dispatchCommand#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#actionCommandImpl#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#actionCommandImpl#1;class#Form#0" expanded="false" />
-                <element signature="docComment;method#actionCommandImplNoRecurseComponent#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#show#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#showBack#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#show#1;class#Form#0" expanded="false" />
-                <element signature="docComment;method#deinitializeImpl#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#initComponentImpl#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#setSmoothScrolling#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#isSmoothScrolling#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#getScrollAnimationSpeed#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#setScrollAnimationSpeed#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#onShow#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#onShowCompleted#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#showModal#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#initDialogBgPainter#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#showModal#1;class#Form#0" expanded="false" />
-                <element signature="docComment;method#showDialog#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#dispose#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#disposeImpl#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#repaint#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#getComponentForm#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#hideMenu#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#restoreMenu#0;class#Form#0" expanded="false" />
-                <element signature="method#setFocusedInternal#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#setFocused#0;class#Form#0" expanded="false" />
-                <element signature="e#66802#66870#0" expanded="false" />
-                <element signature="e#67048#67108#0" expanded="false" />
-                <element signature="e#67323#67391#0" expanded="false" />
-                <element signature="docComment;method#changeFocusState#0;class#Form#0" expanded="false" />
-                <element signature="e#68206#68277#0" expanded="false" />
-                <element signature="e#69781#69851#0" expanded="false" />
-                <element signature="docComment;method#getFocused#0;class#Form#0" expanded="false" />
-                <element signature="method#getFocused#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#longKeyPress#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#longPointerPress#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#shouldSendPointerReleaseToOtherForm#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#keyPressed#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#getLayout#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#isMinimizeOnBack#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#setMinimizeOnBack#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#keyReleased#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#keyRepeated#0;class#Form#0" expanded="false" />
-                <element signature="e#75314#75343#0" expanded="false" />
-                <element signature="docComment;method#pointerPressed#0;class#Form#0" expanded="false" />
-                <element signature="e#79737#79794#0" expanded="false" />
-                <element signature="docComment;method#pointerDragged#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#pointerHoverReleased#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#pointerHoverPressed#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#pointerHover#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#isSingleFocusMode#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#pointerReleased#0;class#Form#0" expanded="false" />
-                <element signature="e#88615#88679#0" expanded="false" />
-                <element signature="docComment;method#setScrollableY#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#setScrollableX#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#getComponentIndex#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#getCommandCount#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#getCommand#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#addCommand#1;class#Form#0" expanded="false" />
-                <element signature="docComment;method#removeCommand#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#setCyclicFocus#0;class#Form#0" expanded="false" />
-                <element signature="method#setCyclicFocus#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#findNextFocusVertical#1;class#Form#0" expanded="false" />
-                <element signature="docComment;method#findNextFocusHorizontal#1;class#Form#0" expanded="false" />
-                <element signature="docComment;method#isCyclicFocus#0;class#Form#0" expanded="false" />
-                <element signature="method#isCyclicFocus#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#moveScrollTowards#0;class#Form#0" expanded="false" />
-                <element signature="e#104028#104084#0" expanded="false" />
-                <element signature="docComment;method#scrollComponentToVisible#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#setMenuCellRenderer#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#removeAllCommands#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#requestFocus#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#setRTL#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#paint#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#setScrollable#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#isScrollable#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#setVisible#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#getTintColor#0;class#Form#0" expanded="false" />
-                <element signature="method#getTintColor#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#setTintColor#0;class#Form#0" expanded="false" />
-                <element signature="method#setTintColor#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#setMenuTransitions#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#paramString#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#getMenuBar#0;class#Form#0" expanded="false" />
-                <element signature="method#getMenuBar#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#setMenuBar#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#setToolBar#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#setToolbar#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#getToolbar#0;class#Form#0" expanded="false" />
-                <element signature="method#getToolbar#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#isFocusScrolling#0;class#Form#0" expanded="false" />
-                <element signature="method#isFocusScrolling#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#setFocusScrolling#0;class#Form#0" expanded="false" />
-                <element signature="method#setFocusScrolling#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#getPropertyNames#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#getPropertyTypes#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#getPropertyTypeNames#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#getPropertyValue#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#setPropertyValue#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#getEditOnShow#0;class#Form#0" expanded="false" />
-                <element signature="method#getEditOnShow#0;class#Form#0" expanded="false" />
-                <element signature="docComment;method#setEditOnShow#0;class#Form#0" expanded="false" />
-                <element signature="method#setEditOnShow#0;class#Form#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Component.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/lib/CodenameOne_SRC.zip!/com/codename1/ui/Component.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24514">
-              <caret line="2196" column="5" selection-start-line="2196" selection-start-column="5" selection-end-line="2196" selection-end-column="5" />
-              <folding>
-                <element signature="e#0#192149#0" expanded="false" />
-                <element signature="imports" expanded="false" />
-                <element signature="docComment;class#Component#0" expanded="false" />
-                <element signature="docComment;field#DRAG_REGION_NOT_DRAGGABLE#0;class#Component#0" expanded="false" />
-                <element signature="docComment;field#DRAG_REGION_POSSIBLE_DRAG_X#0;class#Component#0" expanded="false" />
-                <element signature="docComment;field#DRAG_REGION_POSSIBLE_DRAG_Y#0;class#Component#0" expanded="false" />
-                <element signature="docComment;field#DRAG_REGION_POSSIBLE_DRAG_XY#0;class#Component#0" expanded="false" />
-                <element signature="docComment;field#DRAG_REGION_LIKELY_DRAG_X#0;class#Component#0" expanded="false" />
-                <element signature="docComment;field#DRAG_REGION_LIKELY_DRAG_Y#0;class#Component#0" expanded="false" />
-                <element signature="docComment;field#DRAG_REGION_LIKELY_DRAG_XY#0;class#Component#0" expanded="false" />
-                <element signature="docComment;field#blockLead#0;class#Component#0" expanded="false" />
-                <element signature="docComment;field#nextFocusDown#0;class#Component#0" expanded="false" />
-                <element signature="docComment;field#enabled#0;class#Component#0" expanded="false" />
-                <element signature="docComment;field#nextFocusRight#0;class#Component#0" expanded="false" />
-                <element signature="docComment;field#grabsPointerEvents#0;class#Component#0" expanded="false" />
-                <element signature="docComment;field#tensileDragEnabled#0;class#Component#0" expanded="false" />
-                <element signature="docComment;field#tensileHighlightEnabled#0;class#Component#0" expanded="false" />
-                <element signature="docComment;field#tactileTouch#0;class#Component#0" expanded="false" />
-                <element signature="docComment;field#BRB_CONSTANT_ASCENT#0;class#Component#0" expanded="false" />
-                <element signature="docComment;field#BRB_CONSTANT_DESCENT#0;class#Component#0" expanded="false" />
-                <element signature="docComment;field#BRB_CENTER_OFFSET#0;class#Component#0" expanded="false" />
-                <element signature="docComment;field#BRB_OTHER#0;class#Component#0" expanded="false" />
-                <element signature="docComment;field#cellRenderer#0;class#Component#0" expanded="false" />
-                <element signature="docComment;field#scrollOpacityChangeSpeed#0;class#Component#0" expanded="false" />
-                <element signature="docComment;field#smoothScrolling#0;class#Component#0" expanded="false" />
-                <element signature="docComment;field#animationSpeed#0;class#Component#0" expanded="false" />
-                <element signature="docComment;field#dragActivated#0;class#Component#0" expanded="false" />
-                <element signature="docComment;field#initialized#0;class#Component#0" expanded="false" />
-                <element signature="docComment;field#CENTER#0;class#Component#0" expanded="false" />
-                <element signature="docComment;field#TOP#0;class#Component#0" expanded="false" />
-                <element signature="docComment;field#LEFT#0;class#Component#0" expanded="false" />
-                <element signature="docComment;field#BOTTOM#0;class#Component#0" expanded="false" />
-                <element signature="docComment;field#RIGHT#0;class#Component#0" expanded="false" />
-                <element signature="docComment;field#BASELINE#0;class#Component#0" expanded="false" />
-                <element signature="docComment;field#rtl#0;class#Component#0" expanded="false" />
-                <element signature="method#isDragAndDropInitialized#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setSameSize#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setSameWidth#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getAllStyles#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getSameWidth#0;class#Component#0" expanded="false" />
-                <element signature="method#getSameWidth#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setSameHeight#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getSameHeight#0;class#Component#0" expanded="false" />
-                <element signature="method#getSameHeight#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#Component#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#initLaf#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getUIManager#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getX#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getY#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#isVisible#0;class#Component#0" expanded="false" />
-                <element signature="method#isVisible#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getClientProperty#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#clearClientProperties#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#putClientProperty#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getDirtyRegion#0;class#Component#0" expanded="false" />
-                <element signature="method#getDirtyRegion#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setDirtyRegion#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setVisible#0;class#Component#0" expanded="false" />
-                <element signature="method#setVisible#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getWidth#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getHeight#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setX#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setY#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#isDragRegion#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getDragRegionStatus#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#onParentPositionChange#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getBaseline#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getBaselineResizeBehavior#0;class#Component#0" expanded="false" />
-                <element signature="method#getBaselineResizeBehavior#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setPreferredSize#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getPreferredSize#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getScrollDimension#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#calcScrollSize#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setScrollSize#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setPreferredW#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setPreferredH#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getPreferredW#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getPreferredH#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setWidth#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setHeight#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setSize#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getUIID#0;class#Component#0" expanded="false" />
-                <element signature="method#getUIID#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setUIID#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#remove#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getParent#0;class#Component#0" expanded="false" />
-                <element signature="method#getParent#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setParent#0;class#Component#0" expanded="false" />
-                <element signature="method#setParent#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#addFocusListener#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#removeFocusListener#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#addScrollListener#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#removeScrollListener#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#fireClicked#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#isSelectableInteraction#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#fireFocusGained#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#fireFocusLost#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#fireFocusGained#1;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setSelectCommandText#0;class#Component#0" expanded="false" />
-                <element signature="method#setSelectCommandText#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getSelectCommandText#0;class#Component#0" expanded="false" />
-                <element signature="method#getSelectCommandText#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#fireFocusLost#1;class#Component#0" expanded="false" />
-                <element signature="docComment;method#fireActionEvent#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setLabelForComponent#0;class#Component#0" expanded="false" />
-                <element signature="method#setLabelForComponent#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getLabelForComponent#0;class#Component#0" expanded="false" />
-                <element signature="method#getLabelForComponent#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#focusGainedInternal#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#focusGained#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#focusLost#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#focusLostInternal#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#paintBackgrounds#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getAbsoluteX#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getAbsoluteY#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#paintInternal#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#paintScrollbars#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#paintScrollbarX#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getScrollOpacity#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getSelectedRect#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#paintScrollbarY#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#paintComponent#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#paintComponent#1;class#Component#0" expanded="false" />
-                <element signature="e#50518#50596#0" expanded="false" />
-                <element signature="docComment;method#paintGlassImpl#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getBorder#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#paintComponentBackground#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getScrollable#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getScrollableFast#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#paintBackground#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#paint#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#isScrollable#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#isScrollableX#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#isScrollableY#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getScrollX#0;class#Component#0" expanded="false" />
-                <element signature="method#getScrollX#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getScrollY#0;class#Component#0" expanded="false" />
-                <element signature="method#getScrollY#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#onScrollX#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#onScrollY#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setScrollX#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setScrollY#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getDraggedx#0;class#Component#0" expanded="false" />
-                <element signature="method#getDraggedx#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getDraggedy#0;class#Component#0" expanded="false" />
-                <element signature="method#getDraggedy#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getBottomGap#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getSideGap#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#contains#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#calcPreferredSize#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getBounds#0;class#Component#0" expanded="false" />
-                <element signature="method#getBounds#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getVisibleBounds#0;class#Component#0" expanded="false" />
-                <element signature="method#getVisibleBounds#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#isFocusable#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#resetFocusable#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setFocusable#0;class#Component#0" expanded="false" />
-                <element signature="method#setFocusable#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setShouldCalcPreferredSize#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#handlesInput#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setHandlesInput#0;class#Component#0" expanded="false" />
-                <element signature="method#setHandlesInput#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#hasFocus#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setFocus#0;class#Component#0" expanded="false" />
-                <element signature="method#setFocus#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getComponentForm#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#repaint#0;class#Component#0" expanded="false" />
-                <element signature="e#72423#72503#0" expanded="false" />
-                <element signature="docComment;method#repaint#1;class#Component#0" expanded="false" />
-                <element signature="docComment;method#repaint#2;class#Component#0" expanded="false" />
-                <element signature="docComment;method#longKeyPress#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#keyPressed#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#keyReleased#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#keyRepeated#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setAnimationMotion#0;class#Component#0" expanded="false" />
-                <element signature="method#setAnimationMotion#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getAnimationMotion#0;class#Component#0" expanded="false" />
-                <element signature="method#getAnimationMotion#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getAnimationManager#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getScrollAnimationSpeed#0;class#Component#0" expanded="false" />
-                <element signature="method#getScrollAnimationSpeed#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#isBlockLead#0;class#Component#0" expanded="false" />
-                <element signature="method#isBlockLead#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setBlockLead#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#createStyleAnimation#0;class#Component#0" expanded="false" />
-                <element signature="method#getMaxSteps#0;class#84270:92011" expanded="false" />
-                <element signature="docComment;method#setScrollAnimationSpeed#0;class#Component#0" expanded="false" />
-                <element signature="method#setScrollAnimationSpeed#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#isSmoothScrolling#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setSmoothScrolling#0;class#Component#0" expanded="false" />
-                <element signature="method#setSmoothScrolling#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setDisableSmoothScrolling#0;class#Component#0" expanded="false" />
-                <element signature="method#setDisableSmoothScrolling#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#pointerHover#0;class#Component#0" expanded="false" />
-                <element signature="e#93569#93646#0" expanded="false" />
-                <element signature="docComment;method#pointerHoverReleased#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#pointerHoverPressed#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#pinch#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#pointerDragged#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getDragImage#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#dragInitiated#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#drawDraggedImage#1;class#Component#0" expanded="false" />
-                <element signature="docComment;method#draggingOver#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#dragEnter#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#dragExit#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#drop#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#findDropTarget#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#addPullToRefresh#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#pointerDragged#1;class#Component#0" expanded="false" />
-                <element signature="e#108050#108113#0" expanded="false" />
-                <element signature="docComment;method#isStickyDrag#0;class#Component#0" expanded="false" />
-                <element signature="e#110579#110652#0" expanded="false" />
-                <element signature="docComment;method#pointerPressed#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#isDragAndDropOperation#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#pointerPressed#1;class#Component#0" expanded="false" />
-                <element signature="docComment;method#pointerReleased#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#longPointerPress#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#pointerReleased#1;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setTensileDragEnabled#0;class#Component#0" expanded="false" />
-                <element signature="method#setTensileDragEnabled#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#isTensileDragEnabled#0;class#Component#0" expanded="false" />
-                <element signature="method#isTensileDragEnabled#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#addDropListener#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#removeDropListener#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#addDragOverListener#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#removeDragOverListener#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#dragFinished#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#addPointerPressedListener#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#removePointerPressedListener#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#addPointerReleasedListener#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#removePointerReleasedListener#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#addPointerDraggedListener#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#removePointerDraggedListener#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getDragSpeed#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getStyle#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getPressedStyle#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setPressedStyle#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getUnselectedStyle#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getSelectedStyle#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getDisabledStyle#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setUnselectedStyle#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setSelectedStyle#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setDisabledStyle#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#installDefaultPainter#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#requestFocus#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#toString#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#paramString#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#refreshTheme#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#refreshTheme#1;class#Component#0" expanded="false" />
-                <element signature="docComment;method#refreshTheme#2;class#Component#0" expanded="false" />
-                <element signature="docComment;method#isDragActivated#0;class#Component#0" expanded="false" />
-                <element signature="method#isDragActivated#0;class#Component#0" expanded="false" />
-                <element signature="method#setDragActivated#0;class#Component#0" expanded="false" />
-                <element signature="e#136741#136805#0" expanded="false" />
-                <element signature="docComment;method#getGridPosY#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getGridPosX#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#animate#0;class#Component#0" expanded="false" />
-                <element signature="e#138955#139028#0" expanded="false" />
-                <element signature="e#139513#139586#0" expanded="false" />
-                <element signature="e#141596#141669#0" expanded="false" />
-                <element signature="docComment;method#tryDeregisterAnimated#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#scrollRectToVisible#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#scrollRectToVisible#1;class#Component#0" expanded="false" />
-                <element signature="docComment;method#isBorderPainted#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#paintBorder#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#paintBorderBackground#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setCellRenderer#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#isCellRenderer#0;class#Component#0" expanded="false" />
-                <element signature="method#isCellRenderer#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#isScrollVisible#0;class#Component#0" expanded="false" />
-                <element signature="method#isScrollVisible#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setScrollVisible#0;class#Component#0" expanded="false" />
-                <element signature="method#setScrollVisible#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setIsScrollVisible#0;class#Component#0" expanded="false" />
-                <element signature="method#setIsScrollVisible#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#initComponentImpl#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#deinitializeImpl#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#laidOut#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#deinitialize#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#initComponent#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#isInitialized#0;class#Component#0" expanded="false" />
-                <element signature="method#isInitialized#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setInitialized#0;class#Component#0" expanded="false" />
-                <element signature="method#setInitialized#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#styleChanged#0;class#Component#0" expanded="false" />
-                <element signature="e#156519#156601#0" expanded="false" />
-                <element signature="docComment;method#getNextFocusDown#0;class#Component#0" expanded="false" />
-                <element signature="method#getNextFocusDown#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setNextFocusDown#0;class#Component#0" expanded="false" />
-                <element signature="method#setNextFocusDown#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getNextFocusUp#0;class#Component#0" expanded="false" />
-                <element signature="method#getNextFocusUp#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setNextFocusUp#0;class#Component#0" expanded="false" />
-                <element signature="method#setNextFocusUp#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getNextFocusLeft#0;class#Component#0" expanded="false" />
-                <element signature="method#getNextFocusLeft#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setNextFocusLeft#0;class#Component#0" expanded="false" />
-                <element signature="method#setNextFocusLeft#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getNextFocusRight#0;class#Component#0" expanded="false" />
-                <element signature="method#getNextFocusRight#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setNextFocusRight#0;class#Component#0" expanded="false" />
-                <element signature="method#setNextFocusRight#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#isEnabled#0;class#Component#0" expanded="false" />
-                <element signature="method#isEnabled#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#onEditComplete#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setEnabled#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getName#0;class#Component#0" expanded="false" />
-                <element signature="method#getName#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setName#0;class#Component#0" expanded="false" />
-                <element signature="method#setName#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#initCustomStyle#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#deinitializeCustomStyle#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#isRTL#0;class#Component#0" expanded="false" />
-                <element signature="method#isRTL#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setRTL#0;class#Component#0" expanded="false" />
-                <element signature="method#setRTL#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#isTactileTouch#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#isTactileTouch#1;class#Component#0" expanded="false" />
-                <element signature="method#isTactileTouch#1;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setTactileTouch#0;class#Component#0" expanded="false" />
-                <element signature="method#setTactileTouch#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getPropertyNames#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getPropertyTypes#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getPropertyTypeNames#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getPropertyValue#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setPropertyValue#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#paintLockRelease#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#paintLock#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setLightweightMode#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#isSnapToGrid#0;class#Component#0" expanded="false" />
-                <element signature="method#isSnapToGrid#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setSnapToGrid#0;class#Component#0" expanded="false" />
-                <element signature="method#setSnapToGrid#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#shouldBlockSideSwipe#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#isFlatten#0;class#Component#0" expanded="false" />
-                <element signature="method#isFlatten#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setFlatten#0;class#Component#0" expanded="false" />
-                <element signature="method#setFlatten#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getTensileLength#0;class#Component#0" expanded="false" />
-                <element signature="method#getTensileLength#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setTensileLength#0;class#Component#0" expanded="false" />
-                <element signature="method#setTensileLength#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getHintIcon#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setHint#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#isGrabsPointerEvents#0;class#Component#0" expanded="false" />
-                <element signature="method#isGrabsPointerEvents#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setGrabsPointerEvents#0;class#Component#0" expanded="false" />
-                <element signature="method#setGrabsPointerEvents#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getScrollOpacityChangeSpeed#0;class#Component#0" expanded="false" />
-                <element signature="method#getScrollOpacityChangeSpeed#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setScrollOpacityChangeSpeed#0;class#Component#0" expanded="false" />
-                <element signature="method#setScrollOpacityChangeSpeed#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#growShrink#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#isAlwaysTensile#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setAlwaysTensile#0;class#Component#0" expanded="false" />
-                <element signature="method#setAlwaysTensile#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#isDraggable#0;class#Component#0" expanded="false" />
-                <element signature="method#isDraggable#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setDraggable#0;class#Component#0" expanded="false" />
-                <element signature="method#setDraggable#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#isDropTarget#0;class#Component#0" expanded="false" />
-                <element signature="method#isDropTarget#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setDropTarget#0;class#Component#0" expanded="false" />
-                <element signature="method#setDropTarget#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#isHideInPortrait#0;class#Component#0" expanded="false" />
-                <element signature="method#isHideInPortrait#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setHideInPortrait#0;class#Component#0" expanded="false" />
-                <element signature="method#setHideInPortrait#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#cancelRepaints#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getBindablePropertyNames#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getBindablePropertyTypes#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#bindProperty#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#unbindProperty#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getBoundPropertyValue#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setBoundPropertyValue#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getCloudBoundProperty#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setCloudBoundProperty#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getCloudDestinationProperty#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setCloudDestinationProperty#0;class#Component#0" expanded="false" />
-                <element signature="method#setCloudDestinationProperty#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#getComponentState#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setHidden#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setHidden#1;class#Component#0" expanded="false" />
-                <element signature="docComment;method#isHidden#0;class#Component#0" expanded="false" />
-                <element signature="docComment;method#setComponentState#0;class#Component#0" expanded="false" />
-                <element signature="method#setPreviousForm#0;class#BGPainter#0;class#Component#0" expanded="false" />
-                <element signature="method#getPreviousForm#0;class#BGPainter#0;class#Component#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Todo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/ieeeaast/todo/Todo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="docComment;class#Todo#0" expanded="false" />
-                <element signature="e#545#606#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TodoCodenameone.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TodoCodenameone.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -738,7 +367,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/generated/StateMachineBase.java" />
+        <option value="$PROJECT_DIR$/src/com/parse4cn1/ParseLiveQuery.java" />
+        <option value="$PROJECT_DIR$/src/com/parse4cn1/command/ParseCommand.java" />
+        <option value="$PROJECT_DIR$/src/com/parse4cn1/ParseQuery.java" />
         <option value="$PROJECT_DIR$/src/userclasses/StateMachine.java" />
+        <option value="$PROJECT_DIR$/src/com/parse4cn1/ParseInstallation.java" />
+        <option value="$PROJECT_DIR$/src/com/parse4cn1/util/ParseRegistry.java" />
+        <option value="$PROJECT_DIR$/src/com/parse4cn1/Parse.java" />
       </list>
     </option>
   </component>
@@ -780,6 +415,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -826,15 +464,78 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="todo" />
+              <option name="myItemId" value="parse4cn1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TodoCodenameone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TodoCodenameone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="parse4cn1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="encode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TodoCodenameone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TodoCodenameone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="parse4cn1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="command" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TodoCodenameone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TodoCodenameone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="parse4cn1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="callback" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1692,11 +1393,12 @@
       <workItem from="1477433342600" duration="5985000" />
       <workItem from="1477444664069" duration="1876000" />
       <workItem from="1477449339165" duration="5094000" />
+      <workItem from="1477583646881" duration="3830000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24519000" />
+    <option name="totallyTimeSpent" value="28349000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -1705,11 +1407,11 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.48487142" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.48184568" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32850242" sideWeight="0.53933436" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5514372" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1722,7 +1424,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.46066564" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.44856277" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
     </layout>
   </component>
@@ -1739,7 +1441,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="5" />
+      <option name="time" value="11" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -2324,736 +2026,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/command/ParseResponse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/command/ParseResponse.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="method#getResponseData#0;class#ParseResponse#0" expanded="true" />
-            <element signature="method#getStatusCode#0;class#ParseResponse#0" expanded="true" />
-            <element signature="method#setStatusCode#0;class#ParseResponse#0" expanded="true" />
-            <element signature="method#setConnectionError#1;class#ParseResponse#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/CodenameOne_SRC.zip!/com/codename1/ui/Form.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34085">
-          <caret line="2722" column="31" selection-start-line="2722" selection-start-column="31" selection-end-line="2722" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#112751#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="docComment;class#Form#0" expanded="false" />
-            <element signature="docComment;field#focusScrolling#0;class#Form#0" expanded="false" />
-            <element signature="docComment;field#comboLock#0;class#Form#0" expanded="false" />
-            <element signature="docComment;field#internalAnimatableComponents#0;class#Form#0" expanded="false" />
-            <element signature="docComment;field#animatableComponents#0;class#Form#0" expanded="false" />
-            <element signature="docComment;field#transitionInAnimator#0;class#Form#0" expanded="false" />
-            <element signature="docComment;field#transitionOutAnimator#0;class#Form#0" expanded="false" />
-            <element signature="docComment;field#commandListener#0;class#Form#0" expanded="false" />
-            <element signature="docComment;field#previousForm#0;class#Form#0" expanded="false" />
-            <element signature="docComment;field#tint#0;class#Form#0" expanded="false" />
-            <element signature="docComment;field#tintColor#0;class#Form#0" expanded="false" />
-            <element signature="docComment;field#keyListeners#0;class#Form#0" expanded="false" />
-            <element signature="docComment;field#gameKeyListeners#0;class#Form#0" expanded="false" />
-            <element signature="docComment;field#cyclicFocus#0;class#Form#0" expanded="false" />
-            <element signature="docComment;field#editOnShow#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#Form#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#Form#1;class#Form#0" expanded="false" />
-            <element signature="docComment;method#initGlobalToolbar#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#getAnimationManager#0;class#Form#0" expanded="false" />
-            <element signature="method#getAnimationManager#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#setFormBottomPaddingEditingMode#0;class#Form#0" expanded="false" />
-            <element signature="method#setFormBottomPaddingEditingMode#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#isFormBottomPaddingEditingMode#0;class#Form#0" expanded="false" />
-            <element signature="method#isFormBottomPaddingEditingMode#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#shouldPaintStatusBar#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#createStatusBar#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#initTitleBarStatus#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#isAlwaysTensile#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#grabAnimationLock#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#releaseAnimationLock#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#setAlwaysTensile#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#getTitleArea#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#addShowListener#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#removeShowListener#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#removeAllShowListeners#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#addOrientationListener#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#removeOrientationListener#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#addSizeChangedListener#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#removeSizeChangedListener#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#hideNotify#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#showNotify#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#sizeChanged#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#sizeChangedInternal#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#setGlassPane#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#isDragRegion#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#getDragRegionStatus#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#paintGlassImpl#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#getGlassPane#0;class#Form#0" expanded="false" />
-            <element signature="method#getGlassPane#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#setTitleStyle#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#getTitleComponent#0;class#Form#0" expanded="false" />
-            <element signature="method#getTitleComponent#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#setTitleComponent#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#setTitleComponent#1;class#Form#0" expanded="false" />
-            <element signature="docComment;method#addKeyListener#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#removeKeyListener#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#removeGameKeyListener#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#addGameKeyListener#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#getSoftButtonCount#0;class#Form#0" expanded="false" />
-            <element signature="method#getSoftButtonCount#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#getSoftButton#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#getMenuStyle#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#getTitleStyle#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#getPreviousForm#0;class#Form#0" expanded="false" />
-            <element signature="method#getPreviousForm#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#initLaf#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#setDraggedComponent#0;class#Form#0" expanded="false" />
-            <element signature="method#setDraggedComponent#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#getDraggedComponent#0;class#Form#0" expanded="false" />
-            <element signature="method#getDraggedComponent#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#isInSameColumn#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#isInSameRow#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#setDefaultCommand#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#getDefaultCommand#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#setClearCommand#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#getClearCommand#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#setBackCommand#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#setBackCommand#1;class#Form#0" expanded="false" />
-            <element signature="docComment;method#getBackCommand#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#Form#2;class#Form#0" expanded="false" />
-            <element signature="docComment;method#Form#3;class#Form#0" expanded="false" />
-            <element signature="docComment;method#getContentPane#0;class#Form#0" expanded="false" />
-            <element signature="method#getContentPane#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#getLayeredPane#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#getLayeredPane#1;class#Form#0" expanded="false" />
-            <element signature="docComment;method#getLayeredPaneImpl#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#removeAll#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#setBgImage#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#setLayout#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#setTitle#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#getTitle#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#addComponent#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#addComponent#1;class#Form#0" expanded="false" />
-            <element signature="docComment;method#addComponent#2;class#Form#0" expanded="false" />
-            <element signature="docComment;method#addComponent#3;class#Form#0" expanded="false" />
-            <element signature="docComment;method#replace#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#replaceAndWait#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#removeComponent#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#registerMediaComponent#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#hasMedia#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#deregisterMediaComponent#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#registerAnimated#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#registerAnimatedInternal#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#deregisterAnimatedInternal#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#deregisterAnimated#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#animate#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#repaintAnimations#0;class#Form#0" expanded="false" />
-            <element signature="e#46981#47057#0" expanded="false" />
-            <element signature="e#47589#47672#0" expanded="false" />
-            <element signature="docComment;method#hasAnimations#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#refreshTheme#0;class#Form#0" expanded="false" />
-            <element signature="e#48681#48756#0" expanded="false" />
-            <element signature="docComment;method#paintBackground#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#getTransitionInAnimator#0;class#Form#0" expanded="false" />
-            <element signature="method#getTransitionInAnimator#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#setTransitionInAnimator#0;class#Form#0" expanded="false" />
-            <element signature="method#setTransitionInAnimator#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#getTransitionOutAnimator#0;class#Form#0" expanded="false" />
-            <element signature="method#getTransitionOutAnimator#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#setTransitionOutAnimator#0;class#Form#0" expanded="false" />
-            <element signature="method#setTransitionOutAnimator#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#addCommandListener#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#removeCommandListener#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#actionCommand#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#dispatchCommand#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#actionCommandImpl#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#actionCommandImpl#1;class#Form#0" expanded="false" />
-            <element signature="docComment;method#actionCommandImplNoRecurseComponent#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#show#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#showBack#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#show#1;class#Form#0" expanded="false" />
-            <element signature="docComment;method#deinitializeImpl#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#initComponentImpl#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#setSmoothScrolling#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#isSmoothScrolling#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#getScrollAnimationSpeed#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#setScrollAnimationSpeed#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#onShow#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#onShowCompleted#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#showModal#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#initDialogBgPainter#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#showModal#1;class#Form#0" expanded="false" />
-            <element signature="docComment;method#showDialog#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#dispose#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#disposeImpl#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#repaint#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#getComponentForm#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#hideMenu#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#restoreMenu#0;class#Form#0" expanded="false" />
-            <element signature="method#setFocusedInternal#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#setFocused#0;class#Form#0" expanded="false" />
-            <element signature="e#66802#66870#0" expanded="false" />
-            <element signature="e#67048#67108#0" expanded="false" />
-            <element signature="e#67323#67391#0" expanded="false" />
-            <element signature="docComment;method#changeFocusState#0;class#Form#0" expanded="false" />
-            <element signature="e#68206#68277#0" expanded="false" />
-            <element signature="e#69781#69851#0" expanded="false" />
-            <element signature="docComment;method#getFocused#0;class#Form#0" expanded="false" />
-            <element signature="method#getFocused#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#longKeyPress#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#longPointerPress#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#shouldSendPointerReleaseToOtherForm#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#keyPressed#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#getLayout#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#isMinimizeOnBack#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#setMinimizeOnBack#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#keyReleased#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#keyRepeated#0;class#Form#0" expanded="false" />
-            <element signature="e#75314#75343#0" expanded="false" />
-            <element signature="docComment;method#pointerPressed#0;class#Form#0" expanded="false" />
-            <element signature="e#79737#79794#0" expanded="false" />
-            <element signature="docComment;method#pointerDragged#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#pointerHoverReleased#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#pointerHoverPressed#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#pointerHover#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#isSingleFocusMode#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#pointerReleased#0;class#Form#0" expanded="false" />
-            <element signature="e#88615#88679#0" expanded="false" />
-            <element signature="docComment;method#setScrollableY#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#setScrollableX#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#getComponentIndex#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#getCommandCount#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#getCommand#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#addCommand#1;class#Form#0" expanded="false" />
-            <element signature="docComment;method#removeCommand#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#setCyclicFocus#0;class#Form#0" expanded="false" />
-            <element signature="method#setCyclicFocus#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#findNextFocusVertical#1;class#Form#0" expanded="false" />
-            <element signature="docComment;method#findNextFocusHorizontal#1;class#Form#0" expanded="false" />
-            <element signature="docComment;method#isCyclicFocus#0;class#Form#0" expanded="false" />
-            <element signature="method#isCyclicFocus#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#moveScrollTowards#0;class#Form#0" expanded="false" />
-            <element signature="e#104028#104084#0" expanded="false" />
-            <element signature="docComment;method#scrollComponentToVisible#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#setMenuCellRenderer#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#removeAllCommands#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#requestFocus#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#setRTL#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#paint#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#setScrollable#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#isScrollable#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#setVisible#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#getTintColor#0;class#Form#0" expanded="false" />
-            <element signature="method#getTintColor#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#setTintColor#0;class#Form#0" expanded="false" />
-            <element signature="method#setTintColor#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#setMenuTransitions#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#paramString#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#getMenuBar#0;class#Form#0" expanded="false" />
-            <element signature="method#getMenuBar#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#setMenuBar#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#setToolBar#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#setToolbar#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#getToolbar#0;class#Form#0" expanded="false" />
-            <element signature="method#getToolbar#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#isFocusScrolling#0;class#Form#0" expanded="false" />
-            <element signature="method#isFocusScrolling#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#setFocusScrolling#0;class#Form#0" expanded="false" />
-            <element signature="method#setFocusScrolling#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#getPropertyNames#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#getPropertyTypes#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#getPropertyTypeNames#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#getPropertyValue#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#setPropertyValue#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#getEditOnShow#0;class#Form#0" expanded="false" />
-            <element signature="method#getEditOnShow#0;class#Form#0" expanded="false" />
-            <element signature="docComment;method#setEditOnShow#0;class#Form#0" expanded="false" />
-            <element signature="method#setEditOnShow#0;class#Form#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/impl/stubs/com/parse4cn1/ParseObject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2737">
-          <caret line="399" column="4" selection-start-line="399" selection-start-column="4" selection-end-line="399" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/impl/cls/com/parse4cn1/ParseObject.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6358">
-          <caret line="435" column="22" selection-start-line="435" selection-start-column="16" selection-end-line="435" selection-end-column="22" />
-          <folding>
-            <element signature="method#setObjectId#0;class#ParseObject#0" expanded="true" />
-            <element signature="method#getObjectId#0;class#ParseObject#0" expanded="true" />
-            <element signature="method#getUpdatedAt#0;class#ParseObject#0" expanded="true" />
-            <element signature="method#getCreatedAt#0;class#ParseObject#0" expanded="true" />
-            <element signature="method#getClassName#0;class#ParseObject#0" expanded="true" />
-            <element signature="method#getEndPoint#0;class#ParseObject#0" expanded="true" />
-            <element signature="method#isDirty#0;class#ParseObject#0" expanded="true" />
-            <element signature="method#setDirty#0;class#ParseObject#0" expanded="true" />
-            <element signature="method#setCreatedAt#0;class#ParseObject#0" expanded="true" />
-            <element signature="method#setUpdatedAt#0;class#ParseObject#0" expanded="true" />
-            <element signature="method#setEndPoint#0;class#ParseObject#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/CodenameOne_SRC.zip!/com/codename1/ui/Component.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37332">
-          <caret line="2196" column="5" selection-start-line="2196" selection-start-column="5" selection-end-line="2196" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#192149#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="docComment;class#Component#0" expanded="false" />
-            <element signature="docComment;field#DRAG_REGION_NOT_DRAGGABLE#0;class#Component#0" expanded="false" />
-            <element signature="docComment;field#DRAG_REGION_POSSIBLE_DRAG_X#0;class#Component#0" expanded="false" />
-            <element signature="docComment;field#DRAG_REGION_POSSIBLE_DRAG_Y#0;class#Component#0" expanded="false" />
-            <element signature="docComment;field#DRAG_REGION_POSSIBLE_DRAG_XY#0;class#Component#0" expanded="false" />
-            <element signature="docComment;field#DRAG_REGION_LIKELY_DRAG_X#0;class#Component#0" expanded="false" />
-            <element signature="docComment;field#DRAG_REGION_LIKELY_DRAG_Y#0;class#Component#0" expanded="false" />
-            <element signature="docComment;field#DRAG_REGION_LIKELY_DRAG_XY#0;class#Component#0" expanded="false" />
-            <element signature="docComment;field#blockLead#0;class#Component#0" expanded="false" />
-            <element signature="docComment;field#nextFocusDown#0;class#Component#0" expanded="false" />
-            <element signature="docComment;field#enabled#0;class#Component#0" expanded="false" />
-            <element signature="docComment;field#nextFocusRight#0;class#Component#0" expanded="false" />
-            <element signature="docComment;field#grabsPointerEvents#0;class#Component#0" expanded="false" />
-            <element signature="docComment;field#tensileDragEnabled#0;class#Component#0" expanded="false" />
-            <element signature="docComment;field#tensileHighlightEnabled#0;class#Component#0" expanded="false" />
-            <element signature="docComment;field#tactileTouch#0;class#Component#0" expanded="false" />
-            <element signature="docComment;field#BRB_CONSTANT_ASCENT#0;class#Component#0" expanded="false" />
-            <element signature="docComment;field#BRB_CONSTANT_DESCENT#0;class#Component#0" expanded="false" />
-            <element signature="docComment;field#BRB_CENTER_OFFSET#0;class#Component#0" expanded="false" />
-            <element signature="docComment;field#BRB_OTHER#0;class#Component#0" expanded="false" />
-            <element signature="docComment;field#cellRenderer#0;class#Component#0" expanded="false" />
-            <element signature="docComment;field#scrollOpacityChangeSpeed#0;class#Component#0" expanded="false" />
-            <element signature="docComment;field#smoothScrolling#0;class#Component#0" expanded="false" />
-            <element signature="docComment;field#animationSpeed#0;class#Component#0" expanded="false" />
-            <element signature="docComment;field#dragActivated#0;class#Component#0" expanded="false" />
-            <element signature="docComment;field#initialized#0;class#Component#0" expanded="false" />
-            <element signature="docComment;field#CENTER#0;class#Component#0" expanded="false" />
-            <element signature="docComment;field#TOP#0;class#Component#0" expanded="false" />
-            <element signature="docComment;field#LEFT#0;class#Component#0" expanded="false" />
-            <element signature="docComment;field#BOTTOM#0;class#Component#0" expanded="false" />
-            <element signature="docComment;field#RIGHT#0;class#Component#0" expanded="false" />
-            <element signature="docComment;field#BASELINE#0;class#Component#0" expanded="false" />
-            <element signature="docComment;field#rtl#0;class#Component#0" expanded="false" />
-            <element signature="method#isDragAndDropInitialized#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setSameSize#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setSameWidth#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getAllStyles#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getSameWidth#0;class#Component#0" expanded="false" />
-            <element signature="method#getSameWidth#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setSameHeight#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getSameHeight#0;class#Component#0" expanded="false" />
-            <element signature="method#getSameHeight#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#Component#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#initLaf#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getUIManager#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getX#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getY#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#isVisible#0;class#Component#0" expanded="false" />
-            <element signature="method#isVisible#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getClientProperty#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#clearClientProperties#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#putClientProperty#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getDirtyRegion#0;class#Component#0" expanded="false" />
-            <element signature="method#getDirtyRegion#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setDirtyRegion#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setVisible#0;class#Component#0" expanded="false" />
-            <element signature="method#setVisible#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getWidth#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getHeight#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setX#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setY#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#isDragRegion#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getDragRegionStatus#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#onParentPositionChange#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getBaseline#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getBaselineResizeBehavior#0;class#Component#0" expanded="false" />
-            <element signature="method#getBaselineResizeBehavior#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setPreferredSize#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getPreferredSize#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getScrollDimension#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#calcScrollSize#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setScrollSize#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setPreferredW#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setPreferredH#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getPreferredW#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getPreferredH#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setWidth#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setHeight#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setSize#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getUIID#0;class#Component#0" expanded="false" />
-            <element signature="method#getUIID#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setUIID#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#remove#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getParent#0;class#Component#0" expanded="false" />
-            <element signature="method#getParent#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setParent#0;class#Component#0" expanded="false" />
-            <element signature="method#setParent#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#addFocusListener#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#removeFocusListener#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#addScrollListener#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#removeScrollListener#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#fireClicked#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#isSelectableInteraction#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#fireFocusGained#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#fireFocusLost#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#fireFocusGained#1;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setSelectCommandText#0;class#Component#0" expanded="false" />
-            <element signature="method#setSelectCommandText#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getSelectCommandText#0;class#Component#0" expanded="false" />
-            <element signature="method#getSelectCommandText#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#fireFocusLost#1;class#Component#0" expanded="false" />
-            <element signature="docComment;method#fireActionEvent#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setLabelForComponent#0;class#Component#0" expanded="false" />
-            <element signature="method#setLabelForComponent#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getLabelForComponent#0;class#Component#0" expanded="false" />
-            <element signature="method#getLabelForComponent#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#focusGainedInternal#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#focusGained#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#focusLost#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#focusLostInternal#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#paintBackgrounds#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getAbsoluteX#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getAbsoluteY#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#paintInternal#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#paintScrollbars#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#paintScrollbarX#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getScrollOpacity#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getSelectedRect#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#paintScrollbarY#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#paintComponent#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#paintComponent#1;class#Component#0" expanded="false" />
-            <element signature="e#50518#50596#0" expanded="false" />
-            <element signature="docComment;method#paintGlassImpl#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getBorder#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#paintComponentBackground#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getScrollable#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getScrollableFast#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#paintBackground#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#paint#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#isScrollable#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#isScrollableX#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#isScrollableY#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getScrollX#0;class#Component#0" expanded="false" />
-            <element signature="method#getScrollX#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getScrollY#0;class#Component#0" expanded="false" />
-            <element signature="method#getScrollY#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#onScrollX#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#onScrollY#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setScrollX#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setScrollY#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getDraggedx#0;class#Component#0" expanded="false" />
-            <element signature="method#getDraggedx#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getDraggedy#0;class#Component#0" expanded="false" />
-            <element signature="method#getDraggedy#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getBottomGap#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getSideGap#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#contains#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#calcPreferredSize#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getBounds#0;class#Component#0" expanded="false" />
-            <element signature="method#getBounds#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getVisibleBounds#0;class#Component#0" expanded="false" />
-            <element signature="method#getVisibleBounds#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#isFocusable#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#resetFocusable#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setFocusable#0;class#Component#0" expanded="false" />
-            <element signature="method#setFocusable#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setShouldCalcPreferredSize#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#handlesInput#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setHandlesInput#0;class#Component#0" expanded="false" />
-            <element signature="method#setHandlesInput#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#hasFocus#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setFocus#0;class#Component#0" expanded="false" />
-            <element signature="method#setFocus#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getComponentForm#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#repaint#0;class#Component#0" expanded="false" />
-            <element signature="e#72423#72503#0" expanded="false" />
-            <element signature="docComment;method#repaint#1;class#Component#0" expanded="false" />
-            <element signature="docComment;method#repaint#2;class#Component#0" expanded="false" />
-            <element signature="docComment;method#longKeyPress#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#keyPressed#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#keyReleased#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#keyRepeated#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setAnimationMotion#0;class#Component#0" expanded="false" />
-            <element signature="method#setAnimationMotion#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getAnimationMotion#0;class#Component#0" expanded="false" />
-            <element signature="method#getAnimationMotion#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getAnimationManager#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getScrollAnimationSpeed#0;class#Component#0" expanded="false" />
-            <element signature="method#getScrollAnimationSpeed#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#isBlockLead#0;class#Component#0" expanded="false" />
-            <element signature="method#isBlockLead#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setBlockLead#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#createStyleAnimation#0;class#Component#0" expanded="false" />
-            <element signature="method#getMaxSteps#0;class#84270:92011" expanded="false" />
-            <element signature="docComment;method#setScrollAnimationSpeed#0;class#Component#0" expanded="false" />
-            <element signature="method#setScrollAnimationSpeed#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#isSmoothScrolling#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setSmoothScrolling#0;class#Component#0" expanded="false" />
-            <element signature="method#setSmoothScrolling#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setDisableSmoothScrolling#0;class#Component#0" expanded="false" />
-            <element signature="method#setDisableSmoothScrolling#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#pointerHover#0;class#Component#0" expanded="false" />
-            <element signature="e#93569#93646#0" expanded="false" />
-            <element signature="docComment;method#pointerHoverReleased#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#pointerHoverPressed#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#pinch#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#pointerDragged#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getDragImage#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#dragInitiated#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#drawDraggedImage#1;class#Component#0" expanded="false" />
-            <element signature="docComment;method#draggingOver#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#dragEnter#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#dragExit#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#drop#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#findDropTarget#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#addPullToRefresh#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#pointerDragged#1;class#Component#0" expanded="false" />
-            <element signature="e#108050#108113#0" expanded="false" />
-            <element signature="docComment;method#isStickyDrag#0;class#Component#0" expanded="false" />
-            <element signature="e#110579#110652#0" expanded="false" />
-            <element signature="docComment;method#pointerPressed#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#isDragAndDropOperation#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#pointerPressed#1;class#Component#0" expanded="false" />
-            <element signature="docComment;method#pointerReleased#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#longPointerPress#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#pointerReleased#1;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setTensileDragEnabled#0;class#Component#0" expanded="false" />
-            <element signature="method#setTensileDragEnabled#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#isTensileDragEnabled#0;class#Component#0" expanded="false" />
-            <element signature="method#isTensileDragEnabled#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#addDropListener#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#removeDropListener#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#addDragOverListener#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#removeDragOverListener#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#dragFinished#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#addPointerPressedListener#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#removePointerPressedListener#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#addPointerReleasedListener#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#removePointerReleasedListener#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#addPointerDraggedListener#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#removePointerDraggedListener#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getDragSpeed#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getStyle#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getPressedStyle#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setPressedStyle#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getUnselectedStyle#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getSelectedStyle#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getDisabledStyle#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setUnselectedStyle#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setSelectedStyle#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setDisabledStyle#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#installDefaultPainter#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#requestFocus#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#toString#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#paramString#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#refreshTheme#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#refreshTheme#1;class#Component#0" expanded="false" />
-            <element signature="docComment;method#refreshTheme#2;class#Component#0" expanded="false" />
-            <element signature="docComment;method#isDragActivated#0;class#Component#0" expanded="false" />
-            <element signature="method#isDragActivated#0;class#Component#0" expanded="false" />
-            <element signature="method#setDragActivated#0;class#Component#0" expanded="false" />
-            <element signature="e#136741#136805#0" expanded="false" />
-            <element signature="docComment;method#getGridPosY#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getGridPosX#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#animate#0;class#Component#0" expanded="false" />
-            <element signature="e#138955#139028#0" expanded="false" />
-            <element signature="e#139513#139586#0" expanded="false" />
-            <element signature="e#141596#141669#0" expanded="false" />
-            <element signature="docComment;method#tryDeregisterAnimated#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#scrollRectToVisible#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#scrollRectToVisible#1;class#Component#0" expanded="false" />
-            <element signature="docComment;method#isBorderPainted#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#paintBorder#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#paintBorderBackground#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setCellRenderer#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#isCellRenderer#0;class#Component#0" expanded="false" />
-            <element signature="method#isCellRenderer#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#isScrollVisible#0;class#Component#0" expanded="false" />
-            <element signature="method#isScrollVisible#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setScrollVisible#0;class#Component#0" expanded="false" />
-            <element signature="method#setScrollVisible#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setIsScrollVisible#0;class#Component#0" expanded="false" />
-            <element signature="method#setIsScrollVisible#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#initComponentImpl#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#deinitializeImpl#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#laidOut#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#deinitialize#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#initComponent#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#isInitialized#0;class#Component#0" expanded="false" />
-            <element signature="method#isInitialized#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setInitialized#0;class#Component#0" expanded="false" />
-            <element signature="method#setInitialized#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#styleChanged#0;class#Component#0" expanded="false" />
-            <element signature="e#156519#156601#0" expanded="false" />
-            <element signature="docComment;method#getNextFocusDown#0;class#Component#0" expanded="false" />
-            <element signature="method#getNextFocusDown#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setNextFocusDown#0;class#Component#0" expanded="false" />
-            <element signature="method#setNextFocusDown#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getNextFocusUp#0;class#Component#0" expanded="false" />
-            <element signature="method#getNextFocusUp#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setNextFocusUp#0;class#Component#0" expanded="false" />
-            <element signature="method#setNextFocusUp#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getNextFocusLeft#0;class#Component#0" expanded="false" />
-            <element signature="method#getNextFocusLeft#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setNextFocusLeft#0;class#Component#0" expanded="false" />
-            <element signature="method#setNextFocusLeft#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getNextFocusRight#0;class#Component#0" expanded="false" />
-            <element signature="method#getNextFocusRight#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setNextFocusRight#0;class#Component#0" expanded="false" />
-            <element signature="method#setNextFocusRight#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#isEnabled#0;class#Component#0" expanded="false" />
-            <element signature="method#isEnabled#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#onEditComplete#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setEnabled#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getName#0;class#Component#0" expanded="false" />
-            <element signature="method#getName#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setName#0;class#Component#0" expanded="false" />
-            <element signature="method#setName#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#initCustomStyle#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#deinitializeCustomStyle#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#isRTL#0;class#Component#0" expanded="false" />
-            <element signature="method#isRTL#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setRTL#0;class#Component#0" expanded="false" />
-            <element signature="method#setRTL#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#isTactileTouch#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#isTactileTouch#1;class#Component#0" expanded="false" />
-            <element signature="method#isTactileTouch#1;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setTactileTouch#0;class#Component#0" expanded="false" />
-            <element signature="method#setTactileTouch#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getPropertyNames#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getPropertyTypes#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getPropertyTypeNames#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getPropertyValue#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setPropertyValue#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#paintLockRelease#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#paintLock#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setLightweightMode#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#isSnapToGrid#0;class#Component#0" expanded="false" />
-            <element signature="method#isSnapToGrid#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setSnapToGrid#0;class#Component#0" expanded="false" />
-            <element signature="method#setSnapToGrid#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#shouldBlockSideSwipe#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#isFlatten#0;class#Component#0" expanded="false" />
-            <element signature="method#isFlatten#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setFlatten#0;class#Component#0" expanded="false" />
-            <element signature="method#setFlatten#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getTensileLength#0;class#Component#0" expanded="false" />
-            <element signature="method#getTensileLength#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setTensileLength#0;class#Component#0" expanded="false" />
-            <element signature="method#setTensileLength#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getHintIcon#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setHint#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#isGrabsPointerEvents#0;class#Component#0" expanded="false" />
-            <element signature="method#isGrabsPointerEvents#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setGrabsPointerEvents#0;class#Component#0" expanded="false" />
-            <element signature="method#setGrabsPointerEvents#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getScrollOpacityChangeSpeed#0;class#Component#0" expanded="false" />
-            <element signature="method#getScrollOpacityChangeSpeed#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setScrollOpacityChangeSpeed#0;class#Component#0" expanded="false" />
-            <element signature="method#setScrollOpacityChangeSpeed#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#growShrink#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#isAlwaysTensile#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setAlwaysTensile#0;class#Component#0" expanded="false" />
-            <element signature="method#setAlwaysTensile#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#isDraggable#0;class#Component#0" expanded="false" />
-            <element signature="method#isDraggable#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setDraggable#0;class#Component#0" expanded="false" />
-            <element signature="method#setDraggable#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#isDropTarget#0;class#Component#0" expanded="false" />
-            <element signature="method#isDropTarget#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setDropTarget#0;class#Component#0" expanded="false" />
-            <element signature="method#setDropTarget#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#isHideInPortrait#0;class#Component#0" expanded="false" />
-            <element signature="method#isHideInPortrait#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setHideInPortrait#0;class#Component#0" expanded="false" />
-            <element signature="method#setHideInPortrait#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#cancelRepaints#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getBindablePropertyNames#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getBindablePropertyTypes#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#bindProperty#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#unbindProperty#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getBoundPropertyValue#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setBoundPropertyValue#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getCloudBoundProperty#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setCloudBoundProperty#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getCloudDestinationProperty#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setCloudDestinationProperty#0;class#Component#0" expanded="false" />
-            <element signature="method#setCloudDestinationProperty#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#getComponentState#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setHidden#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setHidden#1;class#Component#0" expanded="false" />
-            <element signature="docComment;method#isHidden#0;class#Component#0" expanded="false" />
-            <element signature="docComment;method#setComponentState#0;class#Component#0" expanded="false" />
-            <element signature="method#setPreviousForm#0;class#BGPainter#0;class#Component#0" expanded="false" />
-            <element signature="method#getPreviousForm#0;class#BGPainter#0;class#Component#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/generated/StateMachineBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10540">
-          <caret line="633" column="23" selection-start-line="633" selection-start-column="23" selection-end-line="633" selection-end-column="23" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="docComment;method#initVars#0;class#StateMachineBase#0" expanded="false" />
-            <marker date="1477280544780" expanded="true" signature="1229:1384" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/ieeeaast/todo/Todo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="docComment;class#Todo#0" expanded="false" />
-            <element signature="e#545#606#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TodoCodenameone.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/userclasses/StateMachine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-            <element signature="docComment;class#StateMachine#0" expanded="true" />
-            <element signature="docComment;method#initVars#0;class#StateMachine#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/lib/CodenameOne_SRC.zip!/com/codename1/ui/Form.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46274">
@@ -3297,7 +2269,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6783">
           <caret line="399" column="4" selection-start-line="399" selection-start-column="4" selection-end-line="399" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3305,19 +2276,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6630">
           <caret line="435" column="22" selection-start-line="435" selection-start-column="16" selection-end-line="435" selection-end-column="22" />
-          <folding>
-            <element signature="method#setObjectId#0;class#ParseObject#0" expanded="true" />
-            <element signature="method#getObjectId#0;class#ParseObject#0" expanded="true" />
-            <element signature="method#getUpdatedAt#0;class#ParseObject#0" expanded="true" />
-            <element signature="method#getCreatedAt#0;class#ParseObject#0" expanded="true" />
-            <element signature="method#getClassName#0;class#ParseObject#0" expanded="true" />
-            <element signature="method#getEndPoint#0;class#ParseObject#0" expanded="true" />
-            <element signature="method#isDirty#0;class#ParseObject#0" expanded="true" />
-            <element signature="method#setDirty#0;class#ParseObject#0" expanded="true" />
-            <element signature="method#setCreatedAt#0;class#ParseObject#0" expanded="true" />
-            <element signature="method#setUpdatedAt#0;class#ParseObject#0" expanded="true" />
-            <element signature="method#setEndPoint#0;class#ParseObject#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3732,7 +2690,7 @@
             <element signature="n#!!doc" expanded="false" />
             <element signature="imports" expanded="false" />
             <element signature="docComment;method#initVars#0;class#StateMachineBase#0" expanded="false" />
-            <marker date="1477280544780" expanded="true" signature="1229:1384" ph="{...}" />
+            <marker date="1477584662205" expanded="true" signature="1229:1384" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -4020,7 +2978,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6783">
           <caret line="399" column="4" selection-start-line="399" selection-start-column="4" selection-end-line="399" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4028,19 +2985,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7395">
           <caret line="435" column="22" selection-start-line="435" selection-start-column="16" selection-end-line="435" selection-end-column="22" />
-          <folding>
-            <element signature="method#setObjectId#0;class#ParseObject#0" expanded="true" />
-            <element signature="method#getObjectId#0;class#ParseObject#0" expanded="true" />
-            <element signature="method#getUpdatedAt#0;class#ParseObject#0" expanded="true" />
-            <element signature="method#getCreatedAt#0;class#ParseObject#0" expanded="true" />
-            <element signature="method#getClassName#0;class#ParseObject#0" expanded="true" />
-            <element signature="method#getEndPoint#0;class#ParseObject#0" expanded="true" />
-            <element signature="method#isDirty#0;class#ParseObject#0" expanded="true" />
-            <element signature="method#setDirty#0;class#ParseObject#0" expanded="true" />
-            <element signature="method#setCreatedAt#0;class#ParseObject#0" expanded="true" />
-            <element signature="method#setUpdatedAt#0;class#ParseObject#0" expanded="true" />
-            <element signature="method#setEndPoint#0;class#ParseObject#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -4455,7 +3399,7 @@
             <element signature="n#!!doc" expanded="false" />
             <element signature="imports" expanded="false" />
             <element signature="docComment;method#initVars#0;class#StateMachineBase#0" expanded="false" />
-            <marker date="1477280544780" expanded="true" signature="1229:1384" ph="{...}" />
+            <marker date="1477584662205" expanded="true" signature="1229:1384" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -4515,7 +3459,7 @@
             <element signature="n#!!doc" expanded="false" />
             <element signature="imports" expanded="false" />
             <element signature="docComment;method#initVars#0;class#StateMachineBase#0" expanded="false" />
-            <marker date="1477280544780" expanded="true" signature="1229:1384" ph="{...}" />
+            <marker date="1477584662205" expanded="true" signature="1229:1384" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -4570,7 +3514,7 @@
             <element signature="n#!!doc" expanded="false" />
             <element signature="imports" expanded="false" />
             <element signature="docComment;method#initVars#0;class#StateMachineBase#0" expanded="false" />
-            <marker date="1477280544780" expanded="true" signature="1229:1384" ph="{...}" />
+            <marker date="1477584662205" expanded="true" signature="1229:1384" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -4995,19 +3939,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6630">
           <caret line="435" column="22" selection-start-line="435" selection-start-column="16" selection-end-line="435" selection-end-column="22" />
-          <folding>
-            <element signature="method#setObjectId#0;class#ParseObject#0" expanded="true" />
-            <element signature="method#getObjectId#0;class#ParseObject#0" expanded="true" />
-            <element signature="method#getUpdatedAt#0;class#ParseObject#0" expanded="true" />
-            <element signature="method#getCreatedAt#0;class#ParseObject#0" expanded="true" />
-            <element signature="method#getClassName#0;class#ParseObject#0" expanded="true" />
-            <element signature="method#getEndPoint#0;class#ParseObject#0" expanded="true" />
-            <element signature="method#isDirty#0;class#ParseObject#0" expanded="true" />
-            <element signature="method#setDirty#0;class#ParseObject#0" expanded="true" />
-            <element signature="method#setCreatedAt#0;class#ParseObject#0" expanded="true" />
-            <element signature="method#setUpdatedAt#0;class#ParseObject#0" expanded="true" />
-            <element signature="method#setEndPoint#0;class#ParseObject#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -5015,7 +3946,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2737">
           <caret line="399" column="4" selection-start-line="399" selection-start-column="4" selection-end-line="399" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -5262,12 +4192,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="method#getResponseData#0;class#ParseResponse#0" expanded="true" />
-            <element signature="method#getStatusCode#0;class#ParseResponse#0" expanded="true" />
-            <element signature="method#setStatusCode#0;class#ParseResponse#0" expanded="true" />
-            <element signature="method#setConnectionError#1;class#ParseResponse#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -5275,7 +4199,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="663">
           <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -5287,22 +4210,108 @@
             <element signature="e#0#7250#0" expanded="false" />
             <element signature="docComment;class#URLDecoder#0" expanded="false" />
             <element signature="docComment;method#decode#0;class#URLDecoder#0" expanded="false" />
+            <element signature="docComment;method#decode#1;class#URLDecoder#0" expanded="false" />
             <element signature="e#5620#5670#0" expanded="false" />
             <element signature="e#6395#6442#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/parse4cn1/ParseLiveQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="17" column="28" selection-start-line="0" selection-start-column="0" selection-end-line="250" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/parse4cn1/ParseUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="222" column="22" selection-start-line="222" selection-start-column="22" selection-end-line="222" selection-end-column="22" />
+          <folding>
+            <element signature="method#getCurrent#0;class#ParseUser#0" expanded="true" />
+            <element signature="method#getSessionToken#0;class#ParseUser#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/parse4cn1/ParseObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="127" column="7" selection-start-line="127" selection-start-column="7" selection-end-line="127" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/parse4cn1/ParseQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="1112" column="0" selection-start-line="1112" selection-start-column="0" selection-end-line="1112" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/userclasses/StateMachine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="66" column="41" selection-start-line="66" selection-start-column="41" selection-end-line="66" selection-end-column="41" />
+        <state relative-caret-position="247">
+          <caret line="106" column="51" selection-start-line="106" selection-start-column="51" selection-end-line="106" selection-end-column="51" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
             <element signature="docComment;class#StateMachine#0" expanded="true" />
             <element signature="docComment;method#initVars#0;class#StateMachine#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/parse4cn1/command/ParseCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="202" column="23" selection-start-line="202" selection-start-column="23" selection-end-line="202" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/parse4cn1/encode/IParseObjectEncodingStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/parse4cn1/ParseInstallation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="182" column="35" selection-start-line="182" selection-start-column="35" selection-end-line="182" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/parse4cn1/util/ParseRegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-313">
+          <caret line="66" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/parse4cn1/ParsePush.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="52" column="13" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/parse4cn1/Parse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="371" column="55" selection-start-line="371" selection-start-column="55" selection-end-line="371" selection-end-column="55" />
+          <folding />
         </state>
       </provider>
     </entry>

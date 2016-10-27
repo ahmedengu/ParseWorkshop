@@ -1,8 +1,217 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2386cb0-09c7-4f49-8ff0-445ae91e9181" name="Default" comment="Adding parse dashboard , contribution instructions">
+    <list default="true" id="a2386cb0-09c7-4f49-8ff0-445ae91e9181" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/build/classes/READM.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/ParseInstallation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/ParsePush$IPushCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/ParsePush.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/nativeinterface/ParseInstallationNative.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/nativeinterface/ParseInstallationNativeImpl.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/nativeinterface/ParsePushNative.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/nativeinterface/ParsePushNativeImpl.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/Parse$DefaultParseObjectFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/Parse$EPlatform.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/Parse$IParseObjectFactory.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/Parse$IPersistable.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/Parse.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/ParseBatch$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/ParseBatch$EBatchOpType.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/ParseBatch.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/ParseCloud.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/ParseConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/ParseConstants.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/ParseException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/ParseFile.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/ParseGeoPoint.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/ParseInstallation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/ParseObject.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/ParsePush$IPushCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/ParsePush.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/ParseQuery$KeyConstraints.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/ParseQuery$QueryConstraints.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/ParseQuery$RelationConstraint.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/ParseQuery.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/ParseRelation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/ParseRole.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/ParseUser.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/callback/CountCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/callback/DeleteCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/callback/FindCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/callback/FunctionCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/callback/GetCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/callback/GetDataCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/callback/LocationCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/callback/LoginCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/callback/ParseCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/callback/ProgressCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/callback/RequestPasswordResetCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/callback/SaveCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/callback/SendCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/callback/SignUpCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/command/ParseCommand$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/command/ParseCommand$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/command/ParseCommand.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/command/ParseDeleteCommand.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/command/ParseDownloadCommand.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/command/ParseGetCommand.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/command/ParsePostCommand.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/command/ParsePutCommand.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/command/ParseResponse.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/command/ParseUploadCommand$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/command/ParseUploadCommand.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/encode/IParseObjectEncodingStrategy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/encode/ParseDecoder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/encode/ParseEncoder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/encode/PointerEncodingStrategy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/encode/PointerOrLocalIdEncodingStrategy.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/nativeinterface/ParseInstallationNative.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/nativeinterface/ParsePushNative.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/operation/AddToArrayOperation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/operation/AddUniqueToArrayOperation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/operation/DeleteFieldOperation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/operation/IncrementFieldOperation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/operation/ParseOperation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/operation/ParseOperationDecoder$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/operation/ParseOperationDecoder$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/operation/ParseOperationDecoder$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/operation/ParseOperationDecoder$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/operation/ParseOperationDecoder$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/operation/ParseOperationDecoder$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/operation/ParseOperationDecoder$7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/operation/ParseOperationDecoder$IParseOperationDecoder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/operation/ParseOperationDecoder.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/operation/ParseOperationUtil.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/operation/RelationOperation$ERelationType.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/operation/RelationOperation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/operation/RemoveFromArrayOperation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/operation/SetFieldOperation.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/util/ExternalizableJsonEntity$EJsonEntityType.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/util/ExternalizableJsonEntity.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/util/ExternalizableParseObject.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/util/Logger$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/util/Logger$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/util/Logger.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/util/MimeType.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/cls/com/parse4cn1/util/ParseRegistry.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/native/android/READM.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/native/android/com/parse4cn1/nativeinterface/ParseInstallationNativeImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/native/android/com/parse4cn1/nativeinterface/ParsePushNativeImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/native/ios/READM.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/native/ios/com_parse4cn1_nativeinterface_ParseInstallationNativeImpl.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/native/ios/com_parse4cn1_nativeinterface_ParseInstallationNativeImpl.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/native/ios/com_parse4cn1_nativeinterface_ParsePushNativeImpl.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/native/ios/com_parse4cn1_nativeinterface_ParsePushNativeImpl.m" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/native/j2me/READM.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/native/j2me/com/parse4cn1/nativeinterface/ParseInstallationNativeImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/native/j2me/com/parse4cn1/nativeinterface/ParsePushNativeImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/native/javase/READM.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/native/javase/com/parse4cn1/nativeinterface/ParseInstallationNativeImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/native/javase/com/parse4cn1/nativeinterface/ParsePushNativeImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/native/rim/READM.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/native/rim/com/parse4cn1/nativeinterface/ParseInstallationNativeImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/native/rim/com/parse4cn1/nativeinterface/ParsePushNativeImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/native/win/READM.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/native/win/com/parse4cn1/nativeinterface/ParseInstallationNativeImpl.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/native/win/com/parse4cn1/nativeinterface/ParsePushNativeImpl.cs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/Parse.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/ParseBatch.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/ParseCloud.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/ParseConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/ParseConstants.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/ParseException.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/ParseFile.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/ParseGeoPoint.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/ParseInstallation.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/ParseObject.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/ParsePush.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/ParseQuery.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/ParseRelation.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/ParseRole.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/ParseUser.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/callback/CountCallback.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/callback/DeleteCallback.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/callback/FindCallback.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/callback/FunctionCallback.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/callback/GetCallback.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/callback/GetDataCallback.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/callback/LocationCallback.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/callback/LoginCallback.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/callback/ParseCallback.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/callback/ProgressCallback.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/callback/RequestPasswordResetCallback.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/callback/SaveCallback.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/callback/SendCallback.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/callback/SignUpCallback.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/command/ParseCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/command/ParseDeleteCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/command/ParseDownloadCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/command/ParseGetCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/command/ParsePostCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/command/ParsePutCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/command/ParseResponse.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/command/ParseUploadCommand.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/encode/IParseObjectEncodingStrategy.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/encode/ParseDecoder.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/encode/ParseEncoder.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/encode/PointerEncodingStrategy.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/encode/PointerOrLocalIdEncodingStrategy.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/nativeinterface/ParseInstallationNative.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/nativeinterface/ParsePushNative.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/operation/AddToArrayOperation.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/operation/AddUniqueToArrayOperation.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/operation/DeleteFieldOperation.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/operation/IncrementFieldOperation.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/operation/ParseOperation.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/operation/ParseOperationDecoder.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/operation/ParseOperationUtil.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/operation/RelationOperation.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/operation/RemoveFromArrayOperation.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/operation/SetFieldOperation.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/util/ExternalizableJsonEntity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/util/ExternalizableParseObject.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/util/Logger.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/util/MimeType.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/impl/stubs/com/parse4cn1/util/ParseRegistry.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/parse4cn1.cn1lib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/lib/parse4cn1.ver" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Todo.apk" afterPath="$PROJECT_DIR$/Todo.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/Parse$DefaultParseObjectFactory.class" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/Parse$DefaultParseObjectFactory.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/Parse.class" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/Parse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/ParseBatch.class" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/ParseBatch.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/ParseObject.class" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/ParseObject.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/ParseQuery$KeyConstraints.class" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/ParseQuery$KeyConstraints.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/ParseQuery$QueryConstraints.class" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/ParseQuery$QueryConstraints.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/ParseQuery$RelationConstraint.class" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/ParseQuery$RelationConstraint.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/ParseQuery.class" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/ParseQuery.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/ParseUser.class" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/ParseUser.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/command/ParseCommand$1.class" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/command/ParseCommand$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/command/ParseCommand.class" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/command/ParseCommand.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/command/ParseResponse.class" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/command/ParseResponse.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/command/ParseUploadCommand$1.class" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/command/ParseUploadCommand$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/command/ParseUploadCommand.class" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/command/ParseUploadCommand.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/encode/ParseDecoder.class" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/encode/ParseDecoder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/operation/IncrementFieldOperation.class" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/operation/IncrementFieldOperation.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/operation/ParseOperationDecoder.class" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/operation/ParseOperationDecoder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/util/MimeType.class" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/util/MimeType.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/util/ParseRegistry.class" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/util/ParseRegistry.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TodoCodenameone/build/classes/theme.res" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/theme.res" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TodoCodenameone/build/classes/userclasses/StateMachine$1.class" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/userclasses/StateMachine$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TodoCodenameone/build/classes/userclasses/StateMachine.class" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/userclasses/StateMachine.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TodoCodenameone/build/tmp/userclasses/StateMachine.class" afterPath="$PROJECT_DIR$/TodoCodenameone/build/tmp/userclasses/StateMachine.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TodoCodenameone/dist/Todo.jar" afterPath="$PROJECT_DIR$/TodoCodenameone/dist/Todo.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TodoCodenameone/out/production/TodoCodenameone/theme.res" afterPath="$PROJECT_DIR$/TodoCodenameone/out/production/TodoCodenameone/theme.res" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TodoCodenameone/out/production/TodoCodenameone/userclasses/StateMachine$1.class" afterPath="$PROJECT_DIR$/TodoCodenameone/out/production/TodoCodenameone/userclasses/StateMachine$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TodoCodenameone/out/production/TodoCodenameone/userclasses/StateMachine.class" afterPath="$PROJECT_DIR$/TodoCodenameone/out/production/TodoCodenameone/userclasses/StateMachine.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TodoCodenameone/res/theme/Home" afterPath="$PROJECT_DIR$/TodoCodenameone/res/theme/Home" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TodoCodenameone/res/theme/Home.ui" afterPath="$PROJECT_DIR$/TodoCodenameone/res/theme/Home.ui" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TodoCodenameone/src/theme.res" afterPath="$PROJECT_DIR$/TodoCodenameone/src/theme.res" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UWP.zip" afterPath="$PROJECT_DIR$/UWP.zip" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Todo.jad" afterPath="$PROJECT_DIR$/Todo.jad" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TodoCodenameone/.idea/workspace.xml" afterPath="$PROJECT_DIR$/TodoCodenameone/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TodoCodenameone/build/built-jar.properties" afterPath="$PROJECT_DIR$/TodoCodenameone/build/built-jar.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TodoCodenameone/src/userclasses/StateMachine.java" afterPath="$PROJECT_DIR$/TodoCodenameone/src/userclasses/StateMachine.java" />
     </list>
     <ignored path="ParseWorkshop.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,14 +234,14 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-306">
+            <state relative-caret-position="-340">
               <caret line="23" column="66" selection-start-line="23" selection-start-column="66" selection-end-line="23" selection-end-column="66" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TodoWebsite/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
@@ -58,12 +267,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CONTRIBUTING.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CONTRIBUTING.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CONTRIBUTING.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="238">
-                <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+              <first_editor relative-caret-position="102">
+                <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -1013,7 +1222,7 @@
       <workItem from="1477429267702" duration="706000" />
       <workItem from="1477434701566" duration="4542000" />
       <workItem from="1477447834585" duration="4687000" />
-      <workItem from="1477580392056" duration="2901000" />
+      <workItem from="1477580392056" duration="5014000" />
     </task>
     <task id="LOCAL-00001" summary="-">
       <created>1477276703071</created>
@@ -1176,15 +1385,22 @@
       <option name="project" value="LOCAL" />
       <updated>1477582917590</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Adding parse dashboard , contribution instructions">
+      <created>1477583306035</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1477583306035</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20090000" />
+    <option name="totallyTimeSpent" value="22203000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1339,20 +1555,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TodoWebsite/index.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="-340">
+          <caret line="23" column="66" selection-start-line="23" selection-start-column="66" selection-end-line="23" selection-end-column="66" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-306">
-          <caret line="23" column="66" selection-start-line="23" selection-start-column="66" selection-end-line="23" selection-end-column="66" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/CONTRIBUTING.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="102">
+            <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -1369,18 +1591,12 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CONTRIBUTING.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="238">
-            <caret line="14" column="14" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-            <folding />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/TodoWebsite/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
         </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
       </provider>
     </entry>
   </component>

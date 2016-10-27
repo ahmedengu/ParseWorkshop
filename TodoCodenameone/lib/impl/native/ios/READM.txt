@@ -1,3 +1,0 @@
-Implement platform-specific (native) functionality here
-
-PARSE_VERSION=1.8.5
