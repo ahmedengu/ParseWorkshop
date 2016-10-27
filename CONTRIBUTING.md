@@ -2,7 +2,7 @@
 
 ##### Table of Contents
 * [Implement the content](#Implement-the-content)
-* [Improve the content](Improve-the-content)
+* [Improve the content](#Improve-the-content)
 
 ## Implement the content
 
