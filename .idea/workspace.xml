@@ -1,45 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2386cb0-09c7-4f49-8ff0-445ae91e9181" name="Default" comment="Adding parse dashboard , contribution instructions">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoWebsite/_pgbackup/index_1477320933.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoWebsite/_pgbackup/index_1477320975.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoWebsite/_pgbackup/index_1477322051.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoWebsite/_pgbackup/index_1477322133.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoWebsite/_pgbackup/index_1477322134.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoWebsite/_pgbackup/pinegrow_1477320933.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoWebsite/_pgbackup/pinegrow_1477320975.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoWebsite/_pgbackup/pinegrow_1477322051.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoWebsite/_pgbackup/pinegrow_1477322133.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoWebsite/_pgbackup/pinegrow_1477322134.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoWebsite/_pgbackup/pinegrow_1477330232.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoWebsite/bootstrap/css/_pgbackup/bootstrap.min_1477320933.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoWebsite/bootstrap/css/_pgbackup/bootstrap.min_1477320975.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoWebsite/bootstrap/css/_pgbackup/bootstrap.min_1477322051.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoWebsite/bootstrap/css/_pgbackup/bootstrap.min_1477322133.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoWebsite/bootstrap/css/_pgbackup/bootstrap.min_1477322134.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoWebsite/css/_pgbackup/blocks_1477320933.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoWebsite/css/_pgbackup/blocks_1477320975.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoWebsite/css/_pgbackup/blocks_1477322051.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoWebsite/css/_pgbackup/blocks_1477322134.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoWebsite/css/_pgbackup/custom_1477320933.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoWebsite/css/_pgbackup/custom_1477320975.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoWebsite/css/_pgbackup/custom_1477322051.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoWebsite/css/_pgbackup/custom_1477322134.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoWebsite/css/_pgbackup/font-awesome.min_1477320933.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoWebsite/css/_pgbackup/font-awesome.min_1477320975.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoWebsite/css/_pgbackup/font-awesome.min_1477322051.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoWebsite/css/_pgbackup/font-awesome.min_1477322133.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoWebsite/css/_pgbackup/font-awesome.min_1477322134.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoWebsite/css/_pgbackup/plugins_1477320933.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoWebsite/css/_pgbackup/plugins_1477320975.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoWebsite/css/_pgbackup/plugins_1477322051.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoWebsite/css/_pgbackup/plugins_1477322134.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoWebsite/css/_pgbackup/style-library-1_1477320933.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoWebsite/css/_pgbackup/style-library-1_1477320975.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoWebsite/css/_pgbackup/style-library-1_1477322051.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoWebsite/css/_pgbackup/style-library-1_1477322133.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoWebsite/css/_pgbackup/style-library-1_1477322134.css" />
+    <list default="true" id="a2386cb0-09c7-4f49-8ff0-445ae91e9181" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="ParseWorkshop.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -59,7 +23,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-306">
@@ -79,18 +43,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
-          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="34">
-                <caret line="2" column="69" selection-start-line="2" selection-start-column="69" selection-end-line="2" selection-end-column="69" />
+              <first_editor relative-caret-position="17">
+                <caret line="1" column="87" selection-start-line="1" selection-start-column="87" selection-end-line="1" selection-end-column="87" />
                 <folding />
               </first_editor>
               <second_editor />
             </state>
           </provider>
-          <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+          <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
           </provider>
         </entry>
@@ -1018,7 +982,7 @@
       <workItem from="1477429267702" duration="706000" />
       <workItem from="1477434701566" duration="4542000" />
       <workItem from="1477447834585" duration="4687000" />
-      <workItem from="1477580392056" duration="2283000" />
+      <workItem from="1477580392056" duration="2421000" />
     </task>
     <task id="LOCAL-00001" summary="-">
       <created>1477276703071</created>
@@ -1153,11 +1117,18 @@
       <option name="project" value="LOCAL" />
       <updated>1477582580616</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Adding parse dashboard , contribution instructions">
+      <created>1477582684717</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1477582684717</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19472000" />
+    <option name="totallyTimeSpent" value="19610000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -1338,26 +1309,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="34">
-            <caret line="2" column="69" selection-start-line="2" selection-start-column="69" selection-end-line="2" selection-end-column="69" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-306">
           <caret line="23" column="66" selection-start-line="23" selection-start-column="66" selection-end-line="23" selection-end-column="66" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="17">
+            <caret line="1" column="87" selection-start-line="1" selection-start-column="87" selection-end-line="1" selection-end-column="87" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
       </provider>
     </entry>
   </component>
