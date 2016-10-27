@@ -7,9 +7,6 @@
     <!-- Core CSS -->
     <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="css/font-awesome.min.css" rel="stylesheet">
-    <link href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,400,300,600,700"
-          rel="stylesheet">
-    <link href="//fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet">
     <!-- Style Library -->
     <link href="css/style-library-1.css" rel="stylesheet">
     <link href="css/plugins.css" rel="stylesheet">
@@ -21,16 +18,14 @@
     <script src="js/respond.min.js"></script>
     <![endif]-->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.4.0/animate.min.css">
-
     <script src="js/angular.min.js"></script>
     <script src="js/parse.min.js"></script>
-
     <script>
         Parse.initialize("myAppId");
         Parse.serverURL = 'https://docker19107-env-2854709.mircloud.host/parse';
         Parse.clientKey = 'myClientKey';
 
-        if (Parse.User.current()){
+        if (Parse.User.current()) {
             window.location = "todo.html";
         }
 
@@ -67,11 +62,14 @@
         });
 
     </script>
-
-
 </head>
 <body data-spy="scroll" data-target="nav">
-		<a href="https://github.com/ahmedengu/ParseWorkshop"><img style="position: absolute; top: 0; left: 0; border: 0;z-index:9999;" src="https://camo.githubusercontent.com/82b228a3648bf44fc1163ef44c62fcc60081495e/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f6c6566745f7265645f6161303030302e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_left_red_aa0000.png"></a>
+<a href="https://github.com/ahmedengu/ParseWorkshop">
+    <img style="position: absolute; top: 0; left: 0; border: 0;z-index:9999;"
+         src="https://camo.githubusercontent.com/82b228a3648bf44fc1163ef44c62fcc60081495e/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f6c6566745f7265645f6161303030302e706e67"
+         alt="Fork me on GitHub"
+         data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_left_red_aa0000.png">
+</a>
 <header id="header-1" class="soft-scroll header-1">
     <!-- Navbar -->
     <nav class="main-nav navbar-fixed-top headroom headroom--pinned">
@@ -136,8 +134,10 @@
 <section id="promo-3" class="content-block promo-3 min-height-600px bg-deepocean">
     <div class="container text-center">
         <h1>Rocket Fuel for Web Designers</h1>
-        <h2>Pinegrow Blocks</h2>
-        <a data-toggle="modal" data-target="#modal1" class="btn btn-outline btn-outline-xl outline-light">Just try to Login/Singup</a>
+        <h5 class="alert alert-warning">Kindly notice that the website main functionality is only the TODO list logic and anything else is just a
+            placeholder!</h5>
+        <a data-toggle="modal" data-target="#modal1" class="btn btn-outline btn-outline-xl outline-light">Just try to
+            Login/Singup</a>
     </div>
     <!-- /.container -->
 </section>

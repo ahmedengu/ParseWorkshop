@@ -1,124 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2386cb0-09c7-4f49-8ff0-445ae91e9181" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/ca/weblite/codename1/json/JSONArray.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/ca/weblite/codename1/json/JSONException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/ca/weblite/codename1/json/JSONObject$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/ca/weblite/codename1/json/JSONObject$Null.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/ca/weblite/codename1/json/JSONObject.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/ca/weblite/codename1/json/JSONString.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/ca/weblite/codename1/json/JSONStringer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/ca/weblite/codename1/json/JSONTokener.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/ca/weblite/codename1/json/JSONWriter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/ca/weblite/codename1/json/StringWriter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/ca/weblite/codename1/json/util/XML.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/ca/weblite/codename1/json/util/XMLTokener.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/Parse$DefaultParseObjectFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/Parse$EPlatform.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/Parse$IParseObjectFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/Parse$IPersistable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/Parse.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/ParseBatch$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/ParseBatch$EBatchOpType.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/ParseBatch.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/ParseCloud.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/ParseConfig.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/ParseConstants.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/ParseException.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/ParseFile.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/ParseGeoPoint.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/ParseInstallation.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/ParseObject.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/ParsePush$IPushCallback.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/ParsePush.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/ParseQuery$KeyConstraints.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/ParseQuery$QueryConstraints.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/ParseQuery$RelationConstraint.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/ParseQuery.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/ParseRelation.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/ParseRole.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/ParseUser.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/callback/CountCallback.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/callback/DeleteCallback.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/callback/FindCallback.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/callback/FunctionCallback.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/callback/GetCallback.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/callback/GetDataCallback.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/callback/LocationCallback.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/callback/LoginCallback.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/callback/ParseCallback.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/callback/ProgressCallback.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/callback/RequestPasswordResetCallback.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/callback/SaveCallback.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/callback/SendCallback.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/callback/SignUpCallback.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/command/ParseCommand$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/command/ParseCommand$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/command/ParseCommand.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/command/ParseDeleteCommand.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/command/ParseDownloadCommand.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/command/ParseGetCommand.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/command/ParsePostCommand.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/command/ParsePutCommand.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/command/ParseResponse.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/command/ParseUploadCommand$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/command/ParseUploadCommand.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/encode/IParseObjectEncodingStrategy.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/encode/ParseDecoder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/encode/ParseEncoder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/encode/PointerEncodingStrategy.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/encode/PointerOrLocalIdEncodingStrategy.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/nativeinterface/ParseInstallationNative.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/nativeinterface/ParsePushNative.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/operation/AddToArrayOperation.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/operation/AddUniqueToArrayOperation.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/operation/DeleteFieldOperation.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/operation/IncrementFieldOperation.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/operation/ParseOperation.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/operation/ParseOperationDecoder$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/operation/ParseOperationDecoder$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/operation/ParseOperationDecoder$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/operation/ParseOperationDecoder$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/operation/ParseOperationDecoder$5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/operation/ParseOperationDecoder$6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/operation/ParseOperationDecoder$7.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/operation/ParseOperationDecoder$IParseOperationDecoder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/operation/ParseOperationDecoder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/operation/ParseOperationUtil.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/operation/RelationOperation$ERelationType.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/operation/RelationOperation.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/operation/RemoveFromArrayOperation.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/operation/SetFieldOperation.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/util/ExternalizableJsonEntity$EJsonEntityType.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/util/ExternalizableJsonEntity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/util/ExternalizableParseObject.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/util/Logger$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/util/Logger$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/util/Logger.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/util/MimeType.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/util/ParseRegistry.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/generated/StateMachineBase.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/org/ieeeaast/todo/Todo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/userclasses/StateMachine$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/userclasses/StateMachine.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/nativeinterface/ParseInstallationNativeImpl.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TodoCodenameone/build/classes/com/parse4cn1/nativeinterface/ParsePushNativeImpl.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Todo.apk" afterPath="$PROJECT_DIR$/Todo.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TodoCodenameone/build/tmp/userclasses/StateMachine.class" afterPath="$PROJECT_DIR$/TodoCodenameone/build/tmp/userclasses/StateMachine.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TodoCodenameone/dist/Todo.jar" afterPath="$PROJECT_DIR$/TodoCodenameone/dist/Todo.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TodoCodenameone/out/production/TodoCodenameone/userclasses/StateMachine$1.class" afterPath="$PROJECT_DIR$/TodoCodenameone/out/production/TodoCodenameone/userclasses/StateMachine$1.class" />
+    <list default="true" id="a2386cb0-09c7-4f49-8ff0-445ae91e9181" name="Default" comment="Adding parse dashboard , contribution instructions">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CONTRIBUTING.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TodoCodenameone/out/production/TodoCodenameone/userclasses/HtmlManipulator.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TodoCodenameone/out/production/TodoCodenameone/userclasses/StateMachine.class" afterPath="$PROJECT_DIR$/TodoCodenameone/out/production/TodoCodenameone/userclasses/StateMachine.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/UWP.zip" afterPath="$PROJECT_DIR$/UWP.zip" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Todo.jad" afterPath="$PROJECT_DIR$/Todo.jad" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TodoCodenameone/.idea/ant.xml" afterPath="$PROJECT_DIR$/TodoCodenameone/.idea/ant.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TodoCodenameone/.idea/workspace.xml" afterPath="$PROJECT_DIR$/TodoCodenameone/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TodoCodenameone/build/built-jar.properties" afterPath="$PROJECT_DIR$/TodoCodenameone/build/built-jar.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TodoCodenameone/src/userclasses/StateMachine.java" afterPath="$PROJECT_DIR$/TodoCodenameone/src/userclasses/StateMachine.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TodoWebsite/.idea/workspace.xml" afterPath="$PROJECT_DIR$/TodoWebsite/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TodoWebsite/index.html" afterPath="$PROJECT_DIR$/TodoWebsite/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TodoWebsite/pinegrow.json" afterPath="$PROJECT_DIR$/TodoWebsite/pinegrow.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TodoWebsite/todo.html" afterPath="$PROJECT_DIR$/TodoWebsite/todo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pinegrow.json" afterPath="$PROJECT_DIR$/pinegrow.json" />
     </list>
     <ignored path="ParseWorkshop.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -141,8 +35,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="64" column="10" selection-start-line="64" selection-start-column="10" selection-end-line="64" selection-end-column="10" />
+            <state relative-caret-position="391">
+              <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -151,18 +45,34 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TodoWebsite/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="59" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
+            <state relative-caret-position="153">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="todo.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="34">
+                <caret line="2" column="69" selection-start-line="2" selection-start-column="69" selection-end-line="2" selection-end-column="69" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+          <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="todo.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TodoWebsite/todo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+            <state relative-caret-position="459">
+              <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -181,10 +91,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/TodoWebsite/index.html" />
+        <option value="$PROJECT_DIR$/CONTRIBUTING.md" />
         <option value="$PROJECT_DIR$/TodoWebsite/todo.html" />
+        <option value="$PROJECT_DIR$/TodoWebsite/index.html" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -226,6 +137,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files" />
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -238,9 +152,6 @@
       </pane>
       <pane id="PackagesPane">
         <subPane />
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files" />
       </pane>
       <pane id="Scratches" />
     </panes>
@@ -1079,7 +990,8 @@
       <workItem from="1477428898572" duration="152000" />
       <workItem from="1477429267702" duration="706000" />
       <workItem from="1477434701566" duration="4542000" />
-      <workItem from="1477447834585" duration="1653000" />
+      <workItem from="1477447834585" duration="4687000" />
+      <workItem from="1477580392056" duration="2176000" />
     </task>
     <task id="LOCAL-00001" summary="-">
       <created>1477276703071</created>
@@ -1200,11 +1112,18 @@
       <option name="project" value="LOCAL" />
       <updated>1477442233508</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="using clientKey ..">
+      <created>1477450266415</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1477450266415</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14155000" />
+    <option name="totallyTimeSpent" value="19365000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -1232,6 +1151,29 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24432677" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -1280,44 +1222,21 @@
     <MESSAGE value="https font src" />
     <MESSAGE value="blackberry button color" />
     <MESSAGE value="UWP" />
-    <option name="LAST_COMMIT_MESSAGE" value="UWP" />
+    <MESSAGE value="using clientKey .." />
+    <option name="LAST_COMMIT_MESSAGE" value="using clientKey .." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="17">
-            <caret line="1" column="49" selection-start-line="1" selection-start-column="49" selection-end-line="1" selection-end-column="49" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
+        <state relative-caret-position="1088">
           <caret line="64" column="10" selection-start-line="64" selection-start-column="10" selection-end-line="64" selection-end-column="10" />
           <folding />
         </state>
@@ -1333,10 +1252,77 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TodoWebsite/todo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CONTRIBUTING.md">
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="136">
+            <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TodoWebsite/todo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TodoWebsite/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="34">
+            <caret line="2" column="69" selection-start-line="2" selection-start-column="69" selection-end-line="2" selection-end-column="69" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+        <state />
       </provider>
     </entry>
   </component>

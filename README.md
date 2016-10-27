@@ -1,2 +1,3 @@
 #Parse Workshop
-https://www.facebook.com/events/1768807240073504/
+* [Contribution](https://github.com/ahmedengu/ParseWorkshop/CONTRIBUTING.md)
+* [Fackbook Event](https://www.facebook.com/events/1768807240073504/)
