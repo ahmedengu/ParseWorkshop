@@ -1,0 +1,10 @@
+Prefix Verb URI Pattern            Controller#Action
+  todo GET  /todo(.:format)        todo#index
+   add POST /add(.:format)         todo#add
+       GET  /remove/:id(.:format)  todo#remove
+       GET  /check/:id(.:format)   todo#check
+       GET  /uncheck/:id(.:format) todo#uncheck
+  root GET  /                      home#index
+ login POST /login(.:format)       home#login
+signup POST /signup(.:format)      home#signup
+logout POST /logout(.:format)      home#logout
