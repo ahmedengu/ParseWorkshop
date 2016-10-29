@@ -23,6 +23,8 @@
     * [PostMan](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en)
 * BaaS vs building your back-end
 * [Parse](parseplatform.github.io)
+    * [parse-server-example](https://github.com/ParsePlatform/parse-server-example)
+    * Parse server [limitations](https://github.com/ParsePlatform/parse-server/wiki/Compatibility-with-Hosted-Parse) , [Workaround](http://blog.back4app.com/2016/04/06/parse-open-source-workarounds/)
 * [Parse alternatives](https://github.com/relatedcode/ParseAlternatives)
     * [PubNub](https://www.pubnub.com)
     * [BaaSBox](http://www.baasbox.com/)
@@ -64,3 +66,4 @@
     * [mLab](https://mlab.com)
     * [compose](https://www.compose.com/mongodb)
     * [Containers as a Service (CaaS)](http://searchitoperations.techtarget.com/definition/Containers-as-a-Service-CaaS)
+
