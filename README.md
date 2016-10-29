@@ -6,6 +6,7 @@
 * [Podcasts](https://player.fm/ahmedengu/fm)
 * Youtube
     * [Derek Banas](https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw)
+
 # Day 1
 
 * A walk-through in the [Demo](https://ahmedengu.github.io/ParseWorkshop/) and the workshop
@@ -60,4 +61,6 @@
     * [Sashido](https://www.sashido.io)
     * [Jelastic](https://jelastic.cloud)
     * [Heroku](heroku.com)
+    * [mLab](https://mlab.com)
+    * [compose](https://www.compose.com/mongodb)
     * [Containers as a Service (CaaS)](http://searchitoperations.techtarget.com/definition/Containers-as-a-Service-CaaS)
