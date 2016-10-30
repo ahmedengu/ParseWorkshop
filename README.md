@@ -46,11 +46,13 @@
     * [TutorialsPoint](https://www.tutorialspoint.com/expressjs/index.htm)
 * [MongoDB](https://www.mongodb.com) [Wiki](https://en.wikipedia.org/wiki/MongoDB)
     * [TutorialsPoint](https://www.tutorialspoint.com/mongodb/)
+    * [Secure Mongo](http://tgrall.github.io/blog/2015/02/04/introduction-to-mongodb-security/)
 * [Intellij IDEA](https://www.jetbrains.com/idea/)
     * [Free for students](https://www.jetbrains.com/student/)
 * [Docker](https://www.docker.com) [Wiki](https://en.wikipedia.org/wiki/Docker_(software))
     * Docker vs VM [What is Docker](https://www.docker.com/what-docker)
     * [Docker Hub](https://hub.docker.com)
+    * [Docker Toolbox](https://www.docker.com/products/docker-toolbox)
 * [Parse Docs](https://parseplatform.github.io)
 * [Parse Dashboard](https://github.com/ParsePlatform/parse-dashboard)
 * Running Parse
