@@ -2,451 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a75ecac2-c4c4-47c6-a2d2-f7391f002314" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/boom/images/boom.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/crypto-browserify/test/vectors/byte0002.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/crypto-browserify/test/vectors/byte0042.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/crypto-browserify/test/vectors/byte0055.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/crypto-browserify/test/vectors/byte0095.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/crypto-browserify/test/vectors/byte0120.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/crypto-browserify/test/vectors/byte0146.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/crypto-browserify/test/vectors/byte0160.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/crypto-browserify/test/vectors/byte0173.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/public/images/partner-logos/logo-jquery.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/public/images/ribbons/new.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/.bin/defs.cmd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/.bin/esvalidate.cmd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/acorn/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/acorn/src/bin/acorn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/acorn/src/location.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/ansi/lib/newlines.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/apn/lib/errors.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/are-we-there-yet/test/lib/test-event.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/assert-plus/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/ast-traverse/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/asynckit/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/aws-sdk/.changes/2.6.0.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/aws-sdk/.changes/2.6.4.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/aws-sdk/apis/cloudformation-2010-05-15.paginators.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/aws-sdk/apis/elastictranscoder-2012-09-25.waiters2.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/aws-sdk/apis/gamelift-2015-10-01.min.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/aws-sdk/apis/rds-2014-10-31.min.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/aws-sdk/apis/snowball-2016-06-30.paginators.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/aws-sdk/clients/browser_default.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/aws-sdk/clients/firehose.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/aws-sdk/clients/lambda.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/aws-sdk/clients/route53.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/aws-sdk/lib/signers/v3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/aws4/.tern-port" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/aws4/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/babel-runtime/core-js/object/is-frozen.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/babel-runtime/core-js/object/seal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/babel-runtime/core-js/set-immediate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/babel-runtime/core-js/string/trim-left.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/babel-runtime/helpers/define-enumerable-properties.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/base64-url/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/base64url/node_modules/readable-stream/writable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/bcrypt/src/bcrypt_node.cc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/bluebird/js/main/direct_resolve.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/bluebird/js/main/util.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/body-parser/node_modules/ee-first/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/breakable/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/bson/LICENSE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/buffer-writer/benchmark/resize-benchmark.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/buffer/test/node/test-buffer-includes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/busboy/test/test-utils-parse-params.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/chalk/license" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/concat-map/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/core-js/client/library.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/core-js/client/shim.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/core-js/client/shim.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/core-js/es7/array.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/core-js/fn/array/keys.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/core-js/fn/array/some.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/core-js/fn/delay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/core-js/fn/math/acosh.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/core-js/fn/object/get-own-property-descriptor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/core-js/fn/string/code-point-at.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/core-js/fn/string/ends-with.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/core-js/fn/string/pad-right.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/core-js/fn/string/trim-right.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/core-js/fn/symbol/replace.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/core-js/library/fn/dict.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/core-js/library/fn/math/acosh.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/core-js/library/fn/math/fround.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/core-js/library/fn/math/hypot.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/core-js/library/fn/object/get-own-property-names.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/core-js/library/fn/object/is-sealed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/core-js/library/fn/object/set-prototype-of.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/core-js/library/fn/promise.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/core-js/library/fn/reflect/apply.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/core-js/library/fn/reflect/set.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/core-js/library/fn/string/from-code-point.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/core-js/library/fn/symbol/unscopables.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/core-js/library/modules/$.object-assign.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/core-js/library/modules/$.typed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/core-js/library/modules/core.get-iterator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/core-js/library/modules/core.object.is-object.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/core-js/library/modules/es6.number.parse-int.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/core-js/library/modules/es6.regexp.flags.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/core-js/library/modules/es7.string.pad-right.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/core-js/modules/$.add-to-unscopables.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/core-js/modules/$.dom-create.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/core-js/modules/$.hide.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/core-js/modules/$.iter-define.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/core-js/modules/$.object-sap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/core-js/modules/core.function.part.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/core-js/modules/core.log.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/core-js/modules/es6.array.fill.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/core-js/modules/es6.math.acosh.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/core-js/modules/es6.math.hypot.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/core-js/modules/es6.object.is.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/cryptiles/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/ctype/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/ctype/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/cycle/cycle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/data-uri-to-buffer/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/debug/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/debug/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/decamelize/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/deep-is/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/deepcopy/build/deepcopy.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/defined/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/defs/build/bundle.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/defs/jshint_globals/LICENSE.jshint" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/defs/node_modules/esprima-fb/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/defs/scope.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/defs/tests/forbidden-loop-closure-stderr" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/defs/tests/used-in-same-declaration-stderr" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/depd/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/deprecate/test/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/detective/bench/esprima_v_acorn.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/dicer/node_modules/readable-stream/lib/_stream_passthrough.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/dicer/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/dicer/test/fixtures/many-noend/part5.header" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/dicer/test/fixtures/many-noend/part6" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/ee-first/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/esprima/bin/esvalidate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/foreachasync/forEachAsync.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/foreachasync/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/generic-pool/lib/generic-pool.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/get-uri/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/har-validator/lib/schemas/content.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/har-validator/lib/schemas/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/hawk/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/hawk/lib/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/http-proxy-agent/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/https-proxy-agent/test/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/indent-string/node_modules/minimist/test/dotted.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/indent-string/node_modules/minimist/test/long.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/indent-string/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/ip/lib/ip.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/is-my-json-valid/require.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/is-my-json-valid/test/json-schema-draft4/default.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/is-property/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/is-retry-allowed/license" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/jmespath/test/compliance/boolean.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/jmespath/test/compliance/multiselect.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/jodid25519/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/jodid25519/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/jsbn/example.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/json-file-plus/.jscs.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/jsonpointer/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/jsprim/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/jws/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/jws/lib/tostring.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/kerberos/lib/base64.c" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/kerberos/lib/win32/wrappers/security_context.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/locutus/c/math/abs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/locutus/golang/strings/Contains.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/locutus/golang/strings/LastIndex.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/locutus/golang/strings/index.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/locutus/php/array/array_fill_keys.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/locutus/php/array/array_map.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/locutus/php/array/array_pop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/locutus/php/array/array_push.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/locutus/php/array/array_reduce.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/locutus/php/array/array_splice.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/locutus/php/array/asort.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/locutus/php/array/each.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/locutus/php/array/in_array.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/locutus/php/datetime/gmstrftime.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/locutus/php/datetime/strtotime.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/locutus/php/funchand/get_defined_functions.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/locutus/php/info/assert_options.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/locutus/php/info/ini_set.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/locutus/php/json/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/locutus/php/json/json_decode.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/locutus/php/math/acos.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/locutus/php/math/acosh.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/locutus/php/math/asin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/locutus/php/math/atanh.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/locutus/php/math/decbin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/locutus/php/math/tanh.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/locutus/php/strings/addcslashes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/locutus/php/strings/bin2hex.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/locutus/php/strings/chunk_split.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/locutus/php/strings/convert_uuencode.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/locutus/php/strings/levenshtein.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/locutus/php/strings/localeconv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/locutus/php/strings/localeconv.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/locutus/php/strings/nl_langinfo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/locutus/php/strings/setlocale.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/locutus/php/strings/sha1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/locutus/php/strings/strspn.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/locutus/php/strings/substr_count.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/locutus/php/strings/ucfirst.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/locutus/php/strings/wordwrap.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/locutus/php/var/is_callable.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/locutus/php/var/is_real.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/locutus/php/xdiff/xdiff_string_diff.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/locutus/php/xml/utf8_decode.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/locutus/ruby/Math/acos.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/lodash/_arrayEvery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/lodash/_baseFilter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/lodash/_baseGt.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/lodash/_baseIndexOf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/lodash/_baseIsEqualDeep.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/lodash/_baseLodash.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/lodash/_baseProperty.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/lodash/_baseSortedUniq.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/lodash/_countHolders.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/lodash/_getWrapDetails.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/lodash/_initCloneObject.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/lodash/_setData.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/lodash/assignInWith.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/lodash/dropRightWhile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/lodash/fp/complement.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/lodash/fp/defaults.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/lodash/fp/indexOfFrom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/lodash/fp/invertBy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/lodash/fp/isDate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/lodash/fp/isNaN.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/lodash/fp/orderBy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/lodash/fp/reject.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/lodash/fp/slice.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/lodash/fp/spread.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/lodash/fp/symmetricDifferenceBy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/lodash/fp/trimStart.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/lodash/fp/upperFirst.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/lodash/fp/xorBy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/lodash/isEqualWith.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/lodash/isFunction.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/lodash/meanBy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/lodash/now.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/lodash/overEvery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/lodash/padEnd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/lodash/reduceRight.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/lodash/snakeCase.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/lodash/words.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/mailgun-js/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/mailgun-js/node_modules/async/concat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/mailgun-js/node_modules/async/doWhilst.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/mailgun-js/node_modules/async/mapValuesLimit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/mailgun-js/node_modules/debug/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/mailgun-js/node_modules/ms/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/map-obj/license" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/mime-types/HISTORY.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/mime/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/mongodb-core/lib/wireprotocol/3_2_support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/mongodb/lib/mongos.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/multer/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/multer/node_modules/ee-first/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/nan/doc/buffers.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/nan/doc/new.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/nan/doc/v8_internals.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/negotiator/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/netmask/test/netmasks.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/node-forge/js/sha512.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/node-forge/nodejs/test/pkcs7.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/node-forge/nodejs/ui/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/node-forge/setup/configure.ac" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/node-forge/tests/loginDemo.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/node-forge/tests/policyserver.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/node-forge/tests/result.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/node-gcm/node_modules/lodash/collection/foldr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/node-gcm/node_modules/lodash/collection/sum.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/node-gcm/node_modules/lodash/internal/baseCopy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/node-gcm/node_modules/lodash/internal/baseFill.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/node-gcm/node_modules/lodash/internal/createCtorWrapper.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/node-gcm/node_modules/lodash/internal/createDefaults.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/node-gcm/node_modules/lodash/internal/mergeData.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/node-gcm/node_modules/lodash/internal/reEvaluate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/node-gcm/node_modules/lodash/math/max.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/node-gcm/node_modules/lodash/object/keys.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/node-gcm/node_modules/lodash/object/result.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/node-gcm/node_modules/lodash/string/deburr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/node-gcm/node_modules/lodash/utility/uniqueId.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/node-uuid/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/once/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/pac-proxy-agent/test/ssl-cert-snakeoil.pem" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/pac-resolver/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-cloud-express/node_modules/body-parser/lib/types/raw.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-cloud-express/node_modules/body-parser/node_modules/mime-types/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-cloud-express/node_modules/body-parser/node_modules/on-finished/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-cloud-express/node_modules/body-parser/node_modules/qs/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-cloud-express/node_modules/etag/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-cloud-express/node_modules/parse/lib/browser/ParseFile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-cloud-express/node_modules/parse/lib/browser/ParseInstallation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-cloud-express/node_modules/parse/lib/node/FacebookUtils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-cloud-express/node_modules/parse/lib/react-native/ParseRole.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-cloud-express/node_modules/qs/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-dashboard/node_modules/depd/History.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-dashboard/node_modules/etag/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-dashboard/node_modules/fresh/HISTORY.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-dashboard/node_modules/ipaddr.js/ipaddr.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-dashboard/node_modules/ipaddr.js/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-dashboard/node_modules/ms/History.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-dashboard/node_modules/qs/test/parse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-json/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/bin/parse-server" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/lib/Adapters/Logger/WinstonLogger.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/lib/Controllers/UserController.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/lib/cloud-code/Parse.Cloud.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/accepts/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/babel-runtime/core-js/array/reverse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/babel-runtime/core-js/array/splice.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/babel-runtime/core-js/array/values.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/babel-runtime/core-js/map.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/babel-runtime/core-js/math/atanh.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/babel-runtime/core-js/object/get-own-property-names.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/babel-runtime/core-js/symbol/to-string-tag.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/babel-runtime/helpers/objectDestructuringEmpty.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/babel-runtime/helpers/slicedToArray.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/core-js/es7/string.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/core-js/fn/array/find.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/core-js/fn/array/virtual/iterator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/core-js/fn/number/max-safe-integer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/core-js/fn/number/virtual/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/core-js/fn/object/get-prototype-of.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/core-js/fn/regexp/flags.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/core-js/fn/string/virtual/big.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/core-js/fn/string/virtual/link.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/core-js/fn/string/virtual/sup.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/core-js/fn/symbol/observable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/core-js/library/fn/array/find.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/core-js/library/fn/array/reverse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/core-js/library/fn/array/virtual/reduce.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/core-js/library/fn/function/virtual/bind.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/core-js/library/fn/math/imulh.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/core-js/library/fn/object/get-own-property-symbols.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/core-js/library/fn/object/is-object.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/core-js/library/fn/reflect/get-own-property-descriptor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/core-js/library/fn/regexp/search.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/core-js/library/fn/set.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/core-js/library/fn/symbol/is-concat-spreadable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/core-js/library/fn/symbol/key-for.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/core-js/library/modules/_export.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/core-js/library/modules/_is-integer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/core-js/library/modules/es6.date.to-primitive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/core-js/library/modules/es6.math.sinh.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/core-js/library/modules/es6.reflect.own-keys.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/core-js/library/modules/es6.string.raw.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/core-js/library/modules/es6.string.repeat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/core-js/library/modules/es7.asap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/core-js/modules/_set-species.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/core-js/modules/_to-length.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/core-js/modules/_wks.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/core-js/modules/es6.map.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/core-js/modules/es6.math.sign.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/core-js/modules/es6.math.tanh.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/core-js/modules/es6.object.create.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/core-js/modules/es6.typed.float64-array.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/core-js/modules/es7.math.umulh.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/depd/lib/compat/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/escape-html/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/etag/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/express/lib/response.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/finalhandler/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/ipaddr.js/test/ipaddr.test.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/mime/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/parse/lib/browser/LiveQuerySubscription.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/parse/lib/browser/ParseOp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/parse/lib/browser/ParseRole.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/parse/lib/browser/decode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/parse/lib/browser/equals.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/proxy-addr/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/qs/test/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse-server/node_modules/request/lib/helpers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse/lib/browser/FacebookUtils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse/lib/browser/ParseOp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse/lib/node/CoreManager.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse/lib/node/parseDate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse/lib/react-native/ParseACL.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parse/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/parseurl/HISTORY.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/pg-promise/typescript/pg-minify.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/pg/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/pg/lib/client.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/pg/node_modules/semver/foot.js.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/pg/node_modules/semver/test/major-minor-patch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/pkginfo/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/pkginfo/examples/target-dir.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/postgres-bytea/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/process-nextick-args/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/process-nextick-args/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/promise/lib/done.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/proxy-addr/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/qs/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/range-parser/HISTORY.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/range-parser/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/read-all-stream/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/recast/node_modules/ast-types/lib/scope.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/recast/node_modules/esprima-fb/test/reflect.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/redis-parser/.codeclimate.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/redis/.eslintignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/redis/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/regenerator/packages/regenerator-runtime/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/request/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/request/lib/querystring.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/request/node_modules/qs/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/require_optional/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/require_optional/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/sax/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/smart-buffer/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/source-map/test/source-map/test-util.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/sshpk/node_modules/asn1/lib/ber/errors.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/sshpk/node_modules/assert-plus/AUTHORS" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/sshpk/node_modules/assert-plus/CHANGES.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/string_decoder/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/stringset/examples.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/thunkify/History.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/twilio/node_modules/bl/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/twilio/node_modules/bl/test/basic-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/twilio/node_modules/combined-stream/License" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/twilio/node_modules/delayed-stream/test/integration/test-max-data-size.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/twilio/node_modules/hawk/lib/crypto.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/twilio/node_modules/hawk/test/message.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/twilio/node_modules/mime-db/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/twilio/node_modules/readable-stream/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/twilio/node_modules/readable-stream/lib/_stream_transform.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/twilio/node_modules/scmp/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/unpipe/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/unzip-response/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/verror/.gitmodules" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/verror/examples/werror.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/winston/test/transports/file-tailrolling-test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/ws/lib/WebSocketServer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/xml2js/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/xmlbuilder/node_modules/lodash/array/drop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/xmlbuilder/node_modules/lodash/array/dropRight.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/xmlbuilder/node_modules/lodash/array/xor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/xmlbuilder/node_modules/lodash/function/defer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/xmlbuilder/node_modules/lodash/internal/arraySome.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/xmlbuilder/node_modules/lodash/internal/cacheIndexOf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/xmlbuilder/node_modules/lodash/internal/compareMultiple.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/xmlbuilder/node_modules/lodash/internal/setData.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/xmlbuilder/node_modules/lodash/internal/toObject.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/xmlbuilder/node_modules/lodash/string/trimLeft.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/xmlbuilder/node_modules/lodash/utility.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/xmlbuilder/node_modules/lodash/utility/property.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/xtend/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../ParseDev/node_modules/yallist/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TodoCodenameone/out/production/TodoCodenameone/com/parse4cn1/callback/RequestPasswordResetCallback.class" afterPath="$PROJECT_DIR$/../TodoCodenameone/out/production/TodoCodenameone/com/parse4cn1/callback/RequestPasswordResetCallback.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/workspace.xml" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ParseDev/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ParseDev/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../README.md" afterPath="$PROJECT_DIR$/../README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TodoCodenameone/.idea/misc.xml" afterPath="$PROJECT_DIR$/../TodoCodenameone/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TodoCodenameone/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../TodoCodenameone/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../TodoCodenameone/src/com/parse4cn1/callback/RequestPasswordResetCallback.java" afterPath="$PROJECT_DIR$/../TodoCodenameone/src/com/parse4cn1/callback/RequestPasswordResetCallback.java" />
     </list>
     <ignored path="ParseDocker.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -466,7 +28,7 @@
     <favorites_list name="ParseDocker" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/parse-server/cloud/main.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -500,7 +62,7 @@
       <file leaf-file-name="LICENSE" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LICENSE">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2652">
+            <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -510,8 +72,8 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+            <state relative-caret-position="255">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -519,9 +81,6 @@
       </file>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-            <state />
-          </provider>
           <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="0">
@@ -531,12 +90,15 @@
               <second_editor />
             </state>
           </provider>
+          <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+            <state />
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-51">
+            <state relative-caret-position="255">
               <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
               <folding>
                 <element signature="e#586#616#0" expanded="true" />
@@ -598,10 +160,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="754" />
+    <option name="x" value="-7" />
+    <option name="width" value="1036" />
+    <option name="height" value="745" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -667,8 +228,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -789,38 +350,39 @@
       <option name="presentableId" value="Default" />
       <updated>1477775732210</updated>
       <workItem from="1477775734489" duration="2870000" />
+      <workItem from="1477829646687" duration="613000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2870000" />
+    <option name="totallyTimeSpent" value="3483000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="-7" y="0" width="1036" height="745" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.290469" sideWeight="0.5" order="-1" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.289959" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -839,6 +401,89 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/parse-server/cloud/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/install_dashboard.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="16" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+          <folding>
+            <element signature="e#586#616#0" expanded="true" />
+            <element signature="e#761#800#0" expanded="true" />
+            <element signature="e#821#914#0" expanded="true" />
+            <element signature="e#875#910#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start_dashboard.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/start_server.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/start_dashboard.sh">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -881,16 +526,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LICENSE">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2652">
+        <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
       <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="0">
@@ -900,10 +542,13 @@
           <second_editor />
         </state>
       </provider>
+      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-51">
+        <state relative-caret-position="255">
           <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
           <folding>
             <element signature="e#586#616#0" expanded="true" />
@@ -916,8 +561,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+        <state relative-caret-position="255">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>

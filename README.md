@@ -9,9 +9,9 @@
     * [Mackenzie Child](https://www.youtube.com/user/mackenziechild) Thx to @[mohammedgad](https://github.com/mohammedgad)
     * ["Uncle" Bob Martin](https://www.youtube.com/watch?v=QHnLmvDxGTY) Thx to @[mohammedgad](https://github.com/mohammedgad)
 * Games
-   * [Enki](https://enki.com)
-   * [Empire of Code](https://empireofcode.com)
-
+    * [Enki](https://enki.com)
+    * [Empire of Code](https://empireofcode.com)
+* [Free Code Camp](https://www.freecodecamp.com)
 
 # Day 1
 
@@ -23,14 +23,14 @@
     * [Jelastic](https://jelastic.cloud)
     * [More...](https://www.g2crowd.com/categories/platform-as-a-service-paas)
 * Application programming interface [API](https://en.wikipedia.org/wiki/Application_programming_interface)
-    * [API Evangelist](apievangelist.com)
+    * [API Evangelist](http://apievangelist.com)
 * REST(REpresentational State Transfer) API [REST](https://en.wikipedia.org/wiki/Representational_state_transfer)
     * [cURL](https://curl.haxx.se)
     * [PostMan](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en)
     * [JSON](https://en.wikipedia.org/wiki/JSON) [TutorialsPoint](http://www.tutorialspoint.com/json/)
     * [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 * BaaS vs building your back-end
-* [Parse](parseplatform.github.io)
+* [Parse](http://parseplatform.github.io)
     * [parse-server-example](https://github.com/ParsePlatform/parse-server-example)
     * Parse server [limitations](https://github.com/ParsePlatform/parse-server/wiki/Compatibility-with-Hosted-Parse) , [Workaround](http://blog.back4app.com/2016/04/06/parse-open-source-workarounds/)
 * [Parse alternatives](https://github.com/relatedcode/ParseAlternatives)
@@ -76,7 +76,7 @@
     * [Back4App](https://www.back4app.com)
     * [Sashido](https://www.sashido.io)
     * [Jelastic](https://jelastic.cloud)
-    * [Heroku](http://heroku.com)
+    * [Heroku](http://heroku.com)
     * [mLab](https://mlab.com)
     * [compose](https://www.compose.com/mongodb)
     * [Containers as a Service (CaaS)](http://searchitoperations.techtarget.com/definition/Containers-as-a-Service-CaaS)
