@@ -74,7 +74,7 @@
     * [Back4App](https://www.back4app.com)
     * [Sashido](https://www.sashido.io)
     * [Jelastic](https://jelastic.cloud)
-    * [Heroku](heroku.com)
+    * [Heroku](http://heroku.com)
     * [mLab](https://mlab.com)
     * [compose](https://www.compose.com/mongodb)
     * [Containers as a Service (CaaS)](http://searchitoperations.techtarget.com/definition/Containers-as-a-Service-CaaS)
