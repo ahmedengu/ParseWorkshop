@@ -8,6 +8,10 @@
     * [Derek Banas](https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw)
     * [Mackenzie Child](https://www.youtube.com/user/mackenziechild) Thx to @[mohammedgad](https://github.com/mohammedgad)
     * ["Uncle" Bob Martin](https://www.youtube.com/watch?v=QHnLmvDxGTY) Thx to @[mohammedgad](https://github.com/mohammedgad)
+* Games
+   * [Enki](https://enki.com)
+   * [Empire of Code](https://empireofcode.com)
+
 
 # Day 1
 
