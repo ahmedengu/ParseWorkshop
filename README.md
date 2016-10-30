@@ -6,8 +6,8 @@
 * [Podcasts](https://player.fm/ahmedengu/fm)
 * Must watch Youtube Channels/Videos
     * [Derek Banas](https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw)
-    * [Mackenzie Child](https://www.youtube.com/user/mackenziechild) Thx to @mohammedgad
-    * ["Uncle" Bob Martin](https://www.youtube.com/watch?v=QHnLmvDxGTY) Thx to @mohammedgad
+    * [Mackenzie Child](https://www.youtube.com/user/mackenziechild) Thx to @[mohammedgad](https://github.com/mohammedgad)
+    * ["Uncle" Bob Martin](https://www.youtube.com/watch?v=QHnLmvDxGTY) Thx to @[mohammedgad](https://github.com/mohammedgad)
 
 # Day 1
 
