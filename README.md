@@ -81,3 +81,59 @@
     * [compose](https://www.compose.com/mongodb)
     * [Containers as a Service (CaaS)](http://searchitoperations.techtarget.com/definition/Containers-as-a-Service-CaaS)
 
+# Day 2
+
+* Intro to [Pinegrow](https://pinegrow.com)
+    1. Create Page
+    2. Choose Type
+    3. The Interface
+        * Lib 
+        * Tree
+        * Menu
+        * Page
+    4. Lib features
+        * Lib
+        * Prob
+        * CSS
+        * ACT
+        * PRJ
+    5. Implementation
+    6. Hands on
+    7. Libraries 
+    8. Animations 
+* Intro [Angular](https://angularjs.org)
+    * [W3School](http://www.w3schools.com/angular/)
+        1. Intro
+        2. Expressions
+        3. Modules
+        4. Directives
+        5. Model
+        6. Data binding
+        7. Controllers
+        8. Scope
+        9. Tables
+* Integrate Angular
+    1. Login/Signup
+    2. List tasks
+    3. Add Task
+    4. Check/Uncheck
+    5. Remove
+* Intro to [Back4App](http://back4app.com)
+    1. Create a project
+    2. Configure parse
+* Integration {Website, Angular, Parse}
+    1. Initialize
+    2. User
+        1. Login
+        2. Signup
+        3. Get Logged in user
+    3. Tasks
+        1. List all tasks
+        2. Add new task
+        3. Remove a task
+        4. Check/Uncheck a task
+* Publish on GitHub
+    1. Create a repository
+    2. Upload your site
+    3. Configure Github pages
+* Enjoy ;)

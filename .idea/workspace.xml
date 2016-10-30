@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a2386cb0-09c7-4f49-8ff0-445ae91e9181" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/composerJson.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TodoCodenameone/out/production/TodoCodenameone/com/parse4cn1/callback/RequestPasswordResetCallback.class" afterPath="$PROJECT_DIR$/TodoCodenameone/out/production/TodoCodenameone/com/parse4cn1/callback/RequestPasswordResetCallback.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ParseDev/.idea/workspace.xml" afterPath="$PROJECT_DIR$/ParseDev/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ParseDocker/.idea/workspace.xml" afterPath="$PROJECT_DIR$/ParseDocker/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TodoCodenameone/.idea/misc.xml" afterPath="$PROJECT_DIR$/TodoCodenameone/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TodoCodenameone/.idea/workspace.xml" afterPath="$PROJECT_DIR$/TodoCodenameone/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TodoCodenameone/src/com/parse4cn1/callback/RequestPasswordResetCallback.java" afterPath="$PROJECT_DIR$/TodoCodenameone/src/com/parse4cn1/callback/RequestPasswordResetCallback.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TodoWebsite/.idea/workspace.xml" afterPath="$PROJECT_DIR$/TodoWebsite/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TodoSlim/.idea/workspace.xml" afterPath="$PROJECT_DIR$/TodoSlim/.idea/workspace.xml" />
     </list>
     <ignored path="ParseWorkshop.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,16 +26,16 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
-          <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="475">
-                <caret line="83" column="0" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+              <first_editor relative-caret-position="17">
+                <caret line="88" column="6" selection-start-line="88" selection-start-column="6" selection-end-line="88" selection-end-column="6" />
                 <folding />
               </first_editor>
               <second_editor />
             </state>
           </provider>
-          <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+          <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
           </provider>
         </entry>
@@ -148,7 +140,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/TodoCodenameone" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/TodoSlim" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
     <property name="js.eslint.eslintPackage" value="" />
@@ -1095,7 +1087,7 @@
       <workItem from="1477754297617" duration="699000" />
       <workItem from="1477780345037" duration="6376000" />
       <workItem from="1477817003721" duration="1516000" />
-      <workItem from="1477828873982" duration="2938000" />
+      <workItem from="1477828873982" duration="10844000" />
     </task>
     <task id="LOCAL-00001" summary="-">
       <created>1477276703071</created>
@@ -1349,11 +1341,18 @@
       <option name="project" value="LOCAL" />
       <updated>1477829186932</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="ReadMe">
+      <created>1477843140492</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1477843140492</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36942000" />
+    <option name="totallyTimeSpent" value="44848000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -1462,7 +1461,8 @@
     <MESSAGE value="removing active records" />
     <MESSAGE value="Readme for day 1" />
     <MESSAGE value="Github , nosql" />
-    <option name="LAST_COMMIT_MESSAGE" value="Github , nosql" />
+    <MESSAGE value="ReadMe" />
+    <option name="LAST_COMMIT_MESSAGE" value="ReadMe" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1887,16 +1887,16 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="475">
-            <caret line="83" column="0" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+          <first_editor relative-caret-position="17">
+            <caret line="88" column="6" selection-start-line="88" selection-start-column="6" selection-end-line="88" selection-end-column="6" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
-      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+      <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
     </entry>
