@@ -4,8 +4,10 @@
 * [Fackbook Event](https://www.facebook.com/events/1768807240073504/)
 * [Docker Repo](https://hub.docker.com/r/ahmedengu/parseworkshop/)
 * [Podcasts](https://player.fm/ahmedengu/fm)
-* Youtube
+* Must watch Youtube Channels/Videos
     * [Derek Banas](https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw)
+    * [Mackenzie Child](https://www.youtube.com/user/mackenziechild) Thx to @mohammedgad
+    * ["Uncle" Bob Martin](https://www.youtube.com/watch?v=QHnLmvDxGTY) Thx to @mohammedgad
 
 # Day 1
 
@@ -21,6 +23,8 @@
 * REST(REpresentational State Transfer) API [REST](https://en.wikipedia.org/wiki/Representational_state_transfer)
     * [cURL](https://curl.haxx.se)
     * [PostMan](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en)
+    * [JSON](https://en.wikipedia.org/wiki/JSON) [TutorialsPoint](http://www.tutorialspoint.com/json/)
+    * [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 * BaaS vs building your back-end
 * [Parse](parseplatform.github.io)
     * [parse-server-example](https://github.com/ParsePlatform/parse-server-example)
@@ -30,6 +34,7 @@
     * [BaaSBox](http://www.baasbox.com/)
     * [DreamFactory](https://dreamfactory.com/)
     * [LoopBack](http://loopback.io/)
+    * [Firebase](https://firebase.google.com)
 * [GIT](https://git-scm.com/)
     * [Try Git](https://try.github.io)
     * [SourceTree](https://www.sourcetreeapp.com)
@@ -53,6 +58,7 @@
     * Docker vs VM [What is Docker](https://www.docker.com/what-docker)
     * [Docker Hub](https://hub.docker.com)
     * [Docker Toolbox](https://www.docker.com/products/docker-toolbox)
+    * [Get Started with Docker](https://docs.docker.com/engine/getstarted/)
 * [Parse Docs](https://parseplatform.github.io)
 * [Parse Dashboard](https://github.com/ParsePlatform/parse-dashboard)
 * Running Parse
