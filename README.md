@@ -148,3 +148,5 @@ ___
     * [HTML](http://www.w3schools.com/html/)
     * [Bootstrap](http://www.w3schools.com/bootstrap/)
     * [Jquery](http://www.w3schools.com/jquery/)
+
+* [Animator Pinegrow Plugin](https://github.com/MhdAljuboori/AnimatorPinegrowPlugin)
