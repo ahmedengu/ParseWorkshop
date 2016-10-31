@@ -137,3 +137,14 @@
     2. Upload your site
     3. Configure Github pages
 * Enjoy ;)
+
+___
+* Pinegrow Alternatives
+    * [Pingendo](http://pingendo.com)
+    * [Bootstrap Studio](https://bootstrapstudio.io)
+    * [Mobirise](https://mobirise.com)
+* Tutorials
+    * [CSS](http://www.w3schools.com/css/)
+    * [HTML](http://www.w3schools.com/html/)
+    * [Bootstrap](http://www.w3schools.com/bootstrap/)
+    * [Jquery](http://www.w3schools.com/jquery/)
