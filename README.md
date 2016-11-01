@@ -12,6 +12,9 @@
     * [Enki](https://enki.com)
     * [Empire of Code](https://empireofcode.com)
 * [Free Code Camp](https://www.freecodecamp.com)
+* [Awesome List](https://github.com/sindresorhus/awesome)
+    * [Awesome Cheatsheet](https://github.com/detailyang/awesome-cheatsheet)
+    * [Awesome Angularjs](https://github.com/gianarb/awesome-angularjs)
 
 # Day 1 [Backend]
 
