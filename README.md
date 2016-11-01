@@ -13,7 +13,7 @@
     * [Empire of Code](https://empireofcode.com)
 * [Free Code Camp](https://www.freecodecamp.com)
 
-# Day 1
+# Day 1 [Backend]
 
 * A walk-through in the [Demo](https://ahmedengu.github.io/ParseWorkshop/) and the workshop
 * Anything as a service [XaaS](http://searchcloudcomputing.techtarget.com/definition/XaaS-anything-as-a-service)
@@ -81,7 +81,7 @@
     * [compose](https://www.compose.com/mongodb)
     * [Containers as a Service (CaaS)](http://searchitoperations.techtarget.com/definition/Containers-as-a-Service-CaaS)
 
-# Day 2
+# Day 2 [Website]
 
 * Intro to [Pinegrow](https://pinegrow.com)
     1. Create Page
@@ -150,3 +150,34 @@ ___
     * [Jquery](http://www.w3schools.com/jquery/)
 
 * [Animator Pinegrow Plugin](https://github.com/MhdAljuboori/AnimatorPinegrowPlugin)
+
+
+# Day 3 [Mobile App]
+
+* Intro to [CodeNameOne](https://www.codenameone.com)
+    1. How to install CN1 [Download](https://www.codenameone.com/download.html)
+    2. Creating a [hello world] project
+    3. Running the app 
+        * Simulator
+        * Android device
+    4. The Interface
+        * TODO
+
+___
+
+* Tutorials
+    * [Codapps](http://www.codapps.io)
+    * [Codename One 101](https://www.udemy.com/codenameone101/)
+    * [Learn Mobile Programming By Example With Codename One](https://www.udemy.com/learn-mobile-programming-by-example-with-codename-one/)
+    * [CODAPPS: Coding mobile apps for entrepreneurs](https://www.coursera.org/learn/codapps/)
+    * [Developer Guide ](https://www.codenameone.com/manual/)
+    * [HOW DO I?](https://www.codenameone.com/how-do-i.html)
+    * [VIDEOS](https://www.codenameone.com/videos.html)
+    * [javadoc](https://www.codenameone.com/javadoc/index.html)
+
+* [Demos](https://www.codenameone.com/demos.html)
+    * [KITCHEN SINK](https://www.codenameone.com/demos-KitchenSink.html)
+* [LIBRARIES](https://www.codenameone.com/cn1libs.html)
+* [GALLERY](https://www.codenameone.com/gallery.html)
+
+* [CodeNameOne Vs.](https://www.codenameone.com/compare.html)
