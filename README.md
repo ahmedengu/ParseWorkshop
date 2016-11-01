@@ -1,6 +1,6 @@
 #Parse Workshop
 
-[![Build Status](https://travis-ci.org/ahmedengu/ParseWorkshop.svg?branch=master)](https://travis-ci.org/ahmedengu/ParseWorkshop)
+[![Build Status](https://api.travis-ci.org/ahmedengu/ParseWorkshop.svg?branch=master)](https://travis-ci.org/ahmedengu/ParseWorkshop)
 
 * [Contribution](CONTRIBUTING.md)
 * [Demo](https://ahmedengu.github.io/ParseWorkshop/)
