@@ -1,5 +1,7 @@
 #ParseWorkshop [![Build Status](https://api.travis-ci.org/ahmedengu/ParseWorkshop.svg?branch=master)](https://travis-ci.org/ahmedengu/ParseWorkshop)
 
+[![Join the chat at https://gitter.im/ParseWorkshop/Lobby](https://badges.gitter.im/ParseWorkshop/Lobby.svg)](https://gitter.im/ParseWorkshop/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 * [Contribution](CONTRIBUTING.md)
 * [Demo](https://ahmedengu.github.io/ParseWorkshop/)
 * [Fackbook Event](https://www.facebook.com/events/1768807240073504/)
