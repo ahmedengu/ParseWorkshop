@@ -126,7 +126,7 @@
     3. Add Task
     4. Check/Uncheck
     5. Remove
-* Intro to [Back4App](https://back4app.com/)
+* Intro to [Back4App](https://www.back4app.com/)
     1. Create a project
     2. Configure parse
 * Integration {Website, Angular, Parse}
