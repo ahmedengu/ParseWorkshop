@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a2386cb0-09c7-4f49-8ff0-445ae91e9181" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="$PROJECT_DIR$/.travis.yml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="ParseWorkshop.iws" />
@@ -24,12 +23,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="28">
-                <caret line="19" column="76" selection-start-line="19" selection-start-column="76" selection-end-line="19" selection-end-column="76" />
+              <first_editor relative-caret-position="160">
+                <caret line="57" column="30" selection-start-line="57" selection-start-column="11" selection-end-line="57" selection-end-column="33" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -37,16 +36,6 @@
           </provider>
           <provider editor-type-id="MarkdownFxPreviewEditor">
             <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.travis.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
-              <folding />
-            </state>
           </provider>
         </entry>
       </file>
@@ -68,8 +57,8 @@
         <option value="$PROJECT_DIR$/TodoWebsite/todo.html" />
         <option value="$PROJECT_DIR$/TodoWebsite/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.travis.yml" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -1089,7 +1078,7 @@
       <workItem from="1477828873982" duration="12101000" />
       <workItem from="1477903275826" duration="362000" />
       <workItem from="1477907554248" duration="94000" />
-      <workItem from="1478016309449" duration="12691000" />
+      <workItem from="1478016309449" duration="14551000" />
     </task>
     <task id="LOCAL-00001" summary="-">
       <created>1477276703071</created>
@@ -1413,11 +1402,18 @@
       <option name="project" value="LOCAL" />
       <updated>1478042594657</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="___">
+      <created>1478043326505</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1478043326505</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59252000" />
+    <option name="totallyTimeSpent" value="61112000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -1503,7 +1499,6 @@
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="false" />
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Add Fork me" />
     <MESSAGE value="Https parse endpoint" />
     <MESSAGE value="hero login button" />
     <MESSAGE value="Animation" />
@@ -1528,7 +1523,8 @@
     <MESSAGE value="Markdown Cheatsheet" />
     <MESSAGE value="CI fixes" />
     <MESSAGE value="Podcast Player" />
-    <option name="LAST_COMMIT_MESSAGE" value="Podcast Player" />
+    <MESSAGE value="___" />
+    <option name="LAST_COMMIT_MESSAGE" value="___" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1994,11 +1990,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="28">
-            <caret line="19" column="76" selection-start-line="19" selection-start-column="76" selection-end-line="19" selection-end-column="76" />
+          <first_editor relative-caret-position="160">
+            <caret line="57" column="30" selection-start-line="57" selection-start-column="11" selection-end-line="57" selection-end-column="33" />
             <folding />
           </first_editor>
           <second_editor />
@@ -2006,14 +2010,6 @@
       </provider>
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.travis.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
-          <folding />
-        </state>
       </provider>
     </entry>
   </component>

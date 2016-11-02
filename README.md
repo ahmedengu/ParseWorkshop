@@ -48,14 +48,14 @@
     * [LoopBack](http://loopback.io/)
     * [Firebase](https://firebase.google.com)
 * [GIT](https://git-scm.com/)
-    * [Try Git](https://try.github.io)
+    * [Try Git](https://try.github.io/levels/1/challenges/1)
     * [SourceTree](https://www.sourcetreeapp.com)
     * [Github for students](https://education.github.com)
     * Fork & Star :)
 * [Javascript](https://en.wikipedia.org/wiki/JavaScript)
     * [JS by Derek Banas](https://www.youtube.com/playlist?list=PLBA965A22D89CF13B)
     * [W3School](http://www.w3schools.com/js/)
-* [NodeJS](https://nodejs.org/) [Wiki](https://en.wikipedia.org/wiki/Node.js)
+* [NodeJS](https://nodejs.org/en/) [Wiki](https://en.wikipedia.org/wiki/Node.js)
     * [Darek Banas](https://www.youtube.com/playlist?list=PLGLfVvz_LVvSpxyVx5XcprEgvhJ1BzruD)
     * [TutorialsPoint](http://www.tutorialspoint.com/nodejs/)
 * [NPM](https://www.npmjs.com) [Wiki](https://en.wikipedia.org/wiki/Npm_(software))
@@ -126,7 +126,7 @@
     3. Add Task
     4. Check/Uncheck
     5. Remove
-* Intro to [Back4App](http://back4app.com)
+* Intro to [Back4App](https://back4app.com/)
     1. Create a project
     2. Configure parse
 * Integration {Website, Angular, Parse}
