@@ -81,7 +81,7 @@
 * [Parse Security](http://parseplatform.github.io/docs/js/guide/#class-level-permissions)
 * [Cloud Code](http://parseplatform.github.io/docs/cloudcode/guide/)
 * [Parse In Production](https://github.com/ParsePlatform/parse-server#parse-server-sample-application)
-    * [Back4App](https://www.back4app.com)
+    * [Back4App](https://www.back4app.com/)
     * [Sashido](https://www.sashido.io)
     * [Jelastic](https://jelastic.cloud)
     * [Heroku](https://www.heroku.com/)
