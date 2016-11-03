@@ -188,3 +188,4 @@ ___
 
 * [CodeNameOne Vs.](https://www.codenameone.com/compare.html)
 * [CN1Apk2Install](https://github.com/ahmedengu/cn1apk2install)
+* [intel xdk](https://software.intel.com/en-us/intel-xdk)
