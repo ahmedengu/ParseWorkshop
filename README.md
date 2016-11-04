@@ -187,5 +187,6 @@ ___
 * [GALLERY](https://www.codenameone.com/gallery.html)
 
 * [CodeNameOne Vs.](https://www.codenameone.com/compare.html)
+   * [Intel XDK](https://software.intel.com/en-us/intel-xdk)
+   * [App Inventor](http://appinventor.mit.edu/explore/)
 * [CN1Apk2Install](https://github.com/ahmedengu/cn1apk2install)
-* [intel xdk](https://software.intel.com/en-us/intel-xdk)
